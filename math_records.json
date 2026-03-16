@@ -83,6 +83,29 @@
         }
       ],
       "current_difficulty": "Level 1"
+    },
+    "unit_2": {
+      "history": [
+        {
+          "question_id": "unit_2_q1",
+          "mastery": 0.96,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "unit_2_q2",
+          "mastery": 0.3,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "unit_2_q3",
+          "mastery": 0.93,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        }
+      ],
+      "current_difficulty": "Level 1"
     }
   },
   "records": [
@@ -356,6 +379,60 @@
       "weakness_focus": [],
       "student_answer_summary": "极值分析基本正确，并成功说明在三个区间各有一根（总计3个实根）。",
       "mastery": 0.86,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T01:00:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "unit_2_q1",
+      "correctness": 1.0,
+      "thinking_quality": 0.9,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "导数计算正确：2xe^x+x^2e^x+1/(1+x)。",
+      "mastery": 0.96,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T01:01:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "unit_2_q2",
+      "correctness": 0.2,
+      "thinking_quality": 0.45,
+      "missing_steps": [
+        "应由 2x+2yy'+y+xy'=0 得 y'=-(2x+y)/(x+2y)。"
+      ],
+      "error_tags": [
+        "隐函数求导公式错误"
+      ],
+      "weakness_focus": [
+        "隐函数求导"
+      ],
+      "student_answer_summary": "思路为整体对x求导正确，但化简分母错误，写成 x+y^2。",
+      "mastery": 0.3,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T01:02:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "unit_2_q3",
+      "correctness": 0.95,
+      "thinking_quality": 0.9,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "单调区间与极值点结论正确：x=-1处极大值2，x=1处极小值-2。",
+      "mastery": 0.93,
       "performance_level": "优秀",
       "difficulty_adjustment_suggestion": "up",
       "next_expected_difficulty": "Level 1"
