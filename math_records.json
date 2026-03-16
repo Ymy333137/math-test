@@ -103,9 +103,69 @@
           "mastery": 0.93,
           "performance_level": "优秀",
           "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0017",
+          "mastery": 0.43,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0018",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0019",
+          "mastery": 0.86,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0020",
+          "mastery": 0.94,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0021",
+          "mastery": 0.96,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0022",
+          "mastery": 0.14,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0023",
+          "mastery": 0.96,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0024",
+          "mastery": 0.63,
+          "performance_level": "合格",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0025",
+          "mastery": 0.1,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "Q0026",
+          "mastery": 0.86,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
         }
       ],
-      "current_difficulty": "Level 1"
+      "current_difficulty": "Level 3"
     }
   },
   "records": [
@@ -436,6 +496,200 @@
       "performance_level": "优秀",
       "difficulty_adjustment_suggestion": "up",
       "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T01:11:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0017",
+      "correctness": 0.35,
+      "thinking_quality": 0.55,
+      "missing_steps": [
+        "商法则计算需规范，正确结果应为 (x^2-2x-1)/(x-1)^2。"
+      ],
+      "error_tags": [
+        "求导运算错误"
+      ],
+      "weakness_focus": [
+        "商法则熟练度"
+      ],
+      "student_answer_summary": "结果式写错，存在幂次与系数混乱。",
+      "mastery": 0.43,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T01:12:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0018",
+      "correctness": 0.7,
+      "thinking_quality": 0.75,
+      "missing_steps": [
+        "乘积求导后第一项需保留 e^x 因子。"
+      ],
+      "error_tags": [
+        "复合乘积求导漏因子"
+      ],
+      "weakness_focus": [
+        "乘积求导完整性"
+      ],
+      "student_answer_summary": "思路正确，但第一项漏写 e^x。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T01:13:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0019",
+      "correctness": 0.9,
+      "thinking_quality": 0.8,
+      "missing_steps": [
+        "建议补充分母加括号：-(2x+y)/(x+2y)。"
+      ],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "基本正确，表达可更规范。",
+      "mastery": 0.86,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T01:14:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0020",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "参数方程一阶导计算正确。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-03-16T01:15:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0021",
+      "correctness": 1.0,
+      "thinking_quality": 0.9,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "洛必达两次后得到 -1/6，正确。",
+      "mastery": 0.96,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T01:16:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0022",
+      "correctness": 0.1,
+      "thinking_quality": 0.2,
+      "missing_steps": [
+        "需使用拉格朗日中值定理：对 f(t)=e^t 在 [0,x] 应用，得 e^x-e^0=f'(ξ)(x-0)。"
+      ],
+      "error_tags": [
+        "中值定理应用缺失"
+      ],
+      "weakness_focus": [
+        "拉格朗日中值定理"
+      ],
+      "student_answer_summary": "未形成有效证明。",
+      "mastery": 0.14,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T01:17:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0023",
+      "correctness": 1.0,
+      "thinking_quality": 0.9,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "单调区间与极值点、极值均正确。",
+      "mastery": 0.96,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T01:18:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0024",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按 f''(x)=12x(x-2) 判定：f''>0 为凸（或凹向上），f''<0 为凹（或凹向下）；需统一术语。"
+      ],
+      "error_tags": [
+        "凹凸性术语与符号对应混淆"
+      ],
+      "weakness_focus": [
+        "二阶导与凹凸对应关系"
+      ],
+      "student_answer_summary": "区间分界点找对，但凹凸术语对照不稳定。",
+      "mastery": 0.63,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T01:19:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0025",
+      "correctness": 0.0,
+      "thinking_quality": 0.25,
+      "missing_steps": [
+        "e^x=1+x+x^2/2+x^3/6+o(x^3)，故极限应为 1/6。"
+      ],
+      "error_tags": [
+        "泰勒系数错误"
+      ],
+      "weakness_focus": [
+        "泰勒展开系数记忆"
+      ],
+      "student_answer_summary": "你给出 1/3，结论错误。",
+      "mastery": 0.1,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T01:20:00Z",
+      "unit": "unit_2",
+      "difficulty_level": "Level 1",
+      "question_id": "Q0026",
+      "correctness": 0.9,
+      "thinking_quality": 0.8,
+      "missing_steps": [
+        "可补充极值值：x=-1 处局部最大值 -2；x=1 处局部最小值 2。"
+      ],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "单调区间判断正确，图像特征描述合理。",
+      "mastery": 0.86,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
     }
   ]
 }
