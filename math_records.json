@@ -1,0 +1,364 @@
+{
+  "version": "1.0",
+  "units": {
+    "unit_1": {
+      "history": [
+        {
+          "question_id": "unit_1_q1",
+          "mastery": 0.92,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "unit_1_q2",
+          "mastery": 0.96,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "unit_1_q3",
+          "mastery": 0.96,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "unit_1_q4",
+          "mastery": 0.91,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "unit_1_q5",
+          "mastery": 0.32,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q6",
+          "mastery": 0.91,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q7",
+          "mastery": 0.7,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q8",
+          "mastery": 0.83,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q9",
+          "mastery": 0.71,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q10",
+          "mastery": 0.36,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q11",
+          "mastery": 0.08,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q12",
+          "mastery": 0.37,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "unit_1_q13",
+          "mastery": 0.86,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        }
+      ],
+      "current_difficulty": "Level 1"
+    }
+  },
+  "records": [
+    {
+      "timestamp": "2026-03-16T00:00:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 1",
+      "question_id": "unit_1_q1",
+      "correctness": 1.0,
+      "thinking_quality": 0.8,
+      "missing_steps": [
+        "可补充说明为何需展开到三次：分母为x^3，需保证主导项匹配后极限有限。"
+      ],
+      "mastery": 0.92,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "error_tags": [
+        "表达不确定（泰勒系数判断不自信）"
+      ],
+      "weakness_focus": [
+        "泰勒展开系数熟练度"
+      ],
+      "student_answer_summary": "使用sinx在0点泰勒展开到三次，判断a=1，极限为-1/6，并据连续性取b=-1/6。",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T00:10:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 1",
+      "question_id": "unit_1_q2",
+      "correctness": 1.0,
+      "thinking_quality": 0.9,
+      "missing_steps": [
+        "可补充严格写法：由 e^x=1+x+x^2/2+o(x^2) 推出分子为 x^2/2+o(x^2)。"
+      ],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "使用等价无穷小，判断 e^x-1-x 与 x^2 同阶，结论为 1/2。",
+      "mastery": 0.96,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-03-16T00:11:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 1",
+      "question_id": "unit_1_q3",
+      "correctness": 1.0,
+      "thinking_quality": 0.9,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "将 (x^2-1)/(x-1) 化简为 x+1，x→1 得极限 2，因此 m=2。",
+      "mastery": 0.96,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:12:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 1",
+      "question_id": "unit_1_q4",
+      "correctness": 0.95,
+      "thinking_quality": 0.85,
+      "missing_steps": [
+        "可补充函数整体最小值信息：在区间 [-1,2] 上恒为 3，因此最小值为 3。"
+      ],
+      "error_tags": [
+        "表述笔误（将 x=-1 写成 x=1）"
+      ],
+      "weakness_focus": [
+        "结果表述严谨性"
+      ],
+      "student_answer_summary": "正确完成分段并判断在 x=2、x=-1 处连续，单调性为 (-∞,-1) 递减、(-1,2) 常值、(2,∞) 递增。",
+      "mastery": 0.91,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:20:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q5",
+      "correctness": 0.2,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "需要正确使用 ln(1+x) 的三阶展开并识别主项为 x^3/3。",
+        "连续性应取 c 等于该极限值。"
+      ],
+      "error_tags": [
+        "高阶无穷小比较方向错误",
+        "泰勒主项识别错误"
+      ],
+      "weakness_focus": [
+        "对分子分母同阶判断不稳",
+        "对ln(1+x)展开记忆需巩固"
+      ],
+      "student_answer_summary": "认为分子是x^2、分母是x^3故极限为0，并取c=0。",
+      "mastery": 0.32,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:21:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q6",
+      "correctness": 0.95,
+      "thinking_quality": 0.85,
+      "missing_steps": [
+        "建议补写开区间表达（x<-2, -2<x<1, x>1）与点值无关说明。"
+      ],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "分段结果为 -2/0/2，并正确判断 x=-2 与 x=1 为跳跃间断。",
+      "mastery": 0.91,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:22:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q7",
+      "correctness": 0.8,
+      "thinking_quality": 0.55,
+      "missing_steps": [
+        "可导性判定需完整写出 h'(0)=lim_{x→0} sin(1/x) 不存在，因此不可导。",
+        "需明确“卡点”是差商极限不存在而非不会求导公式。"
+      ],
+      "error_tags": [
+        "可导性论证不完整"
+      ],
+      "weakness_focus": [
+        "定义法判断可导性的表达完整度"
+      ],
+      "student_answer_summary": "判断连续正确；直觉认为不可导，但缺少差商极限不存在的完整论证。",
+      "mastery": 0.7,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:30:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q8",
+      "correctness": 0.85,
+      "thinking_quality": 0.8,
+      "missing_steps": [
+        "导数应写为 f'(x)=4x/(x^2+1)^2。"
+      ],
+      "error_tags": [
+        "导数书写不规范"
+      ],
+      "weakness_focus": [],
+      "student_answer_summary": "判断奇偶性正确，单调性结论正确，并识别x=0为极小值点。",
+      "mastery": 0.83,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:31:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q9",
+      "correctness": 0.75,
+      "thinking_quality": 0.65,
+      "missing_steps": [
+        "需明确 g∘h 的定义域由 h(x)>-1 给出为全体实数。",
+        "需明确 h∘g 的定义域为 x>-1。",
+        "可补充互为反函数的形式化定义（双向复合为恒等映射且定义域匹配）。"
+      ],
+      "error_tags": [
+        "复合函数定义域不熟练"
+      ],
+      "weakness_focus": [
+        "复合与反函数定义域"
+      ],
+      "student_answer_summary": "能得到 g(h(x))=x 与 h(g(x))=x，但对定义域与反函数定义表述不够确定。",
+      "mastery": 0.71,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:32:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q10",
+      "correctness": 0.3,
+      "thinking_quality": 0.45,
+      "missing_steps": [
+        "应先设 F(x,y)=x^2+xy+y^2-3，并验证 F_y(1,1)=3≠0 可局部表示 y(x)。",
+        "随后用隐函数求导公式 y'=-F_x/F_y，在(1,1)代入得 y'=-1。"
+      ],
+      "error_tags": [
+        "隐函数定理应用缺失",
+        "偏导与链式法则混淆"
+      ],
+      "weakness_focus": [
+        "隐函数求导"
+      ],
+      "student_answer_summary": "尝试了变形与求导，但未建立正确的隐函数求导框架。",
+      "mastery": 0.36,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-03-16T00:33:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q11",
+      "correctness": 0.0,
+      "thinking_quality": 0.2,
+      "missing_steps": [
+        "需使用经典极限： (1+2/n)^n=[(1+2/n)^{n/2}]^2 → e^2。"
+      ],
+      "error_tags": [
+        "第二重要极限遗忘"
+      ],
+      "weakness_focus": [
+        "数列极限基础"
+      ],
+      "student_answer_summary": "表示该知识点遗忘，未给出有效解答。",
+      "mastery": 0.08,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-03-16T00:34:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q12",
+      "correctness": 0.35,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "夹逼应写为 -|x|≤xσin(1/x)≤|x|，两端→0。"
+      ],
+      "error_tags": [
+        "夹逼定理使用不规范"
+      ],
+      "weakness_focus": [
+        "夹逼不等式构造"
+      ],
+      "student_answer_summary": "结论猜对为0，但不等式构造与论证不成立。",
+      "mastery": 0.37,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-03-16T00:35:00Z",
+      "unit": "unit_1",
+      "difficulty_level": "Level 3",
+      "question_id": "unit_1_q13",
+      "correctness": 0.9,
+      "thinking_quality": 0.8,
+      "missing_steps": [
+        "第二问可直接用介值定理：F(-2)=-1<0<F(-1)=3。"
+      ],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "极值分析基本正确，并成功说明在三个区间各有一根（总计3个实根）。",
+      "mastery": 0.86,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 1"
+    }
+  ]
+}
