@@ -378,6 +378,318 @@
           "mastery": 0.38,
           "performance_level": "不佳",
           "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-36",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-37",
+          "mastery": 0.7,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-38",
+          "mastery": 0.89,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-39",
+          "mastery": 0.73,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-40",
+          "mastery": 0.89,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-41",
+          "mastery": 0.89,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-42",
+          "mastery": 0.7,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-48",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-49",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-50",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-51",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-52",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-53",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-54",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-55",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-56",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-57",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-58",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-59",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-60",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-61",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-62",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-63",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-64",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-65",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-66",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-67",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-68",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-69",
+          "mastery": 0.72,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-70",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-71",
+          "mastery": 0.62,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-72",
+          "mastery": 0.36,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-73",
+          "mastery": 0.49,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-74",
+          "mastery": 0.5,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-75",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "800-76",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 1"
+        },
+        {
+          "question_id": "800-77",
+          "mastery": 0.42,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-78",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-79",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-80",
+          "mastery": 0.04,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-81",
+          "mastery": 0.04,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-82",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-83",
+          "mastery": 0.41,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-84",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-85",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 2"
+        },
+        {
+          "question_id": "800-86",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-87",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-88",
+          "mastery": 0.41,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-89",
+          "mastery": 0.7,
+          "performance_level": "合格",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-90",
+          "mastery": 0.59,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-91",
+          "mastery": 0.88,
+          "performance_level": "优秀",
+          "difficulty_level": "Level 3"
+        },
+        {
+          "question_id": "800-92",
+          "mastery": 0.45,
+          "performance_level": "不佳",
+          "difficulty_level": "Level 3"
         }
       ],
       "current_difficulty": "Level 3"
@@ -1594,6 +1906,1098 @@
       ],
       "student_answer_summary": "核心卡点是没有先判断替换后是否会与剩余项发生同阶抵消。",
       "mastery": 0.38,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:01:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-36",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "需区分极限值与点值无必然相等关系，并用局部保号性判断邻域不等式。"
+      ],
+      "error_tags": [
+        "局部保号性判定不熟"
+      ],
+      "weakness_focus": [
+        "局部保号性与函数值关系"
+      ],
+      "student_answer_summary": "第一遍错于局部保号性与点值关系，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:02:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-37",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.7,
+      "thinking_quality": 0.7,
+      "missing_steps": [
+        "幂函数/反三角/对数复合时需先检验定义域与值域条件。"
+      ],
+      "error_tags": [
+        "函数值域约束与复合极限条件遗漏"
+      ],
+      "weakness_focus": [
+        "复合函数有定义条件"
+      ],
+      "student_answer_summary": "第一遍错在A/B/D条件敏感度，第二遍改正。",
+      "mastery": 0.7,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:03:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-38",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.82,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.89,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:04:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-39",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.74,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "需先识别分子零点是否抵消分母奇异因子，再判有界性。"
+      ],
+      "error_tags": [
+        "先入为主按间断点套路误判"
+      ],
+      "weakness_focus": [
+        "有界性与可去零点识别"
+      ],
+      "student_answer_summary": "第一遍误判，第二遍顺畅做对。",
+      "mastery": 0.73,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:05:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-40",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.82,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.89,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:06:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-41",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.82,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.89,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:07:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-42",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.7,
+      "thinking_quality": 0.7,
+      "missing_steps": [
+        "对分段数列需分别考察奇偶子列极限是否一致。"
+      ],
+      "error_tags": [
+        "分段数列收敛判定失误"
+      ],
+      "weakness_focus": [
+        "奇偶子列极限判定"
+      ],
+      "student_answer_summary": "第一遍错，第二遍改正。",
+      "mastery": 0.7,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:08:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-48",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "需补 arcsin x 的展开并与 sin x 同阶比较。"
+      ],
+      "error_tags": [
+        "arcsin展开遗忘"
+      ],
+      "weakness_focus": [
+        "反三角函数泰勒展开"
+      ],
+      "student_answer_summary": "第一遍错于忘记arcsin展开，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:09:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-49",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:10:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-50",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "分母需按 ln^2(1+x) 的精确主项处理，不能直接拍成x^2。"
+      ],
+      "error_tags": [
+        "分母主项想当然"
+      ],
+      "weakness_focus": [
+        "对数与代数混合主项判断"
+      ],
+      "student_answer_summary": "第一遍错于分母主项想当然，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:11:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-51",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:12:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-52",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "复杂根式/三角组合优先考虑补1或构造同阶主项。"
+      ],
+      "error_tags": [
+        "补1降阶入口不敏感"
+      ],
+      "weakness_focus": [
+        "补项与结构化简"
+      ],
+      "student_answer_summary": "第一遍不会补1，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:13:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-53",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "遇到复合表达式先找补项切口。"
+      ],
+      "error_tags": [
+        "补1降阶入口不敏感"
+      ],
+      "weakness_focus": [
+        "补项与结构化简"
+      ],
+      "student_answer_summary": "与52同类错误，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:14:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-54",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:15:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-55",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:16:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-56",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "需熟练 ln 转换与 e 的标准型。"
+      ],
+      "error_tags": [
+        "(1+u)^{1/u} 型不熟"
+      ],
+      "weakness_focus": [
+        "指数型标准极限模板"
+      ],
+      "student_answer_summary": "第一遍模板不熟，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:17:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-57",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:18:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-58",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "需先判断有界因子对结果阶数的影响，再决定是否展开。"
+      ],
+      "error_tags": [
+        "忽视有界因子与展开入口"
+      ],
+      "weakness_focus": [
+        "无穷与有界乘积极限敏感度"
+      ],
+      "student_answer_summary": "第一遍错于arctan展开与有界因子敏感度不足，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:19:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-59",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:20:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-60",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "需利用补项/展开统一主项。"
+      ],
+      "error_tags": [
+        "补1入口不敏感"
+      ],
+      "weakness_focus": [
+        "立方根差与指数项配平"
+      ],
+      "student_answer_summary": "第一遍错，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:21:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-61",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:22:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-62",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:23:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-63",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "需熟练 tan(π/4-x) 与 cot x 的组合化简。"
+      ],
+      "error_tags": [
+        "非常规三角形式不熟"
+      ],
+      "weakness_focus": [
+        "三角恒等与指数极限联动"
+      ],
+      "student_answer_summary": "第一遍错，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:24:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-64",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:25:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-65",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:26:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-66",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "该类差分极限可优先用拉格朗日而非硬凑导数定义。"
+      ],
+      "error_tags": [
+        "方法选择偏离"
+      ],
+      "weakness_focus": [
+        "拉格朗日中值定理应用"
+      ],
+      "student_answer_summary": "第一遍没想到拉格朗日，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:27:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-67",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:28:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-68",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:29:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-69",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.72,
+      "missing_steps": [
+        "先提公因式再做极限，避免硬凑中值定理。"
+      ],
+      "error_tags": [
+        "提取公因式入口不敏感"
+      ],
+      "weakness_focus": [
+        "代数因式提取与降阶"
+      ],
+      "student_answer_summary": "第一遍错于没提公因式，第二遍改正。",
+      "mastery": 0.72,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:30:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-70",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:31:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-71",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.65,
+      "thinking_quality": 0.58,
+      "missing_steps": [
+        "洛必达时分子分母求导需同步且完整。"
+      ],
+      "error_tags": [
+        "洛必达求导细节错误"
+      ],
+      "weakness_focus": [
+        "洛必达计算规范性"
+      ],
+      "student_answer_summary": "计算错误导致失分。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:32:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-72",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.3,
+      "thinking_quality": 0.45,
+      "missing_steps": [
+        "先判标准型后再定洛必达次数，避免过早换序致乱。"
+      ],
+      "error_tags": [
+        "二重积分极限标准型识别不足"
+      ],
+      "weakness_focus": [
+        "二重积分与洛必达结合"
+      ],
+      "student_answer_summary": "对标准型识别慢且过程混乱，最后看答案。",
+      "mastery": 0.36,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:33:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-73",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.45,
+      "thinking_quality": 0.55,
+      "missing_steps": [
+        "拉格朗日引入中间变量后仍需对x求导。"
+      ],
+      "error_tags": [
+        "中间变量求导遗漏"
+      ],
+      "weakness_focus": [
+        "拉格朗日中值定理计算细节"
+      ],
+      "student_answer_summary": "第二遍仍因中间变量求导遗漏出错。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:34:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-74",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.45,
+      "thinking_quality": 0.58,
+      "missing_steps": [
+        "复合函数展开需逐层保留到目标阶，避免一步到位漏项。"
+      ],
+      "error_tags": [
+        "复合泰勒漏项"
+      ],
+      "weakness_focus": [
+        "泰勒展开保留项完整性"
+      ],
+      "student_answer_summary": "第一遍泰勒法漏项出错。",
+      "mastery": 0.5,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-04-02T00:35:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 1",
+      "question_id": "800-75",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 1"
+    },
+    {
+      "timestamp": "2026-04-02T00:36:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 1",
+      "question_id": "800-76",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:37:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-77",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.35,
+      "thinking_quality": 0.52,
+      "missing_steps": [
+        "此类可拆分为多项分别求极限，减少复杂度。"
+      ],
+      "error_tags": [
+        "拆项策略与等价替换犹豫导致误用洛必达"
+      ],
+      "weakness_focus": [
+        "分拆求极限策略"
+      ],
+      "student_answer_summary": "未拆项，且等价替换犹豫导致路线错误。",
+      "mastery": 0.42,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:38:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-78",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:39:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-79",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:40:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-80",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.0,
+      "thinking_quality": 0.1,
+      "missing_steps": [
+        "需补做积分上限为x^2的同阶比较模板。"
+      ],
+      "error_tags": [
+        "未作答"
+      ],
+      "weakness_focus": [
+        "积分型无穷小模板"
+      ],
+      "student_answer_summary": "本题未做。",
+      "mastery": 0.04,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:41:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-81",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.0,
+      "thinking_quality": 0.1,
+      "missing_steps": [
+        "需补做积分上限为sin^2x的同阶比较模板。"
+      ],
+      "error_tags": [
+        "未作答"
+      ],
+      "weakness_focus": [
+        "积分型无穷小模板"
+      ],
+      "student_answer_summary": "本题未做。",
+      "mastery": 0.04,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:42:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-82",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:43:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-83",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.35,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "乘共轭时分母结构需严格核对。"
+      ],
+      "error_tags": [
+        "共轭变形计算错误"
+      ],
+      "weakness_focus": [
+        "根式无穷远共轭技巧"
+      ],
+      "student_answer_summary": "第二遍思路对但分母乘错。",
+      "mastery": 0.41,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:44:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-84",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 2"
+    },
+    {
+      "timestamp": "2026-04-02T00:45:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 2",
+      "question_id": "800-85",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:46:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-86",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:47:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-87",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:48:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-88",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.35,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "先看x→0可否代入简化，再决定展开或洛必达。"
+      ],
+      "error_tags": [
+        "未先代入极限点导致无效计算"
+      ],
+      "weakness_focus": [
+        "先验代入与化简优先级"
+      ],
+      "student_answer_summary": "未先代入，产生大量无意义计算。",
+      "mastery": 0.41,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:49:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-89",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.72,
+      "thinking_quality": 0.68,
+      "missing_steps": [
+        "确定a后，需继续展开到下一阶提取常数极限b。"
+      ],
+      "error_tags": [
+        "b参数求值路径不熟"
+      ],
+      "weakness_focus": [
+        "幂函数渐近展开"
+      ],
+      "student_answer_summary": "a判断快，但b第一遍不会，第二遍改正。",
+      "mastery": 0.7,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:50:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-90",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.6,
+      "thinking_quality": 0.58,
+      "missing_steps": [
+        "处理 (b-2x)^c 时可先做中心点换元降低复杂度。"
+      ],
+      "error_tags": [
+        "未及时换元导致计算冗长"
+      ],
+      "weakness_focus": [
+        "等价无穷小换元技巧"
+      ],
+      "student_answer_summary": "未换元导致计算量暴增并出错。",
+      "mastery": 0.59,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:51:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-91",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.94,
+      "thinking_quality": 0.8,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "最终做对。",
+      "mastery": 0.88,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_difficulty": "Level 3"
+    },
+    {
+      "timestamp": "2026-04-02T00:52:00Z",
+      "unit": "workbook_800",
+      "difficulty_level": "Level 3",
+      "question_id": "800-92",
+      "source_label": "题册800",
+      "assessment_basis": "self_report",
+      "correctness": 0.4,
+      "thinking_quality": 0.52,
+      "missing_steps": [
+        "分子分母求导要同步，避免只盯积分项。"
+      ],
+      "error_tags": [
+        "洛必达求导对象遗漏"
+      ],
+      "weakness_focus": [
+        "含积分分母的洛必达规范"
+      ],
+      "student_answer_summary": "与71同类错误，本题分子漏求导。",
+      "mastery": 0.45,
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
       "next_expected_difficulty": "Level 3"
