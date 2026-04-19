@@ -782,8 +782,8 @@
         },
         {
           "question_id": "800-121",
-          "mastery": 0.89,
-          "performance_level": "优秀",
+          "mastery": 0.49,
+          "performance_level": "不佳",
           "difficulty_level": "Level 2"
         },
         {
@@ -3488,17 +3488,21 @@
       "question_id": "800-121",
       "source_label": "题册800",
       "assessment_basis": "self_report",
-      "correctness": 0.94,
-      "thinking_quality": 0.82,
+      "correctness": 0.45,
+      "thinking_quality": 0.55,
       "missing_steps": [
-        "对 cotx 记忆错误且分情况代值时误代成0，导致二次失误。"
+        "分情况讨论后在代值环节发生计算代入错误。"
       ],
-      "error_tags": [],
-      "weakness_focus": [],
-      "student_answer_summary": "对 cotx 记忆错误且分情况代值时误代成0，导致二次失误。",
-      "mastery": 0.89,
-      "performance_level": "优秀",
-      "difficulty_adjustment_suggestion": "up",
+      "error_tags": [
+        "计算错误"
+      ],
+      "weakness_focus": [
+        "分情况讨论后的代值稳定性"
+      ],
+      "student_answer_summary": "两遍都错，核心是分情况后代值计算错误（按A类）。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
       "next_expected_difficulty": "Level 2"
     },
     {
