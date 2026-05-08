@@ -1,0 +1,752 @@
+{
+  "version": "1.0",
+  "workbook": "workbook_660",
+  "source_label": "题册660",
+  "curriculum_unit": "unit_1",
+  "status": "active",
+  "recorded_range": "660-1..660-18",
+  "recorded_count": 18,
+  "history": [
+    {
+      "question_id": "660-1",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-2",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-3",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-4",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-5",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-6",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-7",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-8",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-9",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-10",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-11",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-12",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-13",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-14",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-15",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-16",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-17",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-18",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B"
+    }
+  ],
+  "records": [
+    {
+      "timestamp": "2026-05-08T00:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-1",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题未列为错题，记录为完成。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-05-08T00:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-2",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.45,
+      "thinking_quality": 0.55,
+      "missing_steps": [],
+      "error_tags": [
+        "A类：纯计算错误"
+      ],
+      "weakness_focus": [
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A类错误（纯计算错误）。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-3",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.6,
+      "thinking_quality": 0.65,
+      "missing_steps": [],
+      "error_tags": [
+        "B类：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "方法完整性与推进能力"
+      ],
+      "student_answer_summary": "按用户记录：B类错误（有思路但未完整写出）。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-4",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.6,
+      "thinking_quality": 0.65,
+      "missing_steps": [],
+      "error_tags": [
+        "B类：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "方法完整性与推进能力"
+      ],
+      "student_answer_summary": "按用户记录：B类错误（有思路但未完整写出）。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-5",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.45,
+      "thinking_quality": 0.55,
+      "missing_steps": [],
+      "error_tags": [
+        "A类：纯计算错误"
+      ],
+      "weakness_focus": [
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A类错误（纯计算错误）。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-6",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "方法入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C类错误（完全不知道如何下笔）。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-7",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.45,
+      "thinking_quality": 0.55,
+      "missing_steps": [],
+      "error_tags": [
+        "A类：纯计算错误"
+      ],
+      "weakness_focus": [
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A类错误（纯计算错误）。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-8",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.6,
+      "thinking_quality": 0.65,
+      "missing_steps": [],
+      "error_tags": [
+        "B类：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "方法完整性与推进能力"
+      ],
+      "student_answer_summary": "按用户记录：B类错误（有思路但未完整写出）。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-9",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题未列为错题，记录为完成。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-10",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.6,
+      "thinking_quality": 0.65,
+      "missing_steps": [],
+      "error_tags": [
+        "B类：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "方法完整性与推进能力"
+      ],
+      "student_answer_summary": "按用户记录：B类错误（有思路但未完整写出）。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-11",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "方法入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C类错误（完全不知道如何下笔）。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-05-08T00:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-12",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "方法入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C类错误（完全不知道如何下笔）。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-05-08T00:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-13",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "方法入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C类错误（完全不知道如何下笔）。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-05-08T00:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-14",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "方法入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C类错误（完全不知道如何下笔）。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-15",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "方法入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C类错误（完全不知道如何下笔）。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:16:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-16",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.6,
+      "thinking_quality": 0.65,
+      "missing_steps": [],
+      "error_tags": [
+        "B类：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "方法完整性与推进能力"
+      ],
+      "student_answer_summary": "按用户记录：B类错误（有思路但未完整写出）。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:17:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-17",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.6,
+      "thinking_quality": 0.65,
+      "missing_steps": [],
+      "error_tags": [
+        "B类：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "方法完整性与推进能力"
+      ],
+      "student_answer_summary": "按用户记录：B类错误（有思路但未完整写出）。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-08T00:18:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-18",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.6,
+      "thinking_quality": 0.65,
+      "missing_steps": [],
+      "error_tags": [
+        "B类：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "方法完整性与推进能力"
+      ],
+      "student_answer_summary": "按用户记录：B类错误（有思路但未完整写出）。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 110
+    }
+  ],
+  "maintenance_policy": "append_only_active"
+}
