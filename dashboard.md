@@ -110,3 +110,9 @@
 - 若用户用 `2A/8B` 形式提交，表示对应题号的 ABC 错题等级。
 - 660 题册若属于具体知识单元，记录中应同时保留题册来源（如 `unit=workbook_660`）与课程单元（如 `curriculum_unit=unit_1`）；对应 history 条目也需写入 `unit` 字段。
 - 660 题册不再使用 `difficulty_level` 字段；难度/目标层级统一由 `target_score_tier` 表示，单元状态使用 `current_target_score_tier`。
+
+## 15. 题册独立 record 文件规则
+- `math_records.json` 仅作为总索引与当前状态入口，不再承载所有题册逐题明细。
+- 每本题册使用独立 record 文件：例如 `800-record.json`、`660-record.json`。
+- 已弃用题册的 record 文件只读归档，不再修改；当前启用题册的 record 文件采用追加式记录。
+- 新题册启用时应新建对应 `{题册编号}-record.json`，避免不同题册记录互相制造合并冲突。
