@@ -165,7 +165,37 @@
       "error_level": "C",
       "last_reviewed_at": "2026-05-09",
       "next_due_at": "2026-05-14"
+    },
+    "660-10": {
+      "history": [
+        {
+          "reviewed_at": "2026-05-09T18:18:05",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-05-14"
+        }
+      ],
+      "interval_index": 2,
+      "error_level": "B",
+      "last_reviewed_at": "2026-05-09",
+      "next_due_at": "2026-05-14"
+    },
+    "660-8": {
+      "history": [
+        {
+          "reviewed_at": "2026-05-09T18:25:46",
+          "outcome": "wrong",
+          "error_level": "A",
+          "note": "分子ln部分展开不完全,漏项,粗暴等价",
+          "next_due_at": "2026-05-10"
+        }
+      ],
+      "interval_index": 0,
+      "error_level": "A",
+      "last_reviewed_at": "2026-05-09",
+      "next_due_at": "2026-05-10"
     }
   },
-  "updated_at": "2026-05-09T12:40:10"
+  "updated_at": "2026-05-09T18:26:26"
 }
