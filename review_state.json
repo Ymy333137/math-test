@@ -74,7 +74,22 @@
       "error_level": "B",
       "last_reviewed_at": "2026-05-09",
       "next_due_at": "2026-05-11"
+    },
+    "660-16": {
+      "history": [
+        {
+          "reviewed_at": "2026-05-09T12:03:28",
+          "outcome": "wrong",
+          "error_level": "A",
+          "note": "",
+          "next_due_at": "2026-05-10"
+        }
+      ],
+      "interval_index": 0,
+      "error_level": "A",
+      "last_reviewed_at": "2026-05-09",
+      "next_due_at": "2026-05-10"
     }
   },
-  "updated_at": "2026-05-09T11:53:48"
+  "updated_at": "2026-05-09T12:03:28"
 }
