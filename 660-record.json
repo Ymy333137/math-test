@@ -2,17 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-<<<<<<< work
   "curriculum_unit": "unit_3",
   "status": "active",
   "recorded_range": "660-1..660-42",
   "recorded_count": 42,
-=======
-  "curriculum_unit": "unit_2",
-  "status": "active",
-  "recorded_range": "660-1..660-41",
-  "recorded_count": 41,
->>>>>>> main
   "history": [
     {
       "question_id": "660-1",
@@ -260,11 +253,7 @@
       "question_id": "660-20",
       "mastery": 0.28,
       "performance_level": "不佳",
-<<<<<<< work
-      "unit": "unit_1",
-=======
       "unit": "unit_2",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -277,11 +266,7 @@
       "question_id": "660-21",
       "mastery": 0.28,
       "performance_level": "不佳",
-<<<<<<< work
-      "unit": "unit_1",
-=======
       "unit": "unit_2",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -294,11 +279,7 @@
       "question_id": "660-22",
       "mastery": 0.28,
       "performance_level": "不佳",
-<<<<<<< work
-      "unit": "unit_1",
-=======
       "unit": "unit_2",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -311,11 +292,7 @@
       "question_id": "660-23",
       "mastery": 0.49,
       "performance_level": "不佳",
-<<<<<<< work
-      "unit": "unit_1",
-=======
       "unit": "unit_2",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -328,11 +305,7 @@
       "question_id": "660-24",
       "mastery": 0.94,
       "performance_level": "优秀",
-<<<<<<< work
-      "unit": "unit_1",
-=======
       "unit": "unit_2",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -345,11 +318,7 @@
       "question_id": "660-25",
       "mastery": 0.28,
       "performance_level": "不佳",
-<<<<<<< work
-      "unit": "unit_1",
-=======
       "unit": "unit_2",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -362,11 +331,7 @@
       "question_id": "660-26",
       "mastery": 0.28,
       "performance_level": "不佳",
-<<<<<<< work
-      "unit": "unit_1",
-=======
       "unit": "unit_2",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -528,11 +493,7 @@
       "question_id": "660-39",
       "mastery": 0.49,
       "performance_level": "不佳",
-<<<<<<< work
-      "unit": "unit_2",
-=======
       "unit": "unit_3",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -545,11 +506,7 @@
       "question_id": "660-40",
       "mastery": 0.94,
       "performance_level": "优秀",
-<<<<<<< work
-      "unit": "unit_2",
-=======
       "unit": "unit_3",
->>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -562,8 +519,7 @@
       "question_id": "660-41",
       "mastery": 0.62,
       "performance_level": "合格",
-<<<<<<< work
-      "unit": "unit_2",
+      "unit": "unit_3",
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -576,8 +532,6 @@
       "question_id": "660-42",
       "mastery": 0.9,
       "performance_level": "优秀",
-=======
->>>>>>> main
       "unit": "unit_3",
       "target_score_tier": 90,
       "required_for_scores": [
@@ -585,11 +539,7 @@
         110,
         135
       ],
-<<<<<<< work
       "error_level": null
-=======
-      "error_level": "B"
->>>>>>> main
     }
   ],
   "records": [
@@ -1804,7 +1754,6 @@
       "performance_level": "合格",
       "difficulty_adjustment_suggestion": "keep",
       "next_expected_target_score_tier": 90
-<<<<<<< work
     },
     {
       "timestamp": "2026-05-13T00:16:00Z",
@@ -1839,8 +1788,6 @@
       "performance_level": "优秀",
       "difficulty_adjustment_suggestion": "up",
       "next_expected_target_score_tier": 90
-=======
->>>>>>> main
     }
   ],
   "maintenance_policy": "append_only_active"
