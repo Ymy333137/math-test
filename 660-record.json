@@ -2,7 +2,7 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_2",
+  "curriculum_unit": "unit_3",
   "status": "active",
   "recorded_range": "660-1..660-42",
   "recorded_count": 42,
@@ -532,7 +532,7 @@
       "question_id": "660-42",
       "mastery": 0.9,
       "performance_level": "优秀",
-      "unit": "unit_2",
+      "unit": "unit_3",
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -1758,7 +1758,7 @@
     {
       "timestamp": "2026-05-13T00:16:00Z",
       "unit": "workbook_660",
-      "curriculum_unit": "unit_2",
+      "curriculum_unit": "unit_3",
       "question_id": "660-42",
       "source_label": "题册660",
       "assessment_basis": "self_report",
@@ -1773,7 +1773,7 @@
       "correctness": 1.0,
       "thinking_quality": 0.75,
       "missing_steps": [
-        "起初忘记对 y 求导后还要乘以 y 对 x 的导数，但最终答案正确。"
+        "起初忘记对 y 求导后还要乘以 y 对 x 的导数，但最终自纠且答案正确。"
       ],
       "error_tags": [
         "过程瑕疵：链式求导因子起初遗漏后自纠"
