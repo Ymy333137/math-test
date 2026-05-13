@@ -25,8 +25,8 @@
     "workbook_660": {
       "status": "active",
       "curriculum_unit": "unit_2",
-      "recorded_range": "660-1..660-41",
-      "recorded_count": 41,
+      "recorded_range": "660-1..660-42",
+      "recorded_count": 42,
       "current_target_score_tier": 90,
       "history": [],
       "record_file": "660-record.json"
