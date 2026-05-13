@@ -2,10 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_1",
+  "curriculum_unit": "unit_2",
   "status": "active",
-  "recorded_range": "660-1..660-26",
-  "recorded_count": 26,
+  "recorded_range": "660-1..660-41",
+  "recorded_count": 41,
   "history": [
     {
       "question_id": "660-1",
@@ -339,6 +339,194 @@
         135
       ],
       "error_level": "C"
+    },
+    {
+      "question_id": "660-27",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-28",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-29",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-30",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-31",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-32",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-33",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-34",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-35",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-36",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-37",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-38",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-39",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-40",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-41",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
     }
   ],
   "records": [
@@ -1097,6 +1285,461 @@
       "mastery": 0.28,
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-27",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题未列为错题，记录为完成。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-28",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "代数计算准确性",
+        "相切条件联立"
+      ],
+      "student_answer_summary": "计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-29",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题未列为错题，记录为完成。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-30",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "初见杀，没有反应出来可以把 f(a+h) 展开成泰勒展开然后就可以做了。"
+      ],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "泰勒展开入口识别",
+        "二阶导数定义极限"
+      ],
+      "student_answer_summary": "初见杀，没有反应出来可以把 f(a+h) 展开成泰勒展开然后就可以做了。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-31",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "由导数定义式怎么利用，或者复杂一点的导数定义式无法写出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "导数定义变形",
+        "复合增量识别"
+      ],
+      "student_answer_summary": "由导数定义式怎么利用，或者复杂一点的导数定义式无法写出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-32",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "看见式子复杂了就产生畏难然后无法下手；实际上应把趋于无穷的 n 全部换成趋于 0 的 x，这样更熟悉也更好做。"
+      ],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "数列极限变量代换",
+        "指数型极限",
+        "畏难情绪管理"
+      ],
+      "student_answer_summary": "看见式子复杂了就产生畏难然后无法下手；实际上应把趋于无穷的 n 全部换成趋于 0 的 x，这样更熟悉也更好做。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-33",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "正常做难，但跳出题目思维来说不难：题目要求有界，导函数自然只能趋于 0，否则不成立。"
+      ],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "有界性约束",
+        "导函数极限反证思维"
+      ],
+      "student_answer_summary": "正常做难，但跳出题目思维来说不难：题目要求有界，导函数自然只能趋于 0，否则不成立。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-34",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "一开始可以正向从式子凑出所求项，实则应该从所求大胆做洛必达，最后的式子非常简单就是 y'。"
+      ],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "隐函数极限",
+        "洛必达入口识别"
+      ],
+      "student_answer_summary": "一开始可以正向从式子凑出所求项，实则应该从所求大胆做洛必达，最后的式子非常简单就是 y'。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-35",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "处理分母的 1/6 时错误地两边同乘 6，应该是两边同除 6。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "等价无穷小系数处理",
+        "代数变形准确性"
+      ],
+      "student_answer_summary": "处理分母的 1/6 时错误地两边同乘 6，应该是两边同除 6。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-36",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "切线方程求解不熟练。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "切线方程",
+        "导数几何意义"
+      ],
+      "student_answer_summary": "切线方程求解不熟练。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-37",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "基础的求切线会，但是卡在了点斜式要怎么写。"
+      ],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "点斜式表达",
+        "切线方程书写"
+      ],
+      "student_answer_summary": "基础的求切线会，但是卡在了点斜式要怎么写。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-38",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "曲率圆方程圆心坐标不会求，曲率圆方程也不会求，等式右边 r 应该是 r 平方。"
+      ],
+      "error_tags": [
+        "C类：完全不知道如何下笔"
+      ],
+      "weakness_focus": [
+        "曲率圆",
+        "圆心坐标",
+        "圆方程标准式"
+      ],
+      "student_answer_summary": "曲率圆方程圆心坐标不会求，曲率圆方程也不会求，等式右边 r 应该是 r 平方。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-39",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "计算二阶导的时候计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "二阶导计算",
+        "函数性态分析"
+      ],
+      "student_answer_summary": "计算二阶导的时候计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-40",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题未列为错题，记录为完成。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-13T00:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-41",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "基本求出来了，但是在多项式计算中出错；应该说是不知道怎么做长除法。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "隐函数极值",
+        "多项式长除法",
+        "代数计算"
+      ],
+      "student_answer_summary": "基本求出来了，但是在多项式计算中出错；应该说是不知道怎么做长除法。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
       "next_expected_target_score_tier": 90
     }
   ],
