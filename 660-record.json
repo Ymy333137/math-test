@@ -2,10 +2,17 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
+<<<<<<< work
+  "curriculum_unit": "unit_3",
+  "status": "active",
+  "recorded_range": "660-1..660-42",
+  "recorded_count": 42,
+=======
   "curriculum_unit": "unit_2",
   "status": "active",
   "recorded_range": "660-1..660-41",
   "recorded_count": 41,
+>>>>>>> main
   "history": [
     {
       "question_id": "660-1",
@@ -253,7 +260,11 @@
       "question_id": "660-20",
       "mastery": 0.28,
       "performance_level": "不佳",
+<<<<<<< work
+      "unit": "unit_1",
+=======
       "unit": "unit_2",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -266,7 +277,11 @@
       "question_id": "660-21",
       "mastery": 0.28,
       "performance_level": "不佳",
+<<<<<<< work
+      "unit": "unit_1",
+=======
       "unit": "unit_2",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -279,7 +294,11 @@
       "question_id": "660-22",
       "mastery": 0.28,
       "performance_level": "不佳",
+<<<<<<< work
+      "unit": "unit_1",
+=======
       "unit": "unit_2",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -292,7 +311,11 @@
       "question_id": "660-23",
       "mastery": 0.49,
       "performance_level": "不佳",
+<<<<<<< work
+      "unit": "unit_1",
+=======
       "unit": "unit_2",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -305,7 +328,11 @@
       "question_id": "660-24",
       "mastery": 0.94,
       "performance_level": "优秀",
+<<<<<<< work
+      "unit": "unit_1",
+=======
       "unit": "unit_2",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -318,7 +345,11 @@
       "question_id": "660-25",
       "mastery": 0.28,
       "performance_level": "不佳",
+<<<<<<< work
+      "unit": "unit_1",
+=======
       "unit": "unit_2",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -331,7 +362,11 @@
       "question_id": "660-26",
       "mastery": 0.28,
       "performance_level": "不佳",
+<<<<<<< work
+      "unit": "unit_1",
+=======
       "unit": "unit_2",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -493,7 +528,11 @@
       "question_id": "660-39",
       "mastery": 0.49,
       "performance_level": "不佳",
+<<<<<<< work
+      "unit": "unit_2",
+=======
       "unit": "unit_3",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -506,7 +545,11 @@
       "question_id": "660-40",
       "mastery": 0.94,
       "performance_level": "优秀",
+<<<<<<< work
+      "unit": "unit_2",
+=======
       "unit": "unit_3",
+>>>>>>> main
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -519,7 +562,8 @@
       "question_id": "660-41",
       "mastery": 0.62,
       "performance_level": "合格",
-      "unit": "unit_3",
+<<<<<<< work
+      "unit": "unit_2",
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -527,6 +571,25 @@
         135
       ],
       "error_level": "B"
+    },
+    {
+      "question_id": "660-42",
+      "mastery": 0.9,
+      "performance_level": "优秀",
+=======
+>>>>>>> main
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+<<<<<<< work
+      "error_level": null
+=======
+      "error_level": "B"
+>>>>>>> main
     }
   ],
   "records": [
@@ -1741,6 +1804,43 @@
       "performance_level": "合格",
       "difficulty_adjustment_suggestion": "keep",
       "next_expected_target_score_tier": 90
+<<<<<<< work
+    },
+    {
+      "timestamp": "2026-05-13T00:16:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-42",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 42.\n设 \\(y=y(x)\\) 二阶可导，且 \\(\\dfrac{dy}{dx}=(4-y)y^{\\beta}\\,(\\beta>0)\\)，若 \\(y=y(x)\\) 的一个拐点是 \\((x_0,3)\\)，则 \\(\\beta=\\underline{\\quad\\quad}\\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.75,
+      "missing_steps": [
+        "起初忘记对 y 求导后还要乘以 y 对 x 的导数，但最终自纠且答案正确。"
+      ],
+      "error_tags": [
+        "过程瑕疵：链式求导因子起初遗漏后自纠"
+      ],
+      "weakness_focus": [
+        "隐函数求导链式法则",
+        "二阶导与拐点条件"
+      ],
+      "student_answer_summary": "做对；一开始忘了 y 求导后要乘以 y 对 x 的导数，不过最后答案一样。",
+      "expected_answer": "\\beta=3",
+      "mastery": 0.9,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+=======
+>>>>>>> main
     }
   ],
   "maintenance_policy": "append_only_active"
