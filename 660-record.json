@@ -2,10 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_3",
+  "curriculum_unit": "unit_4",
   "status": "active",
-  "recorded_range": "660-1..660-42",
-  "recorded_count": 42,
+  "recorded_range": "660-1..660-48",
+  "recorded_count": 48,
   "history": [
     {
       "question_id": "660-1",
@@ -540,6 +540,82 @@
         135
       ],
       "error_level": null
+    },
+    {
+      "question_id": "660-43",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-44",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-45",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-46",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-47",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-48",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
     }
   ],
   "records": [
@@ -1788,6 +1864,194 @@
       "performance_level": "优秀",
       "difficulty_adjustment_suggestion": "up",
       "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-17T00:43:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-43",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 43.\n\\( I = \\int \\frac{\\sqrt{x+1}+2}{(x+1)^2 - \\sqrt{x+1}} \\, dx = \\underline{\\quad\\quad} \\)",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "忘记立方差公式，且计算时漏项。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "立方差公式",
+        "根式换元",
+        "有理式积分",
+        "计算完整性"
+      ],
+      "student_answer_summary": "忘记立方差公式，且计算时漏项。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-17T00:44:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-44",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 44.\n设\\( f(x) = \\begin{cases} \\sin x + 1, & x > 0 \\\\ \\frac{1}{1+x^2}, & x \\leq 0 \\end{cases} \\)，则\\( f(x) \\)的所有原函数为\\( \\underline{\\quad\\quad} \\)",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-17T00:45:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-45",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 45.\n不定积分\\( \\int \\max\\{1, x^2\\} \\, dx = \\underline{\\quad\\quad} \\)",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-17T00:46:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-46",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 46.\n设常数\\( a > 0 \\)，则\\( \\int \\arcsin\\sqrt{\\frac{x}{x+a}} \\, dx = \\underline{\\quad\\quad} \\)",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "不知道如何处理该积分，缺少入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "反三角函数积分",
+        "含参根式换元",
+        "分部积分入口识别"
+      ],
+      "student_answer_summary": "不知道如何处理该积分，缺少入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-17T00:47:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-47",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 47.\n\\( \\int e^{-2x} \\arctan e^x \\, dx = \\underline{\\quad\\quad} \\)",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "同乘处理时出错。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "指数换元",
+        "分部积分",
+        "代数同乘变形",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "同乘处理时出错。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-17T00:48:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-48",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 48.\n\\( f(x) = \\frac{1}{1+\\sin^2 x}, x \\in [0, \\pi] \\)，则\\( f(x) \\)在\\( [0, \\pi] \\)上的全体原函数是\\( \\underline{\\quad\\quad} \\)",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "完全无从下手。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "区间上的全体原函数",
+        "三角函数积分",
+        "原函数连续性与分段表达"
+      ],
+      "student_answer_summary": "完全无从下手。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
     }
   ],
   "maintenance_policy": "append_only_active"
