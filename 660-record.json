@@ -4,8 +4,8 @@
   "source_label": "题册660",
   "curriculum_unit": "unit_4",
   "status": "active",
-  "recorded_range": "660-1..660-48",
-  "recorded_count": 48,
+  "recorded_range": "660-1..660-54",
+  "recorded_count": 54,
   "history": [
     {
       "question_id": "660-1",
@@ -616,6 +616,82 @@
         135
       ],
       "error_level": "C"
+    },
+    {
+      "question_id": "660-49",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-50",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-51",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-52",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-53",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-54",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
     }
   ],
   "records": [
@@ -632,7 +708,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -860,7 +936,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -1301,7 +1377,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -1390,7 +1466,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -1447,7 +1523,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -1787,7 +1863,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -1846,7 +1922,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.75,
       "missing_steps": [
         "起初忘记对 y 求导后还要乘以 y 对 x 的导数，但最终自纠且答案正确。"
@@ -1915,7 +1991,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -1941,7 +2017,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -2052,6 +2128,200 @@
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
       "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-05-20T00:49:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-49",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 49.\n若不定积分\\( \\int \\frac{x^2 + ax + 2}{(x + 1)(x^2 + 1)} \\, dx \\)的结果中不含反正切函数，则\\( a = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "有理函数积分",
+        "待定系数分解",
+        "反正切项消去条件"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-05-20T00:50:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-50",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 50.\n\\( I = \\int \\frac{dx}{\\sqrt{(x - a)(b - x)}} \\, (a < x < b) = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "含参根式积分",
+        "三角换元",
+        "区间条件识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-20T00:51:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-51",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 51.\n不定积分\\( I = \\int \\frac{x + 2}{x^2 + 2x + 2} \\, dx = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-20T00:52:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-52",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 52.\n\\( \\int \\frac{x^2 - x + 1}{x(x - 1)^2} \\ln x \\, dx = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "含对数有理函数积分",
+        "分部积分",
+        "部分分式分解"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-20T00:53:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-53",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 53.\n\\( I_1 = \\int \\cos^4 x \\, dx = \\underline{\\quad\\quad} \\)，\\( I_2 = \\int \\sin^4 x \\, dx = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "三角恒等变形",
+        "降幂公式",
+        "三角函数积分"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-05-20T00:54:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-54",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 54.\n设\\( F(x) \\)为\\( f(x) \\)的一个原函数，且当\\( x \\geq 0 \\)时\\( f(x)F(x) = \\frac{xe^x}{2(1 + x)^2} \\)，已知\\( F(0) = 1 \\)且\\( F(x) > 0 \\)，则\\( F(x) = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "原函数关系转微分方程",
+        "变量分离",
+        "初值条件"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
     }
   ],
   "maintenance_policy": "append_only_active"
