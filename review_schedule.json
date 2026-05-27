@@ -6,24 +6,19 @@
     "key_format": "book_id:question_id"
   },
   "buckets": {
-    "2026-05-27": [
-      "workbook_660:660-26",
-      "workbook_660:660-43",
-      "workbook_660:660-46",
-      "workbook_660:660-53",
-      "workbook_660:660-61"
-    ],
     "2026-05-28": [
       "workbook_660:660-3",
       "workbook_660:660-7",
       "workbook_660:660-23",
+      "workbook_660:660-26",
       "workbook_660:660-31",
       "workbook_660:660-34",
       "workbook_660:660-37",
       "workbook_660:660-47",
       "workbook_660:660-57",
       "workbook_660:660-58",
-      "workbook_660:660-60"
+      "workbook_660:660-60",
+      "workbook_660:660-61"
     ],
     "2026-05-29": [
       "workbook_660:660-2",
@@ -34,6 +29,9 @@
       "workbook_660:660-56",
       "workbook_660:660-59",
       "workbook_660:660-62"
+    ],
+    "2026-05-30": [
+      "workbook_660:660-53"
     ],
     "2026-05-31": [
       "workbook_660:660-36",
@@ -58,13 +56,17 @@
       "workbook_660:660-13",
       "workbook_660:660-50"
     ],
+    "2026-06-06": [
+      "workbook_660:660-43"
+    ],
     "2026-06-07": [
       "workbook_660:660-20",
       "workbook_660:660-49"
     ],
     "2026-06-08": [
       "workbook_660:660-21",
-      "workbook_660:660-22"
+      "workbook_660:660-22",
+      "workbook_660:660-46"
     ],
     "2026-06-09": [
       "workbook_660:660-30",
@@ -86,7 +88,7 @@
       "workbook_660:660-10"
     ]
   },
-  "updated_at": "2026-05-26T10:14:44",
+  "updated_at": "2026-05-27T09:30:31",
   "daily_plans": {
     "2026-05-14": [
       "workbook_660:660-3",
@@ -231,6 +233,13 @@
       "workbook_660:660-52",
       "workbook_660:660-53",
       "workbook_660:660-60"
+    ],
+    "2026-05-27": [
+      "workbook_660:660-26",
+      "workbook_660:660-43",
+      "workbook_660:660-46",
+      "workbook_660:660-53",
+      "workbook_660:660-61"
     ]
   }
 }
