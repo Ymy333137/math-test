@@ -26,7 +26,6 @@
       "unit": "unit_1",
       "target_score_tier": 90,
       "required_for_scores": [
-        90,
         110,
         135
       ],
