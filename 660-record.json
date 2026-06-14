@@ -2,10 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_6",
+  "curriculum_unit": "unit_7",
   "status": "active",
-  "recorded_range": "660-1..660-78",
-  "recorded_count": 78,
+  "recorded_range": "660-1..660-78, 660-81..660-93",
+  "recorded_count": 91,
   "history": [
     {
       "question_id": "660-1",
@@ -1002,6 +1002,173 @@
         135
       ],
       "error_level": "C"
+    },
+    {
+      "question_id": "660-81",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-82",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-83",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-84",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-85",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-86",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-87",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-88",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-89",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-90",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-91",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-92",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-93",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
     }
   ],
   "records": [
@@ -3404,6 +3571,427 @@
       "mastery": 0.28,
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-81",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 81.\n若通过点\\((1,0)\\)的曲线\\( y = y(x) \\)上每一点\\((x,y)\\)处切线的斜率等于\\( 1 + \\frac{y}{x} + \\left( \\frac{y}{x} \\right)^2 \\)，则此曲线的方程是\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "没见过这种题型不会，尝试后卡住。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "一阶微分方程",
+        "齐次方程换元",
+        "题型识别"
+      ],
+      "student_answer_summary": "没见过这种题型不会，尝试后卡住。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-82",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 82.\n当\\( y > 0 \\)时，微分方程\\( (x - 2xy - y^2)dy + y^2 dx = 0 \\)的通解为\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "一阶微分方程",
+        "变量替换",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-83",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 83.\n方程\\( y' = 1 + x + y^2 + xy^2 \\)的通解为\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-14T02:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-84",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 84.\n方程\\( (y + \\sqrt{x^2 + y^2})dx - x dy = 0 \\)满足条件\\( y(1) = 0 \\)的特解为\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "一阶微分方程",
+        "齐次方程",
+        "初值条件",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-85",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 85.\n方程\\( xy' + 2y = \\sin x \\)满足条件\\( y\\big|_{x=\\pi} = \\frac{1}{\\pi} \\)的特解为\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "一阶线性微分方程",
+        "初值条件",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-86",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 86.\n微分方程\\( \\frac{dy}{dx} = \\frac{y}{x + y^4 \\ln y} \\)的通解是\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "微分方程变量转换",
+        "伯努利型结构",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-87",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 87.\n方程\\( y'' + y' - 2y = (6x + 2)e^x \\)满足\\( y(0) = 3 \\)，\\( y'(0) = 0 \\)的特解\\( y = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "二阶常系数非齐次微分方程",
+        "特解设定",
+        "初值条件"
+      ],
+      "student_answer_summary": "按用户记录：C级无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-88",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 88.\n设\\( y = y(x) \\)是二阶常系数线性微分方程\\( y'' + 2my' + n^2 y = 0 \\)满足\\( y(0) = a \\)与\\( y'(0) = b \\)的特解，其中\\( m > n > 0 \\)，则\\( \\int_0^{+\\infty} y(x) dx = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "没见过这种题型不会，尝试后卡住。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "二阶常系数线性微分方程",
+        "特解性质",
+        "反常积分",
+        "题型识别"
+      ],
+      "student_answer_summary": "没见过这种题型不会，尝试后卡住。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-14T02:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-89",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 89.\n已知\\( y_1 = x e^x + e^{2x} \\)，\\( y_2 = x e^x + e^{-x} \\)，\\( y_3 = x e^x + e^{2x} - e^{-x} \\)是某二阶线性非齐次微分方程的三个解，则此微分方程为\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "没见过这种题型不会，尝试后卡住。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "二阶线性非齐次微分方程",
+        "解结构",
+        "齐次解反推",
+        "题型识别"
+      ],
+      "student_answer_summary": "没见过这种题型不会，尝试后卡住。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-90",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 90.\n若二阶常系数线性齐次微分方程\\( y'' + a y' + b y = 0 \\)的通解为\\( y = (C_1 + C_2 x)e^x \\)，则非齐次方程\\( y'' + a y' + b y = x \\)满足条件\\( y(0) = 2 \\)，\\( y'(0) = 0 \\)的解为\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "没见过这种题型不会，尝试后卡住。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "二阶常系数非齐次微分方程",
+        "重根结构",
+        "初值条件",
+        "题型识别"
+      ],
+      "student_answer_summary": "没见过这种题型不会，尝试后卡住。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-91",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 91.\n已知\\( y_1 = \\cos 2x - \\frac{1}{4}x\\cos 2x \\)，\\( y_2 = \\sin 2x - \\frac{1}{4}x\\cos 2x \\)是某二阶线性常系数非齐次微分方程的两个解，\\( y_3 = \\cos 2x \\)是它所对应的齐次方程的一个解，则该微分方程是\\(\\underline{\\quad\\quad}\\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "没见过这种题型不会，尝试后卡住。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "二阶线性非齐次微分方程",
+        "解结构",
+        "齐次方程反推",
+        "题型识别"
+      ],
+      "student_answer_summary": "没见过这种题型不会，尝试后卡住。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-92",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 92.\n方程\\( y''' - y' = 0 \\)满足条件\\( y\\big|_{x=0} = 3 \\)，\\( y'\\big|_{x=0} = -1 \\)，\\( y''\\big|_{x=0} = 1 \\)的特解为\\(\\underline{\\quad\\quad}\\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-14T02:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-93",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 93.\n设微分方程\\((1 + x^2)y' - 2xy = x\\)满足\\(y(0) = 1\\)的特解是\\(y^*(x)\\)，则\\(\\int_0^1 y^{''}(x) dx = \\underline{\\quad\\quad}\\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
       "next_expected_target_score_tier": 90
     }
   ],

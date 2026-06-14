@@ -6,24 +6,25 @@
     "key_format": "book_id:question_id"
   },
   "buckets": {
-    "2026-06-14": [
-      "workbook_660:660-5",
-      "workbook_660:660-17",
-      "workbook_660:660-18",
-      "workbook_660:660-47",
-      "workbook_660:660-54",
-      "workbook_660:660-62",
-      "workbook_660:660-66",
-      "workbook_660:660-74"
-    ],
     "2026-06-15": [
+      "workbook_660:660-18",
       "workbook_660:660-50",
       "workbook_660:660-56",
       "workbook_660:660-67",
       "workbook_660:660-68",
       "workbook_660:660-70",
       "workbook_660:660-75",
-      "workbook_660:660-77"
+      "workbook_660:660-77",
+      "workbook_660:660-81",
+      "workbook_660:660-82",
+      "workbook_660:660-84",
+      "workbook_660:660-85",
+      "workbook_660:660-86",
+      "workbook_660:660-87",
+      "workbook_660:660-88",
+      "workbook_660:660-89",
+      "workbook_660:660-90",
+      "workbook_660:660-91"
     ],
     "2026-06-16": [
       "workbook_660:660-25",
@@ -72,6 +73,7 @@
       "workbook_660:660-38"
     ],
     "2026-06-24": [
+      "workbook_660:660-54",
       "workbook_660:660-71"
     ],
     "2026-06-25": [
@@ -99,9 +101,19 @@
       "workbook_660:660-8",
       "workbook_660:660-14",
       "workbook_660:660-16"
+    ],
+    "2026-07-05": [
+      "workbook_660:660-5",
+      "workbook_660:660-47",
+      "workbook_660:660-62",
+      "workbook_660:660-66",
+      "workbook_660:660-74"
+    ],
+    "2026-07-08": [
+      "workbook_660:660-17"
     ]
   },
-  "updated_at": "2026-06-13T10:35:05",
+  "updated_at": "2026-06-14T10:20:36",
   "daily_plans": {
     "2026-05-14": [
       "workbook_660:660-3",
@@ -418,6 +430,16 @@
       "workbook_660:660-14",
       "workbook_660:660-16",
       "workbook_660:660-68"
+    ],
+    "2026-06-14": [
+      "workbook_660:660-5",
+      "workbook_660:660-17",
+      "workbook_660:660-18",
+      "workbook_660:660-47",
+      "workbook_660:660-54",
+      "workbook_660:660-62",
+      "workbook_660:660-66",
+      "workbook_660:660-74"
     ]
   }
 }
