@@ -3,7 +3,7 @@
   "active_workbook": "workbook_660",
   "units": {
     "unit_1": {
-      "status": "completed",
+      "status": "active",
       "coverage_summary": "第一单元已按函数基本性质、无穷小比较、函数极限、极限性质、数列极限、数列极限计算、连续与间断 7 个专题结项。",
       "history": [],
       "current_difficulty": "Level 1"
@@ -24,9 +24,9 @@
     },
     "workbook_660": {
       "status": "active",
-      "curriculum_unit": "unit_7",
-      "recorded_range": "660-1..660-78, 660-81..660-93",
-      "recorded_count": 91,
+      "curriculum_unit": "unit_1",
+      "recorded_range": "660-1..660-78, 660-81..660-103, 660-161..660-190",
+      "recorded_count": 131,
       "current_target_score_tier": 90,
       "history": [],
       "record_file": "660-record.json"
@@ -52,6 +52,11 @@
       "current_difficulty": "Level 1"
     },
     "unit_7": {
+      "status": "completed",
+      "history": [],
+      "current_difficulty": "Level 1"
+    },
+    "unit_8": {
       "status": "active",
       "history": [],
       "current_difficulty": "Level 1"

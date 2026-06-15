@@ -2,10 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_7",
+  "curriculum_unit": "unit_1",
   "status": "active",
-  "recorded_range": "660-1..660-78, 660-81..660-93",
-  "recorded_count": 91,
+  "recorded_range": "660-1..660-78, 660-81..660-103, 660-161..660-190",
+  "recorded_count": 131,
   "history": [
     {
       "question_id": "660-1",
@@ -1162,6 +1162,502 @@
       "mastery": 0.94,
       "performance_level": "优秀",
       "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-94",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-95",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-96",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-97",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-98",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-99",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-100",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-101",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-102",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-103",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_8",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-161",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-162",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-163",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-164",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-165",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-166",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-167",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-168",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-169",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-170",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-171",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-172",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-173",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-174",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-175",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-176",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-177",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-178",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-179",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-180",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-181",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-182",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-183",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-184",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-185",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-186",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-187",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-188",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-189",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_1",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-190",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_1",
       "target_score_tier": 90,
       "required_for_scores": [
         90,
@@ -3976,6 +4472,1246 @@
       "source_label": "题册660",
       "assessment_basis": "self_report",
       "question_md": "### 93.\n设微分方程\\((1 + x^2)y' - 2xy = x\\)满足\\(y(0) = 1\\)的特解是\\(y^*(x)\\)，则\\(\\int_0^1 y^{''}(x) dx = \\underline{\\quad\\quad}\\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-94",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 94.\n设\\( f(x,y) = \\int_0^{xy} e^{-t^2} dt \\)，则\\( \\frac{x}{y} \\frac{\\partial^2 f}{\\partial x^2} - 2 \\frac{\\partial^2 f}{\\partial x \\partial y} + \\frac{y}{x} \\frac{\\partial^2 f}{\\partial y^2} = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "二元函数偏导",
+        "变上限积分求导",
+        "二阶偏导计算"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-95",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 95.\n设\\( z = e^{xy} + f(x+y, xy) \\)，\\( f(u,v) \\)有二阶连续偏导数，则\\( \\frac{\\partial^2 z}{\\partial x \\partial y} = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "复合函数偏导",
+        "二阶混合偏导",
+        "链式法则"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:16:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-96",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 96.\n若函数\\( z = z(x,y) \\)由方程\\( e^{x+2y+3z} + xyz = 1 \\)确定，则\\( dz\\big|_{(0,0)} = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "隐函数微分",
+        "全微分",
+        "多元复合求导"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:17:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-97",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 97.\n二元函数\\( f(x,y) = x^2(2 + y^2) + y \\ln y \\)的极小值为\\( \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "二元函数极值",
+        "驻点判定",
+        "定义域约束"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:18:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-98",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 98.\n设\\( z = \\left( y^x + \\frac{\\sin x}{\\sqrt{x^2 + 2y^2}} \\right)^{\\sqrt{x^2 + y^2}} \\)，则\\( \\frac{\\partial z}{\\partial x}\\big|_{(0,1)} = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "多元复合函数求导",
+        "对数求导",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:19:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-99",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 99.\n设函数\\( F(u,v) \\)可微，且\\( F\\left( x + \\frac{z}{y}, y + \\frac{z}{x} \\right) = 0 \\)确定隐函数\\( z = z(x,y) \\)，则\\( x - x \\frac{\\partial z}{\\partial x} - y \\frac{\\partial z}{\\partial y} = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "隐函数求导",
+        "齐次结构",
+        "变量组合识别"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:20:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-100",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 100.\n已知函数\\( z = f(x,y) \\)连续且满足\\( \\lim\\limits_{(x,y) \\to (1,0)} \\frac{f(x,y) - x + 2y + 2}{\\sqrt{(x-1)^2 + y^2}} = 0 \\)，则\\( \\lim\\limits_{t \\to 0} \\frac{f(1+t, 0) - f(1, 2t)}{t} = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "多元函数极限",
+        "线性近似",
+        "方向增量"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:21:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-101",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 101.\n设\\( (ax^2 y^2 - 2xy^2)dx + (2x^3 y + bx^2 y + 1)dy \\)是一个函数\\( f(x,y) \\)的全微分，则\\( a = \\underline{\\quad\\quad} \\)，\\( b = \\underline{\\quad\\quad} \\)，\\( f(x,y) = \\underline{\\quad\\quad} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "全微分判定",
+        "偏导相容条件",
+        "势函数求解"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:22:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-102",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 102.\n设方程式\\( x^2 + y^2 + z^2 - 2x - 2y - 4z - 10 = 0 \\)确定某隐函数\\( z = z(x,y) > 0 \\)，则\\( z = z(x,y) \\)的极\\(\\underline{\\quad\\quad}\\)值点是\\(\\underline{\\quad\\quad}\\)，相应的极值是\\(\\underline{\\quad\\quad}\\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "隐函数极值",
+        "空间曲面",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T02:23:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_8",
+      "question_id": "660-103",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 103.\n函数\\( z = f(x,y) = x^2 y(4 - x - y) \\)在由直线\\( x + y = 6 \\)，\\( x \\)轴和\\( y \\)轴所围成的闭区域\\( D \\)上的最小值为\\(\\underline{\\quad\\quad}\\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "闭区域最值",
+        "边界检查",
+        "多元函数极值"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-161",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 161.\n设函数\\( f(x) \\)满足\\( f\\left(x + \\frac{1}{2}\\right) = \\frac{1}{2} + \\sqrt{f(x) - f^2(x)} \\)，\\( x \\in (-\\infty, +\\infty) \\)，则\\( f(x) \\)的周期为（ ）\n(A)1. (B)\\(\\frac{1}{2}\\). (C)\\(\\frac{1}{3}\\). (D)\\(\\frac{1}{4}\\).",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-162",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 162.\n下列函数中在\\([1, +\\infty)\\)无界的是（ ）\n(A)\\( f(x) = x^2 \\sin \\frac{1}{x^2} \\). (B)\\( f(x) = \\sin x^2 + \\frac{\\ln^2 x}{\\sqrt{x}} \\).\n(C)\\( f(x) = x \\cos \\sqrt{x} + x^2 e^{-x} \\). (D)\\( f(x) = \\frac{\\arctan \\frac{1}{x}}{x^2} \\).",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "概念辨析",
+        "题型识别"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-163",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 163.\n设\\( f(x) \\)在\\([a, +\\infty)\\)连续，则\\( \\lim\\limits_{x \\to +\\infty} f(x) = A \\)（存在）是\\( f(x) \\)在\\([a, +\\infty)\\)有界的（ ）\n(A)充分非必要条件. (B)必要非充分条件.\n(C)充要条件. (D)既非充分又非必要条件.",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-164",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 164.\n\\( \\lim\\limits_{x \\to +\\infty} \\left( \\frac{2}{\\pi} \\arctan x \\right)^x = \\)（ ）\n(A) = 0. (B) = \\( e^{-\\frac{2}{\\pi}} \\). (C) = 1. (D)不存在.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "极限计算",
+        "函数性质判断",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-165",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 165.\n\\( \\lim\\limits_{x \\to 0} \\frac{\\cos(\\sin x) - \\cos x}{(1 - \\cos x) \\sin^2 x} = \\)（ ）\n(A)1. (B)\\(\\frac{1}{2}\\). (C)\\(\\frac{1}{3}\\). (D)0.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "极限计算",
+        "函数性质判断",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-166",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 166.\n函数\\( f(x) = \\lim\\limits_{n \\to \\infty} \\frac{x^{2n} - 1}{x^{2n} + 1} \\)的间断点及类型是（ ）\n(A)\\( x = 1 \\)为第一类间断点，\\( x = -1 \\)为第二类间断点.\n(B)\\( x = \\pm 1 \\)均为第一类间断点.\n(C)\\( x = 1 \\)为第二类间断点，\\( x = -1 \\)为第一类间断点.\n(D)\\( x = \\pm 1 \\)均为第二类间断点.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-167",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 167.\n设数列极限函数\\( f(x) = \\lim\\limits_{n \\to \\infty} \\arctan\\left(1 + \\frac{x^{2n}}{1 + x^n}\\right) \\)，则\\( f(x) \\)的定义域\\( I \\)和\\( f(x) \\)的连续区间\\( J \\)分别是（ ）\n(A)\\( I = (-\\infty, +\\infty) \\)，\\( J = (-\\infty, +\\infty) \\).\n(B)\\( I = (-1, +\\infty) \\)，\\( J = (-1, 1) \\cup (1, +\\infty) \\).\n(C)\\( I = (-1, +\\infty) \\)，\\( J = (-1, +\\infty) \\).\n(D)\\( I = (-1, 1) \\)，\\( J = (-1, 1) \\).",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-168",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 168.\n下列各题计算过程中正确无误的是（ ）\n(A) 数列极限\\( \\lim\\limits_{n \\to \\infty} \\frac{\\ln n}{n} = \\lim\\limits_{n \\to \\infty} \\frac{(\\ln n)'}{n'} = \\lim\\limits_{n \\to \\infty} \\frac{1}{n} = 0 \\).\n(B) \\( \\lim\\limits_{x \\to 1} \\frac{\\sin \\pi x}{3x^2 - 2x - 1} = \\lim\\limits_{x \\to 1} \\frac{\\pi \\cos \\pi x}{6x - 2} = \\lim\\limits_{x \\to 1} \\frac{-\\pi^2 \\sin \\pi x}{6} = 0 \\).\n(C) \\( \\lim\\limits_{x \\to 0} \\frac{x^2 \\sin \\frac{1}{x}}{\\sin x} = \\lim\\limits_{x \\to 0} \\frac{2x \\sin \\frac{1}{x} - \\cos \\frac{1}{x}}{\\cos x} \\)不存在.\n(D) \\( \\lim\\limits_{x \\to 0} \\frac{x + \\sin x}{x - \\sin x} = \\lim\\limits_{x \\to 0} \\frac{1 + \\cos x}{1 - \\cos x} = \\infty \\).",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "概念辨析",
+        "题型识别"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-15T03:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-169",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 169.\n\\( \\lim\\limits_{x \\to 0} \\left( \\frac{1}{x} - \\cot x \\right) = \\)（ ）\n(A)0. (B)1. (C)2. (D)3.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-170",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 170.\n\\( \\lim\\limits_{x \\to 1} (1 - x^2) \\tan \\frac{\\pi}{2} x = \\)（ ）\n(A)1. (B)\\(\\frac{2}{\\pi}\\). (C)\\(\\frac{4}{\\pi}\\). (D)\\(\\frac{6}{\\pi}\\).",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-171",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 171.\n已知\\( I = \\lim\\limits_{x \\to 0} \\frac{ax^2 + bx - \\ln(1 - 2x + x^2)}{x^2} = 5 \\)，则（ ）\n(A)\\( a = -4, b = 2 \\). (B)\\( a = 4, b = -2 \\).\n(C)\\( a = 3, b = -2 \\). (D)\\( a = -3, b = 2 \\).",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-172",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 172.\n已知\\( \\lim\\limits_{x \\to 0} \\frac{5 + f(x)}{x^2} = a \\)，下列计算中，运算过程没有错误的是（ ）\n(A) \\( \\lim\\limits_{x \\to 0} \\frac{\\sin 5x + xf(x)}{x^3} \\overset{①}{\\underset{x \\to 0}{=}} \\lim\\limits_{x \\to 0} \\frac{5x + xf(x)}{x^3} = \\lim\\limits_{x \\to 0} \\frac{5 + f(x)}{x^2} = a \\).\n(B) \\( \\lim\\limits_{x \\to 0} \\frac{\\sin 5x + xf(x)}{x^3} \\overset{②}{\\underset{x \\to 0}{=}} \\lim\\limits_{x \\to 0} \\frac{\\frac{\\sin 5x}{x} + f(x)}{x^2} \\overset{③}{\\underset{x \\to 0}{=}} \\lim\\limits_{x \\to 0} \\frac{5 + f(x)}{x^2} = a \\).\n(C) \\( \\lim\\limits_{x \\to 0} \\frac{\\sin 5x + xf(x)}{x^3} \\overset{④}{\\underset{x \\to 0}{=}} \\lim\\limits_{x \\to 0} \\frac{\\sin 5x}{x^3} + \\lim\\limits_{x \\to 0} \\frac{xf(x)}{x^3} = \\lim\\limits_{x \\to 0} \\frac{5}{x^2} + \\lim\\limits_{x \\to 0} \\frac{f(x)}{x^2} \\overset{⑤}{=} a \\).\n(D) \\( \\lim\\limits_{x \\to 0} \\frac{\\sin 5x + xf(x)}{x^3} \\overset{⑥}{\\underset{x \\to 0}{=}} \\lim\\limits_{x \\to 0} \\left[ \\frac{5 + f(x)}{x^2} - \\frac{5x - \\sin 5x}{x^3} \\right] \\overset{⑦}{=} \\lim\\limits_{x \\to 0} \\frac{5 + f(x)}{x^2} - \\lim\\limits_{x \\to 0} \\frac{5x - \\sin 5x}{x^3} = a - \\lim\\limits_{x \\to 0} \\frac{5x - \\sin 5x}{x^3} = a - \\lim\\limits_{x \\to 0} \\frac{5 - 5\\cos 5x}{3x^2} = a - \\frac{5}{3} \\lim\\limits_{x \\to 0} \\frac{1 - \\cos 5x}{x^2} = a - \\frac{125}{6} \\).",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-173",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 173.\n设有下列命题\n① 数列\\(\\{x_n\\}\\)收敛（即存在极限\\( \\lim\\limits_{n \\to \\infty} x_n \\)），则\\(\\{x_n\\}\\)有界.\n② 数列极限\\( \\lim\\limits_{n \\to \\infty} x_n = a \\Leftrightarrow \\lim\\limits_{n \\to \\infty} x_{n+l} = a \\)，其中\\( l \\)为某个确定的正整数.\n③ 数列极限\\( \\lim\\limits_{n \\to \\infty} x_n = a \\Leftrightarrow \\lim\\limits_{n \\to \\infty} x_{2n-1} = \\lim\\limits_{n \\to \\infty} x_{2n} = a \\).\n④ 数列极限\\( \\lim\\limits_{n \\to \\infty} x_n \\)存在\\( \\Leftrightarrow \\lim\\limits_{n \\to \\infty} \\frac{x_{n+1}}{x_n} = 1 \\).\n则以上命题中正确的个数是（ ）\n(A)1. (B)2. (C)3. (D)4.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-174",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 174.\n下列命题中正确的是（ ）\n(A) 若\\( \\lim\\limits_{x \\to x_0} f(x) \\geq \\lim\\limits_{x \\to x_0} g(x) \\Rightarrow \\) 存在\\( \\delta > 0 \\)，当\\( 0 < |x - x_0| < \\delta \\)时\\( f(x) \\geq g(x) \\).\n(B) 若存在\\( \\delta > 0 \\)使得当\\( 0 < |x - x_0| < \\delta \\)时有\\( f(x) > g(x) \\)且\\( \\lim\\limits_{x \\to x_0} f(x) = A_0 \\)，\\( \\lim\\limits_{x \\to x_0} g(x) = B_0 \\)均存在，则\\( A_0 > B_0 \\).\n(C) 若存在\\( \\delta > 0 \\)，当\\( 0 < |x - x_0| < \\delta \\)时\\( f(x) > g(x) \\Rightarrow \\lim\\limits_{x \\to x_0} f(x) \\geq \\lim\\limits_{x \\to x_0} g(x) \\).\n(D) 若\\( \\lim\\limits_{x \\to x_0} f(x) > \\lim\\limits_{x \\to x_0} g(x) \\Rightarrow \\) 存在\\( \\delta > 0 \\)，当\\( 0 < |x - x_0| < \\delta \\)时有\\( f(x) > g(x) \\).",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-175",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 175.\n有以下命题：设\\( \\lim\\limits_{x \\to a} f(x) = A \\)，\\( \\lim\\limits_{x \\to a} g(x) \\)不存在，\\( \\lim\\limits_{x \\to a} h(x) \\)不存在，\n① \\( \\lim\\limits_{x \\to a} [f(x) \\cdot g(x)] \\)不存在.\n② \\( \\lim\\limits_{x \\to a} [g(x) + h(x)] \\)不存在.\n③ \\( \\lim\\limits_{x \\to a} [h(x) \\cdot g(x)] \\)不存在.\n④ \\( \\lim\\limits_{x \\to a} [g(x) + f(x)] \\)不存在.\n则以上命题中正确的个数是（ ）\n(A)0. (B)1. (C)2. (D)3.",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-15T03:16:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-176",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 176.\n下列命题\n① 设\\( \\lim\\limits_{x \\to x_0} f(x) = \\infty \\)，则\\( \\lim\\limits_{x \\to x_0} \\frac{1}{f(x)} = 0 \\).\n② 设\\( \\lim\\limits_{x \\to x_0} f(x) = 0 \\)，则\\( \\lim\\limits_{x \\to x_0} \\frac{1}{f(x)} = \\infty \\).\n③ 设\\( \\lim\\limits_{x \\to x_0} f(x) = \\lim\\limits_{x \\to x_0} g(x) = +\\infty \\)，则\\( \\lim\\limits_{x \\to x_0} (f(x) - g(x)) = 0 \\).\n④ 设\\( \\lim\\limits_{x \\to x_0} f(x) = \\lim\\limits_{x \\to x_0} g(x) = +\\infty \\)，则\\( \\lim\\limits_{x \\to x_0} (f(x) + g(x)) = +\\infty \\).\n正确的个数为（ ）\n(A)1. (B)2. (C)3. (D)4.",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-15T03:17:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-177",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 177.\n设\\(\\{x_n\\}\\)与\\(\\{y_n\\}\\)均无界，\\(\\{z_n\\}\\)有界，则以下命题正确的是（ ）\n(A)\\(\\{x_n + y_n\\}\\)无界. (B)\\(\\{x_n y_n\\}\\)无界.\n(C)\\(\\{x_n + z_n\\}\\)无界. (D)\\(\\{x_n z_n\\}\\)无界.",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:18:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-178",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 178.\n设\\( f(x) \\)在\\([a, +\\infty)\\)连续，则“\\( \\exists x_n \\in [a, +\\infty) \\)有\\( \\lim\\limits_{n \\to \\infty} x_n = +\\infty \\)且\\( \\lim\\limits_{n \\to \\infty} f(x_n) = \\infty \\)”是\\( f(x) \\)在\\([a, +\\infty)\\)无界的（ ）\n(A)充分非必要条件. (B)必要非充分条件.\n(C)充要条件. (D)既非充分又非必要条件.",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:19:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-179",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 179.\n设\\( u_n > 0 \\)（\\( n = 1, 2, \\cdots \\)），并设数列\\(\\{u_n\\}\\)无上界，则（ ）\n(A) 数列\\(\\left\\{ \\frac{1}{u_n} \\right\\}\\)必有上界.\n(B) 必有\\( \\lim\\limits_{n \\to \\infty} u_n = +\\infty \\).\n(C) 对于任意给定的\\( M > 0 \\)，满足\\( u_n < M \\)的\\( n \\)只有有限个.\n(D) 对于任意给定的\\( M > 0 \\)，满足\\( u_n > M \\)的\\( n \\)总有无限个.",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:20:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-180",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 180.\n\\( \\lim\\limits_{x \\to \\infty} \\left( \\sqrt[3]{(x + a)(x + b)(x + c)} - x \\right) = \\)（ ）\n(A)\\( \\frac{1}{3}(a + b + c) \\). (B)\\( \\frac{1}{2}(a + b) \\). (C)\\( \\max\\{a, b, c\\} \\). (D)\\( \\min\\{a, b, c\\} \\).",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:21:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-181",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 181.\n\\(\\lim\\limits_{x \\to 0} \\frac{1 - \\cos x \\cos 2x \\cos 3x}{x^2} = \\)\n(A)5. (B)6. (C)7. (D)8.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:22:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-182",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 182.\n\\(\\lim\\limits_{x \\to 0} \\frac{\\ln(1 + x) - \\sin x}{\\sqrt[3]{1 - x^2} - 1} = \\)\n(A)\\(\\frac{2}{3}\\). (B)1. (C)\\(\\frac{3}{2}\\). (D)2.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:23:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-183",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 183.\n\\(\\lim\\limits_{x \\to 0} \\frac{1}{x^3} \\left[ \\left( \\frac{2 + \\cos x}{3} \\right)^x - 1 \\right] = \\)\n(A)\\(\\frac{1}{2}\\). (B)\\(-\\frac{1}{2}\\). (C)\\(\\frac{1}{6}\\). (D)\\(-\\frac{1}{6}\\).",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "极限计算",
+        "函数性质判断",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:24:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-184",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 184.\n\\(\\lim\\limits_{x \\to 0} \\frac{(1 + x)^{\\frac{1}{x}} - e}{x} = \\)\n(A)\\(\\frac{e}{2}\\). (B)\\(-\\frac{e}{2}\\). (C)e. (D)-e.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:25:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-185",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 185.\n\\(\\lim\\limits_{n \\to \\infty} \\left\\{ \\left[ \\sin\\left( \\frac{\\pi}{4} + \\frac{1}{n} \\right) \\right]^n + \\left[ \\sin\\left( \\frac{\\pi}{2} + \\frac{1}{n} \\right) \\right]^n \\right\\} = \\)\n(A)-1. (B)1. (C)e. (D)e^{\\frac{1}{4}}.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:26:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-186",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 186.\n\\(\\lim\\limits_{n \\to \\infty} \\left( n^2 e^{\\frac{1}{n}} - \\frac{n^3}{n - 1} \\right) = \\)\n(A)2. (B)-2. (C)\\(\\frac{1}{2}\\). (D)\\(-\\frac{1}{2}\\).",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "基础概念辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:27:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-187",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 187.\n若\\(\\lim\\limits_{x \\to 0} \\frac{\\cos 2x - \\sqrt{\\cos 2x}}{x^k} = a \\neq 0\\)，则\n(A)k = 2, a = 1. (B)k = -2, a = -1.\n(C)k = 2, a = -2. (D)k = 2, a = -1.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-15T03:28:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-188",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 188.\n若\\(\\lim\\limits_{x \\to 0} \\left( \\frac{\\sin 3x^2 + x^2 f(x)}{x^6} \\right) = 0\\)，则\\(\\lim\\limits_{x \\to 0} \\frac{3 + f(x)}{x^4}\\)为\n(A)0. (B)3. (C)\\(\\frac{9}{2}\\). (D)\\(\\infty\\).",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-15T03:29:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-189",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 189.\n下列极限中，能用洛必达法则计算极限的为\n(A)\\(\\lim\\limits_{x \\to \\infty} \\frac{x + \\sin x}{x}\\). (B)\\(\\lim\\limits_{x \\to +\\infty} \\frac{e^x - e^{-x}}{e^x + e^{-x}}\\).\n(C)\\(\\lim\\limits_{x \\to 0} \\frac{x^2 \\sin \\frac{1}{x}}{\\sin x}\\). (D)\\(\\lim\\limits_{x \\to 0} \\frac{e^x - e^{\\sin x}}{x - \\sin x}\\).",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "选择题判断",
+        "概念辨析",
+        "题型识别"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-15T03:30:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_1",
+      "question_id": "660-190",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 190.\n设\\( f(x) = \\begin{cases} \\sin x, & |x| \\leq \\frac{\\pi}{2}, \\\\ x, & |x| > \\frac{\\pi}{2}, \\end{cases} \\quad \\varphi(x) = \\begin{cases} \\arcsin x, & |x| \\leq 1, \\\\ x, & |x| > 1, \\end{cases} \\) 则\\( f[\\varphi(x)] = \\)\n(A)\\(\\sin x\\). (B)x.\n(C)\\( \\begin{cases} \\sin x, & 1 < |x| \\leq \\frac{\\pi}{2}, \\\\ x, & |x| \\leq 1 \\text{ 或 } |x| > \\frac{\\pi}{2}. \\end{cases} \\)\n(D)\\( \\begin{cases} \\sin x, & 1 < |x| < \\frac{\\pi}{2}, \\\\ x, & |x| \\leq 1 \\text{ 或 } |x| \\geq \\frac{\\pi}{2}. \\end{cases} \\)",
       "target_score_tier": 90,
       "required_for_scores": [
         90,
