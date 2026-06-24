@@ -934,12 +934,19 @@
           "error_level": "C",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:43:24",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-21": {
       "history": [
@@ -1077,12 +1084,19 @@
           "error_level": "C",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:43:29",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-41": {
       "history": [
@@ -1199,12 +1213,26 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:42:18",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-06-24"
+        },
+        {
+          "reviewed_at": "2026-06-24T13:30:29",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-27"
         }
       ],
-      "interval_index": 3,
+      "interval_index": 1,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-09",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-24",
+      "next_due_at": "2026-06-27"
     },
     "660-37": {
       "history": [
@@ -1386,12 +1414,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:42:25",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-07"
         }
       ],
       "interval_index": 3,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-09",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-07"
     },
     "660-32": {
       "history": [
@@ -1508,12 +1543,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:42:35",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-07"
         }
       ],
       "interval_index": 3,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-09",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-07"
     },
     "660-28": {
       "history": [
@@ -1622,12 +1664,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-24"
+        },
+        {
+          "reviewed_at": "2026-06-24T13:30:24",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-06"
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "error_level": "B",
-      "last_reviewed_at": "2026-06-19",
-      "next_due_at": "2026-06-24"
+      "last_reviewed_at": "2026-06-24",
+      "next_due_at": "2026-07-06"
     },
     "660-47": {
       "history": [
@@ -1850,12 +1899,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-24"
+        },
+        {
+          "reviewed_at": "2026-06-24T13:30:18",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-06-25"
         }
       ],
-      "interval_index": 2,
-      "error_level": "A",
-      "last_reviewed_at": "2026-06-14",
-      "next_due_at": "2026-06-24"
+      "interval_index": 0,
+      "error_level": "C",
+      "last_reviewed_at": "2026-06-24",
+      "next_due_at": "2026-06-25"
     },
     "660-53": {
       "history": [
@@ -2150,12 +2206,19 @@
           "error_level": "B",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:39:22",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-25"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "B",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-25"
     },
     "660-60": {
       "history": [
@@ -2221,12 +2284,19 @@
           "error_level": "C",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:39:23",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-59": {
       "history": [
@@ -2515,12 +2585,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:39:13",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-03"
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-20",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-03"
     },
     "660-75": {
       "history": [
@@ -2644,12 +2721,19 @@
           "error_level": "B",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:39:17",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-25"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "B",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-25"
     },
     "660-71": {
       "history": [
@@ -2673,12 +2757,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-24"
+        },
+        {
+          "reviewed_at": "2026-06-24T13:16:27",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-06-25"
         }
       ],
-      "interval_index": 3,
+      "interval_index": 0,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-10",
-      "next_due_at": "2026-06-24"
+      "last_reviewed_at": "2026-06-24",
+      "next_due_at": "2026-06-25"
     },
     "660-70": {
       "history": [
@@ -2867,12 +2958,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:59",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-05"
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "error_level": "B",
-      "last_reviewed_at": "2026-06-18",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-05"
     },
     "660-90": {
       "history": [
@@ -2896,12 +2994,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:39:04",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-05"
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "error_level": "B",
-      "last_reviewed_at": "2026-06-18",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-05"
     },
     "660-89": {
       "history": [
@@ -2990,12 +3095,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:39:09",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-05"
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "error_level": "B",
-      "last_reviewed_at": "2026-06-18",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-05"
     },
     "660-86": {
       "history": [
@@ -3399,12 +3511,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:22",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-03"
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-20",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-03"
     },
     "660-166": {
       "history": [
@@ -3442,12 +3561,19 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:25",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-07-03"
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-20",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-07-03"
     },
     "660-165": {
       "history": [
@@ -3486,12 +3612,19 @@
           "error_level": "B",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:27",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-25"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "B",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-25"
     },
     "660-163": {
       "history": [
@@ -3530,12 +3663,19 @@
           "error_level": "A",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:31",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-161": {
       "history": [
@@ -3552,12 +3692,19 @@
           "error_level": "A",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:32",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-103": {
       "history": [
@@ -3640,12 +3787,19 @@
           "error_level": "C",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:53",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "C",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-99": {
       "history": [
@@ -3662,12 +3816,19 @@
           "error_level": "A",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:55",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-98": {
       "history": [
@@ -3851,12 +4012,19 @@
           "error_level": "A",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:32",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-132": {
       "history": [
@@ -3997,12 +4165,19 @@
           "error_level": "A",
           "note": "",
           "next_due_at": "2026-06-23"
+        },
+        {
+          "reviewed_at": "2026-06-23T10:38:43",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-06-26"
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "error_level": "A",
-      "last_reviewed_at": "2026-06-22",
-      "next_due_at": "2026-06-23"
+      "last_reviewed_at": "2026-06-23",
+      "next_due_at": "2026-06-26"
     },
     "660-121": {
       "history": [
@@ -4034,5 +4209,5 @@
       "next_due_at": "2026-07-02"
     }
   },
-  "updated_at": "2026-06-22T14:05:34"
+  "updated_at": "2026-06-24T13:30:29"
 }
