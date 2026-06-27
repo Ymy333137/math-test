@@ -2,10 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_9",
+  "curriculum_unit": "unit_2",
   "status": "active",
-  "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-190",
-  "recorded_count": 145,
+  "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-210",
+  "recorded_count": 165,
   "history": [
     {
       "question_id": "660-1",
@@ -1845,6 +1845,254 @@
         135
       ],
       "error_level": "C"
+    },
+    {
+      "question_id": "660-191",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-192",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-193",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-194",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-195",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-196",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-197",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-198",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-199",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-200",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-201",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-202",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-203",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-204",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-205",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-206",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-207",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-208",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-209",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_2",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-210",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
     }
   ],
   "records": [
@@ -1861,7 +2109,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -2089,7 +2337,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -2530,7 +2778,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -2619,7 +2867,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -2676,7 +2924,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3016,7 +3264,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3075,7 +3323,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.75,
       "missing_steps": [
         "起初忘记对 y 求导后还要乘以 y 对 x 的导数，但最终自纠且答案正确。"
@@ -3144,7 +3392,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3170,7 +3418,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3363,7 +3611,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3491,7 +3739,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3757,7 +4005,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3783,7 +4031,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3808,7 +4056,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -3939,7 +4187,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4067,7 +4315,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4331,7 +4579,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4633,7 +4881,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4659,7 +4907,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5290,7 +5538,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5316,7 +5564,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5342,7 +5590,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5366,7 +5614,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5522,7 +5770,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5644,7 +5892,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5670,7 +5918,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5730,7 +5978,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5756,7 +6004,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5816,7 +6064,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5841,7 +6089,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5899,7 +6147,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5959,7 +6207,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5983,7 +6231,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -6009,7 +6257,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -6104,7 +6352,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -6199,7 +6447,7 @@
         135
       ],
       "error_level": null,
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -6347,6 +6595,645 @@
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
       "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-191",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 191\n设\\( f(0)=0 \\)，则\\( \\lim_{x\\rightarrow0}\\frac{f(x^2)}{x^2} \\)存在是\\( f(x) \\)在\\( x=0 \\)可导的（ ）。\n(A)充分非必要条件。\n(B)必要非充分条件。\n(C)充分必要条件。\n(D)既非充分又非必要条件。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "导数定义",
+        "充分必要条件"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-192",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 192\n设\\( f(x) \\)在\\( x_0 \\)可导，且\\( f'(x_0)>0 \\)，则\\( \\exists\\delta>0 \\)，使得（ ）。\n(A) \\( f(x) \\)在区间\\( (x_0 - \\delta,x_0 + \\delta) \\)上单调上升。\n(B) \\( f(x)>f(x_0) \\)，\\( x\\in(x_0 - \\delta,x_0 + \\delta) \\)，\\( x\\neq x_0 \\)。\n(C) \\( f(x)<f(x_0) \\)，\\( x\\in(x_0 - \\delta,x_0) \\)。\n(D) \\( f(x)<f(x_0) \\)，\\( x\\in(x_0,x_0 + \\delta) \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "导数局部性质",
+        "命题辨析",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-193",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 193\n设\\( f(x)=\\begin{cases}\\dfrac{x}{1 + e^{1/x}},&x\\neq0,\\\\0,&x=0,\\end{cases} \\)则下列正确的是（ ）。\n(A) \\( \\lim_{x\\rightarrow0}f(x) \\)不存在。\n(B) \\( \\lim_{x\\rightarrow0}f(x) \\)存在，但\\( f(x) \\)在\\( x=0 \\)点处不连续。\n(C) \\( f(x) \\)在\\( x=0 \\)点处连续，但不可导。\n(D) \\( f(x) \\)在\\( x=0 \\)点处可导。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "分段函数连续与可导",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-194",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 194\n已知函数\\( f(x)=\\begin{cases}x^2 - 1,&0\\leqslant x\\leqslant1,\\\\ax + b,&1<x\\leqslant2,\\end{cases} \\)在\\( [0,2] \\)上可导，则（ ）。\n(A) \\( a=2,b=-2 \\)。\n(B) \\( a=-2,b=-2 \\)。\n(C) \\( a=2,b=2 \\)。\n(D) \\( a=-2,b=2 \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "分段函数连续与可导",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-195",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 195\n设\\( y=y(x) \\)由方程\\( \\ln(x^2 + y)=x^3y + \\sin x \\)所确定，则\\( y'(0)= \\)（ ）。\n(A) 2。\n(B) 1。\n(C) 0。\n(D) 不存在。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "隐函数求导",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-196",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 196\n设\\( f(x) \\)在\\( x=0 \\)处连续，且\\( \\lim_{x\\rightarrow0}\\dfrac{e^{f(x)}-\\cos x + \\sin x}{x}=0 \\)，则\\( f'(0)= \\)（ ）。\n(A) 1。\n(B) -1。\n(C) 0。\n(D) 不存在。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-197",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 197\n设\\( f(x) \\)在\\( x=0 \\)处存在三阶导数，且\\( \\lim_{x\\rightarrow0}\\dfrac{f(x)}{\\tan x - \\sin x}=1 \\)，则\\( f''(0)= \\)（ ）。\n(A) 0。\n(B) 1。\n(C) 2。\n(D) 3。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "高阶导数",
+        "等价无穷小",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-198",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 198\n设\\( f(x)=\\arctan x \\)，则\\( f''(x)= \\)（ ）。\n(A) \\( \\dfrac{2(3x^2 + 1)}{(1 + x^2)^3} \\)。\n(B) \\( \\dfrac{2(3x^2 - 1)}{(1 + x^2)^2} \\)。\n(C) \\( \\dfrac{3x^2 + 1}{(1 + x^2)^3} \\)。\n(D) \\( \\dfrac{2(3x^2 - 1)}{(1 + x^2)^3} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-199",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 199\n设\\( f(x)=x^2e^{3x} \\)，则\\( f^{(n)}(0)= \\)（ ）。\n(A) \\( \\dfrac{3^n}{n!} \\)。\n(B) \\( n^23^{n - 1} \\)。\n(C) \\( 3^{n - 2}n(n - 1) \\)。\n(D) \\( 3^{n - 2}(n - 1)(n - 2) \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "高阶导数",
+        "莱布尼茨公式",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-200",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 200\n设\\( f(x)=|x|\\sin^2x \\)，则使\\( f^{(n)}(0) \\)存在的最高阶数\\( n= \\)（ ）。\n(A) 0。\n(B) 1。\n(C) 2。\n(D) 3。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-27T04:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-201",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 201\n数列\\( 1,\\sqrt{2},\\sqrt[3]{3},\\cdots,\\sqrt[n]{n},\\cdots \\)的最大项为（ ）。\n(A) \\( \\sqrt{2} \\)。\n(B) \\( \\sqrt[3]{3} \\)。\n(C) \\( \\sqrt[4]{4} \\)。\n(D) \\( \\sqrt[5]{5} \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "数列单调性",
+        "最大项判断",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-202",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 202\n函数\\( f(x)=(x^2 + x - 2)\\cdot|x^3 - 4x|\\cdot\\sin|x| \\)的不可导点为\\( x= \\)（ ）。\n(A) -2。\n(B) 0。\n(C) 1。\n(D) 2。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "绝对值函数",
+        "不可导点判定",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-27T04:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-203",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 203\n设\\( f(x)=|(x - 1)(x - 2)^2(x - 3)^3| \\)，则\\( f'(x) \\)不存在的点个数是（ ）。\n(A) 0。\n(B) 1。\n(C) 2。\n(D) 3。",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "绝对值函数",
+        "不可导点判定",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-27T04:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-204",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 204\n函数\\( f(x)=(x^2 + x - 2)|\\sin2\\pi x| \\)在\\( (-\\frac{1}{2},\\frac{3}{2}) \\)区间内不可导点的个数是（ ）。\n(A) 3。\n(B) 2。\n(C) 1。\n(D) 0。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "绝对值函数",
+        "不可导点判定",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-27T04:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-205",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 205\n设\\( f(x)=\\begin{cases}\\dfrac{1 - \\cos x^2}{x^3},&x>0,\\\\g(x)\\arcsin^2x,&x\\leqslant0,\\end{cases} \\)其中\\( g(x) \\)是有界函数，则\\( f(x) \\)在\\( x=0 \\)处（ ）。\n(A) 极限不存在。\n(B) 极限存在，但不连续。\n(C) 连续，但不可导。\n(D) 可导。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "分段函数连续与可导",
+        "有界函数估计",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:16:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-206",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 206\n设\\( f(x) \\)对任意\\( x \\)均满足\\( f(1 + x)=af(x) \\)，且\\( f'(0)=b \\)，其中\\( a \\)与\\( b \\)都是常数，则\\( f(x) \\)在\\( x=1 \\)处（ ）。\n(A) 不可导。\n(B) 可导，\\( f'(1)=a \\)。\n(C) 可导，\\( f'(1)=b \\)。\n(D) 可导，\\( f'(1)=ab \\)。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "函数方程求导",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:17:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-207",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 207\n设\\( g(x) \\)在\\( x=0 \\)的某邻域内二阶导数连续，且\\( g(0)=1,g'(0)=2,g''(0)=1 \\)，且设\\( f(x)=\\begin{cases}\\dfrac{g(x)-e^{2x}}{x},&x\\neq0,\\\\0,&x=0,\\end{cases} \\)则\\( f(x) \\)在\\( x=0 \\)处（ ）。\n(A) 不连续。\n(B) 连续但不可导。\n(C) 可导但导函数不连续。\n(D) 导函数连续。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "泰勒展开",
+        "分段函数可导性",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-27T04:18:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-208",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 208\n设\\( f(x) \\)在\\( x=0 \\)的某邻域内有定义，并且\\( |f(x)|\\leqslant1 - \\sqrt{1 - x^2} \\)，则\\( f(x) \\)在\\( x=0 \\)处（ ）。\n(A) 不连续。\n(B) 连续而不可导。\n(C) 可导但\\( f'(0)\\neq0 \\)。\n(D) \\( f'(0)=0 \\)。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "夹逼准则",
+        "导数定义",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-27T04:19:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-209",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 209\n设\\( f(x)=\\begin{cases}g(x),&x_0 - \\delta<x\\leqslant x_0,\\\\h(x),&x_0<x<x_0 + \\delta,\\end{cases} \\)\\( \\delta \\)为大于零的常数，\\( h(x) \\)在\\( x_0 \\)无定义，又\\( g'(x_0),\\lim_{x\\rightarrow x_0}h(x)=a,\\lim_{x\\rightarrow x_0}\\dfrac{h(x)-a}{x - x_0}=b \\)均存在，则\\( g(x_0)=a,g'(x_0)=b \\)是\\( f(x) \\)在\\( x_0 \\)可导的（ ）。\n(A) 充分非必要条件。\n(B) 必要非充分条件。\n(C) 充分必要条件。\n(D) 非充分非必要条件。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "可导的充分必要条件",
+        "分段函数",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-27T04:20:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-210",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 210\n设\\( f(x) \\)在\\( x=0 \\)的某邻域内有定义，\\( f(0)=0 \\)，则下述条件能保证\\( f'(0) \\)存在的是（ ）。\n(A) \\( \\lim_{h\\rightarrow0}\\dfrac{1}{h}f[\\ln(1 - h)] \\)存在。\n(B) \\( \\lim_{h\\rightarrow0}\\dfrac{1}{h^2}f(\\sqrt{1 + h^2}-1) \\)存在。\n(C) \\( \\lim_{h\\rightarrow0}\\dfrac{1}{h^2}f(\\tan h - \\sin h) \\)存在。\n(D) \\( \\lim_{h\\rightarrow0}\\dfrac{1}{h}[f(2h)-f(h)] \\)存在。",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "导数定义",
+        "复合自变量极限",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
     }
   ],
   "maintenance_policy": "append_only_active"
