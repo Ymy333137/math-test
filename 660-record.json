@@ -2,10 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_2",
+  "curriculum_unit": "unit_5",
   "status": "active",
-  "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-210",
-  "recorded_count": 165,
+  "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-264",
+  "recorded_count": 219,
   "history": [
     {
       "question_id": "660-1",
@@ -2090,6 +2090,682 @@
       "target_score_tier": 110,
       "required_for_scores": [
         110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-211",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-212",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-213",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-214",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_2",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-215",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_2",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-216",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-217",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-218",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-219",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_3",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-220",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_3",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-221",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_3",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-222",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-223",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-224",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-225",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-226",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-227",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-228",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-229",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-230",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-231",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_3",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-232",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-233",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-234",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-235",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-236",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-237",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-238",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-239",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-240",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-241",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-242",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-243",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-244",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-245",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-246",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-247",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-248",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-249",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-250",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-251",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-252",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-253",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-254",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-255",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-256",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-257",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-258",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_4",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-259",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_5",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-260",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_5",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-261",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_5",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-262",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_5",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-263",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_5",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-264",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_5",
+      "target_score_tier": 135,
+      "required_for_scores": [
         135
       ],
       "error_level": "C"
@@ -7234,6 +7910,1643 @@
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
       "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-30T04:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-211",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 211\n设曲线\\( y = f(x) \\)在原点与\\( y = \\sin x \\)相切，则\\( \\lim_{n\\rightarrow\\infty}\\sqrt{n} \\cdot \\sqrt{f\\left(\\frac{2}{n}\\right)} = \\)（ ）。\n(A) \\( -\\sqrt{2} \\)。\n(B) -1。\n(C) 1。\n(D) \\( \\sqrt{2} \\)。",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "切线定义",
+        "函数极限",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-30T04:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-212",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 212\n设函数\\( f(x) \\)在\\( (0, +\\infty) \\)内可导，且\\( \\lim_{x\\rightarrow+\\infty}[f'(x) + f(x)] = 1 \\)，则\\( \\lim_{x\\rightarrow+\\infty}f(x) \\)，\\( \\lim_{x\\rightarrow+\\infty}f'(x) \\)分别为（ ）。\n(A) 0, 0。\n(B) 1, 1。\n(C) 0, 1。\n(D) 1, 0。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "函数与导数的极限",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T04:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-213",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 213\n设函数\\( f(x) \\)在\\( x = 0 \\)处有定义，且\\( f(0)=1 \\)，\\( \\lim_{x\\rightarrow0}\\frac{\\ln(1 - x) + f(x)\\sin x}{e^{x^2}-1}=0 \\)，则\\( f'(0)= \\)（ ）。\n(A) \\( \\frac{1}{2} \\)。\n(B) \\( -\\frac{1}{2} \\)。\n(C) 2。\n(D) -2。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-214",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 214\n设\\( f(x) \\)在\\( x = 0 \\)处存在二阶导数，且\\( f(0)=0 \\)，\\( f'(0)=0 \\)，\\( f''(0)\\neq0 \\)，则\\( \\lim_{x\\rightarrow0}\\frac{f(x)}{xf'(x)} = \\)（ ）。\n(A) 1。\n(B) \\( \\frac{1}{2} \\)。\n(C) \\( \\frac{1}{3} \\)。\n(D) \\( \\frac{1}{4} \\)。",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "二阶导数",
+        "泰勒展开",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-30T04:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_2",
+      "question_id": "660-215",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 215\n设\\( f(x) \\)是以3为周期的可导函数且\\( f'(4)=1 \\)，则\\( I = \\lim_{h\\rightarrow0}\\frac{f(1 + h) + f(1 + 2\\sin h) - 2f(1 - 3\\tan h)}{h} = \\)（ ）。\n(A) 5。\n(B) 3。\n(C) 9。\n(D) 7。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-216",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 216\n设\\( f(x) = ax^3 - 6ax^2 + b \\)在区间\\( [-1, 2] \\)上的最大值是3，最小值是-29，且\\( a>0 \\)，则（ ）。\n(A) \\( a=2,b=-29 \\)。\n(B) \\( a=3,b=2 \\)。\n(C) \\( a=2,b=3 \\)。\n(D) 以上都不对。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-217",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 217\n函数\\( y = f(x) \\)在\\( (-\\infty, +\\infty) \\)连续，其二阶导函数的图形如图所示，则\\( y = f(x) \\)的拐点的个数是（ ）。\n(A) 1。\n(B) 2。\n(C) 3。\n(D) 4。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "二阶导数图像",
+        "拐点判定",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-218",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 218\n设曲线\\( y = \\sqrt[3]{x - 4} \\)，则（ ）。\n(A) 曲线的凸区间为\\( (-\\infty, 4) \\)，凹区间为\\( (4, +\\infty) \\)，拐点为\\( (4,0) \\)。\n(B) 曲线的凹区间为\\( (-\\infty, 4) \\)，凸区间为\\( (4, +\\infty) \\)，拐点为\\( (4,0) \\)。\n(C) 曲线的凸区间为\\( (-\\infty, 4) \\)，凹区间为\\( (4, +\\infty) \\)，无拐点。\n(D) 曲线的凹区间为\\( (-\\infty, 4) \\)，凸区间为\\( (4, +\\infty) \\)，无拐点。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-219",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 219\n设\\( \\xi \\)为函数\\( f(x) = \\arcsin x \\)在区间\\( [0, b] \\)上使用拉格朗日中值定理中的“中值”，则极限\\( \\lim_{b\\rightarrow0}\\frac{\\xi}{b} = \\)（ ）。\n(A) \\( \\frac{1}{\\sqrt{6}} \\)。\n(B) \\( \\frac{1}{2} \\)。\n(C) \\( \\frac{1}{\\sqrt{3}} \\)。\n(D) \\( \\frac{1}{\\sqrt{2}} \\)。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "拉格朗日中值定理",
+        "中值极限",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T04:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-220",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 220\n设\\( x\\geq0 \\)，由中值定理可知，\\( \\exists\\xi\\in(x, x+1) \\)，使得\\( \\sqrt{x + 1} - \\sqrt{x} = \\frac{1}{2\\sqrt{\\xi}} \\)。若记\\( \\theta(x) = \\xi - x \\)，则下列正确的是（ ）。\n(A) \\( \\theta(x) \\)单调递增，且\\( \\lim_{x\\rightarrow0^+}\\theta(x)=0 \\)，\\( \\lim_{x\\rightarrow+\\infty}\\theta(x)=\\frac{1}{4} \\)。\n(B) \\( \\theta(x) \\)单调递减，且\\( \\lim_{x\\rightarrow0^+}\\theta(x)=\\frac{1}{4} \\)，\\( \\lim_{x\\rightarrow+\\infty}\\theta(x)=0 \\)。\n(C) \\( \\theta(x) \\)单调递增，且\\( \\lim_{x\\rightarrow0^+}\\theta(x)=\\frac{1}{4} \\)，\\( \\lim_{x\\rightarrow+\\infty}\\theta(x)=\\frac{1}{2} \\)。\n(D) \\( \\theta(x) \\)单调递减，且\\( \\lim_{x\\rightarrow0^+}\\theta(x)=\\frac{1}{2} \\)，\\( \\lim_{x\\rightarrow+\\infty}\\theta(x)=\\frac{1}{4} \\)。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "中值定理",
+        "隐式中值函数",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T04:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-221",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 221\n设\\( f(x) \\)在\\( (-1,1) \\)内二阶可导，\\( f''(0)\\neq0 \\)，\\( \\forall x\\in(-1,0)\\cup(0,1) \\)，\\( \\exists\\theta(x) \\)介于0，x之间，且满足\\( f(x) - f(0) = xf'[\\theta(x)x] \\)，则\\( \\lim_{x\\rightarrow0}\\theta(x) = \\)（ ）。\n(A) -1。\n(B) \\( -\\frac{1}{2} \\)。\n(C) \\( \\frac{1}{2} \\)。\n(D) 1。",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "中值定理",
+        "泰勒展开",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T04:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-222",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 222\n曲线\\( y = \\frac{x^2 + 1}{\\sqrt{x^2 - 1}} \\)（ ）。\n(A) 既有铅直又有水平与斜渐近线。\n(B) 仅有铅直渐近线。\n(C) 只有铅直与水平渐近线。\n(D) 只有铅直与斜渐近线。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-223",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 223\n设\\( f(x) = \\begin{cases}2 - \\cos x, & x\\leq0, \\\\ \\sqrt{x} + 1, & x>0,\\end{cases} \\)则（ ）。\n(A) \\( x = 0 \\)是\\( f(x) \\)的极值点，但\\( (0,1) \\)不是曲线\\( y = f(x) \\)的拐点。\n(B) \\( x = 0 \\)不是\\( f(x) \\)的极值点，但\\( (0,1) \\)是曲线\\( y = f(x) \\)的拐点。\n(C) \\( x = 0 \\)是\\( f(x) \\)的极值点，且\\( (0,1) \\)是曲线\\( y = f(x) \\)的拐点。\n(D) \\( x = 0 \\)不是\\( f(x) \\)的极值点，\\( (0,1) \\)不是曲线\\( y = f(x) \\)的拐点。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "极值与拐点",
+        "分段函数",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-224",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 224\n设函数\\( f(x) = 2x^3 - 9x^2 + 12x - a \\)恰有两个不同的零点，则\\( a \\)可能为（ ）。\n(A) 8。\n(B) 6。\n(C) 4。\n(D) 2。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T04:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-225",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 225\n\\( f(x) = \\ln x - \\frac{x}{e} + 1 \\)在区间\\( (0, +\\infty) \\)上的零点个数（ ）。\n(A) 没有。\n(B) 正好1个。\n(C) 正好2个。\n(D) 至少3个。",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-226",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 226\n设 $\\int \\frac{x}{f(x)} \\, dx = \\ln(\\sqrt{1 + x^2} - x) + C$，则 $\\int f(x) \\, dx =$ ?\n- (A) $\\frac{1}{3}(1 + x^2)^{\\frac{3}{2}} + C$\n- (B) $\\frac{2}{3}(1 + x^2)^{\\frac{3}{2}} + C$\n- (C) $-\\frac{1}{3}(1 + x^2)^{\\frac{3}{2}} + C$\n- (D) $-\\frac{2}{3}(1 + x^2)^{\\frac{3}{2}} + C$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "原函数与不定积分",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-227",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 227\n若 $f'(\\sin^2 x) = \\cos^2 x$，则 $f(x) =$ ?\n- (A) $\\sin x - \\frac{1}{2} \\sin^2 x + C$\n- (B) $x - \\frac{1}{2} x^2 + C$\n- (C) $\\cos x - \\sin x + C$\n- (D) $\\frac{1}{2} x^2 - x + C$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-228",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 228\n设 $\\frac{\\sin x}{x}$ 为 $f(x)$ 的一个原函数，且 $a \\neq 0$，则 $\\int \\frac{f(ax)}{a} \\, dx =$ ?\n- (A) $\\frac{\\sin ax}{a^3 x} + C$\n- (B) $\\frac{\\sin ax}{a^2 x} + C$\n- (C) $\\frac{\\sin ax}{ax} + C$\n- (D) $\\frac{\\sin ax}{x} + C$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "原函数与不定积分",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-229",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 229\n设 $f(x)$ 有一阶导数且满足 $\\int_0^1 f(tx) \\, dt = f(x) + x \\sin x$，则 $f(x) =$ ?\n- (A) $x \\sin x - \\cos x + C$\n- (B) $-x \\sin x - \\cos x + C$\n- (C) $x \\sin x + \\cos x + C$\n- (D) $-x \\sin x + \\cos x + C$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "原函数与不定积分",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-230",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 230\n若 $f(x)$ 的一个原函数为 $\\arctan x$，则 $\\int x f(1 - x^2) \\, dx =$ ?\n- (A) $\\arctan(1 - x^2) + C$\n- (B) $x \\arctan(1 - x^2) + C$\n- (C) $-\\frac{1}{2} \\arctan(1 - x^2) + C$\n- (D) $-\\frac{1}{2} x \\arctan(1 - x^2) + C$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_3",
+      "question_id": "660-231",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 231\n设 $f(\\ln x) = x + \\ln^2 x$，则 $\\int x f'(x) \\, dx =$ ?\n- (A) $(x - 1)e^x + \\frac{2}{3} x^3 + C$\n- (B) $(x + 1)e^x + \\frac{4}{3} x^3 + C$\n- (C) $(x - 1)e^x + \\frac{4}{3} x^3 + C$\n- (D) $(x + 1)e^x + \\frac{2}{3} x^3 + C$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-232",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 232\n将 $x \\to 0^+$ 时的三个无穷小 $\\alpha = \\int_0^x \\cos(t^2) \\, dt$，$\\beta = \\int_0^x \\sin \\sqrt{t} \\, dt$，$\\gamma = \\sqrt{1 - x^2} - 1$ 排列起来，使得排在后面一个是前面一个的高阶无穷小，则正确的排列次序是?\n- (A) $\\alpha, \\beta, \\gamma$\n- (B) $\\alpha, \\gamma, \\beta$\n- (C) $\\beta, \\alpha, \\gamma$\n- (D) $\\beta, \\gamma, \\alpha$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-233",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 233\n下列叙述错误的是?\n- (A) 设 $f(x)$ 在 $[-a, a]$ 连续为奇函数，则 $f(x)$ 在 $[-a, a]$ 的全体原函数为偶函数\n- (B) 设 $f(x)$ 在 $[-a, a]$ 连续为偶函数，则 $f(x)$ 在 $[-a, a]$ 的全体原函数为奇函数\n- (C) 设 $f(x)$ 在 $(-\\infty, +\\infty)$ 连续，以 $T$ 为周期且为奇函数，则 $\\int_0^x f(t) \\, dt$ 也是以 $T$ 为周期的函数\n- (D) 设 $f(x)$ 在 $(-\\infty, +\\infty)$ 连续，以 $T$ 为周期，且 $\\int_0^T f(x) \\, dx$ 收敛，则 $\\int_0^x f(t) \\, dt$ 也是以 $T$ 为周期的函数",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T05:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-234",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 234\n设函数 $f(x)$ 连续，则在下列变上限积分定义的函数中，必为偶函数的是?\n- (A) $\\int_0^x t[f(t) - f(-t)] \\, dt$\n- (B) $\\int_0^x t[f(t) + f(-t)] \\, dt$\n- (C) $\\int_0^x f(t^2) \\, dt$\n- (D) $\\int_0^x [f(t)]^2 \\, dt$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-235",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 235\n设 $f(x)$ 二阶可导，$f(0) > 0$，$F(x) = \\int_0^x x^2 f(t) \\, dt$，$f(x)$ 可导，且 $f'(x) > 0$，则?\n- (A) $F(0)$ 是极大值\n- (B) $F(0)$ 是极小值\n- (C) $F(0)$ 不是极值，但 $(0, F(0))$ 是曲线 $F(x)$ 的拐点坐标\n- (D) $F(0)$ 不是极值，$(0, F(0))$ 也不是曲线 $F(x)$ 的拐点坐标",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-236",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 236\n下列积分中不等于 0 的是?\n- (A) $\\int_{-1/2}^{1/2} \\cos x \\ln \\frac{1 - x}{1 + x} \\, dx$\n- (B) $\\int_{-3}^3 \\ln(x + \\sqrt{1 + x^2}) \\, dx$\n- (C) $\\int_{-1}^1 \\frac{x - \\sqrt{1 + x^2}}{x + \\sqrt{1 + x^2}} \\, dx$\n- (D) $\\int_{-\\pi/2}^{\\pi/2} \\frac{\\sin x \\cos^4 x}{1 + x^2} \\, dx$",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-30T05:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-237",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 237\n设 $f(x)$ 为连续函数，$g(x) = \\int_0^0 t f(x + t) \\, dt$，则 $g'(x) =$ ?\n- (A) $-\\int_0^{-x} f(u) \\, du$\n- (B) $\\int_0^x f(u) \\, du$\n- (C) $-\\int_0^x f(u) \\, du$\n- (D) $\\int_0^{-x} f(u) \\, du$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-238",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 238\n设 $f(x) = \\begin{cases} -x, & x \\in [0, 1], \\\\ 1 + x, & x \\in [-1, 0) \\end{cases}$，$F(x) = \\int_{-1}^x f(t) \\, dt$，则在 $x = 0$ 处 $F(x)$?\n- (A) 无定义\n- (B) 有定义，但不连续\n- (C) 连续但不可导\n- (D) 可导",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-30T05:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-239",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 239\n设 $f(x)$ 在 $x = 0$ 的某邻域内连续，在 $x = 0$ 处可导，且 $f(0) = 0$，$\\varphi(x) = \\begin{cases} \\frac{1}{x^2} \\int_0^x t f(t) \\, dt, & x \\neq 0, \\\\ 0, & x = 0 \\end{cases}$，则 $\\varphi(x)$ 在 $x = 0$ 处?\n- (A) 不连续\n- (B) 连续但不可导\n- (C) 可导但 $\\varphi'(x)$ 在 $x = 0$ 不连续\n- (D) 可导且 $\\varphi'(x)$ 在 $x = 0$ 连续",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-240",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 240\n设 $F(x) = \\int_0^x e^{-t^2} \\, dt - \\int_0^{e^x} \\frac{1}{t^4 + 1} \\, dt$，则方程 $F(x) = 0$ 在区间 $(-\\infty, +\\infty)$ 上?\n- (A) 没有根\n- (B) 正好一个根\n- (C) 正好两个根\n- (D) 至少三个根",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:16:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-241",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 241\n已知 $f(x)$ 是连续函数，满足 $f(x) = x + 2\\int_0^1 f(t)dt$，则函数 $xf(x)$ 在区间 $[0,2]$ 上的平均值为?\n- (A) $1$\n- (B) $\\frac{1}{2}$\n- (C) $\\frac{1}{3}$\n- (D) $\\frac{1}{4}$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:17:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-242",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 242\n设 $f(x)$ 可导，$f(0)=0$，$f'(0)=2$，$F(x)=\\int_0^x t^2 f(x^3 - t^3)dt$，$g(x)=\\frac{x^7}{5}+\\frac{x^8}{6}$，则当 $x \\to 0$ 时，$F(x)$ 是 $g(x)$ 的?\n- (A) 低阶无穷小\n- (B) 高阶无穷小\n- (C) 等价无穷小\n- (D) 同阶但非等价无穷小",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:18:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-243",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 243\n已知当 $x \\to 0^+$ 时，$g(x)=\\int_0^1 e^{x^2}dt - \\left(1+\\frac{x}{3}+\\frac{x^2}{10}\\right)$与$Ax^k$是等价无穷小，则?\n- (A) $k=3,A=\\frac{1}{42}$\n- (B) $k=3,A=-\\frac{1}{42}$\n- (C) $k=2,A=\\frac{1}{42}$\n- (D) $k=2,A=-\\frac{1}{42}$",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-30T05:19:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-244",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 244\n设 $a$ 与 $b$ 是两个常数，且 $\\lim_{x \\to +\\infty} e^x\\left(\\int_0^{\\sqrt{x}} e^{-t^2}dt + a\\right)=b$，则?\n- (A) $a$ 为任意常数，$b=0$\n- (B) $a=-\\frac{\\sqrt{\\pi}}{2},b=0$\n- (C) $a=0,b=1$\n- (D) $a=-\\sqrt{\\pi},b=0$",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "变上限积分与定积分性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-06-30T05:20:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-245",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 245\n设 $f(x)$ 在区间 $[a,b]$ 内连续，则下列结论中正确的个数为\n① $f(x)$ 在 $[a,b]$ 的任意子区间 $[\\alpha,\\beta]$ 上有 $\\int_\\alpha^\\beta f(x)dx=0$，则 $f(x)=0 (\\forall x \\in [a,b])$\n② $f(x) \\geq 0 (x \\in [a,b])$，又 $\\int_a^b f(x)dx=0$，则 $f(x)=0 (x \\in [a,b])$\n③ $[\\alpha,\\beta] \\subset [a,b]$，则 $\\int_a^b f(x)dx \\geq \\int_a^\\beta f(x)dx$\n- (A) $0$\n- (B) $1$\n- (C) $2$\n- (D) $3$",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T05:21:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-246",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 246\n$\\int_{-1}^1 (x+2|x|)^2\\sqrt{1-x^2}dx =$ ?\n- (A) $\\frac{1}{8}\\pi$\n- (B) $\\frac{3}{8}\\pi$\n- (C) $\\frac{5}{8}\\pi$\n- (D) $\\pi$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:22:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-247",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 247\n$\\int_{-1}^1 \\sqrt{\\frac{1-x}{1+x}}dx =$ ?\n- (A) $-\\pi$\n- (B) $2\\pi$\n- (C) $\\pi$\n- (D) $3\\pi$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:23:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-248",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 248\n$I=\\int_0^\\pi x\\sqrt{\\cos^2x - \\cos^4x}dx =$ ?\n- (A) $\\pi$\n- (B) $\\frac{\\pi}{2}$\n- (C) $\\frac{\\pi}{3}$\n- (D) $\\frac{\\pi}{4}$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:24:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-249",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 249\n设 $M=\\int_{-\\frac{\\pi}{2}}^{\\frac{\\pi}{2}} \\frac{(1+x)^2}{1+x^2}dx,N=\\int_{-\\frac{\\pi}{2}}^{\\frac{\\pi}{2}} \\frac{1+x}{e^x}dx,K=\\int_{-\\frac{\\pi}{2}}^{\\frac{\\pi}{2}} (1+\\sqrt{\\cos x})dx$，则?\n- (A) $M>N>K$\n- (B) $M>K>N$\n- (C) $K>M>N$\n- (D) $K>N>M$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "定积分计算与性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:25:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-250",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 250\n设 $F(x)=\\int_0^x \\left[\\int_0^{u^2} \\ln(1+t^2)dt\\right]du$，则曲线 $y=F(x)$?\n- (A) 在区间 $(-\\infty,0)$ 上是凹的，在区间 $(0,+\\infty)$ 上是凸的\n- (B) 在区间 $(-\\infty,0)$ 上是凸的，在区间 $(0,+\\infty)$ 上是凹的\n- (C) 在区间 $(-\\infty,+\\infty)$ 上是凹的\n- (D) 在区间 $(-\\infty,+\\infty)$ 上是凸的",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "定积分计算与性质",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:26:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-251",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 251\n设 $f(u)$ 为连续函数，且 $\\int_0^x tf(2x-t)dt=\\frac{1}{2}\\ln(1+x^2)$，$f(1)=1$，则 $\\int_1^2 f(x)dx =$ ?\n- (A) $\\frac{1}{4}$\n- (B) $\\frac{1}{2}$\n- (C) $\\frac{3}{4}$\n- (D) $1$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:27:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-252",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 252\n关于 $\\int_{-\\infty}^{+\\infty} e^{|x|}\\sin2xdx$，下列结论正确的是?\n- (A) 取值为零\n- (B) 取正值\n- (C) 发散\n- (D) 取负值",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "反常积分与极限",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T05:28:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-253",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 253\n设 $b$ 为常数，积分 $\\int_1^{+\\infty} \\left[\\frac{x^2 + bx +1}{x(x+2)} -1\\right]dx$ 收敛，则 $b$ 及该积分的值分别为?\n- (A) $2,\\ln3$\n- (B) $2,\\frac{1}{2}\\ln3$\n- (C) $1,\\frac{1}{2}\\ln2$\n- (D) $1,\\ln2$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "反常积分与极限",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:29:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-254",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 254\n下列反常积分发散的是?\n- (A) $\\int_{-1}^1 \\frac{1}{\\sin x}dx$\n- (B) $\\int_{-1}^1 \\frac{1}{\\sqrt{1-x^2}}dx$\n- (C) $\\int_0^{+\\infty} e^{-x^2}dx$\n- (D) $\\int_2^{+\\infty} \\frac{1}{x\\ln^2 x}dx$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "反常积分与极限",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:30:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-255",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 255\n对于反常积分 $\\int_1^2 \\left[\\frac{1}{x\\ln^2 x} - \\frac{k}{(x-1)^2}\\right]dx$（其中 $k$ 是常数），下列结论正确的是?\n- (A) 当 $k=1$ 时，反常积分收敛\n- (B) 当 $k \\neq 1$ 时，反常积分收敛\n- (C) 当 $k=0$ 时，反常积分收敛\n- (D) 当 $k \\neq 0$ 时，反常积分收敛",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "反常积分与极限",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:31:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-256",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 256\n数列极限 $I = \\lim_{n \\to \\infty} \\int_1^{\\sqrt[3]{n}} \\frac{\\sqrt[n]{x}}{1+x^2}dx =$ ?\n- (A) $\\frac{\\sqrt{3}}{12}\\pi$\n- (B) $\\frac{\\pi}{12}$\n- (C) $\\frac{\\pi}{3}$\n- (D) $\\frac{\\pi}{2}$",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "反常积分与极限",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T05:32:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-257",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 257\n设 $a_n = 3\\int_0^{\\frac{n+1}{n}} x^{2n-1}\\sqrt{1+x^{2n}}dx$，则 $\\lim_{n \\to \\infty} na_n =$ ?\n- (A) $(1+e)^{\\frac{3}{2}} + 1$\n- (B) $(1+e^2)^{\\frac{3}{2}} - 1$\n- (C) $(1+e^{-1})^{\\frac{3}{2}} + 1$\n- (D) $(1+e)^{\\frac{3}{2}} - 1$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "反常积分与极限",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:33:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_4",
+      "question_id": "660-258",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 258\n$\\lim_{x \\to +\\infty} \\frac{\\int_0^x |\\sin t|dt}{x} =$ ?\n- (A) $=0$\n- (B) 不存在\n- (C) $=\\frac{2}{\\pi}$\n- (D) $=\\frac{1}{\\pi}$",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "反常积分与极限",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-06-30T05:34:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_5",
+      "question_id": "660-259",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 259\n曲线 $y = \\cos x\\left(x \\in \\left[0,\\frac{\\pi}{2}\\right]\\right)$ 与 $x$ 轴，$y$ 轴所围面积被曲线 $y = a\\sin x$ 等分，则 $a =$ ?\n- (A) $\\frac{2}{5}$\n- (B) $\\frac{3}{5}$\n- (C) $\\frac{3}{4}$\n- (D) $\\frac{1}{2}$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "定积分几何应用",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:35:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_5",
+      "question_id": "660-260",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 260\n设平面区域 $D$ 由曲线 $y = \\sin x$，$y = \\frac{2}{\\pi}x\\left(0 \\leqslant x \\leqslant \\frac{\\pi}{2}\\right)$ 围成，则区域 $D$ 的面积以及该区域绕 $x$ 轴旋转一周所得旋转体体积分别为?\n- (A) $1 - \\frac{\\pi}{4}$，$\\frac{5\\pi^2}{12}$\n- (B) $1 + \\frac{\\pi}{4}$，$\\frac{5\\pi^2}{12}$\n- (C) $1 - \\frac{\\pi}{4}$，$\\frac{\\pi^2}{12}$\n- (D) $1 + \\frac{\\pi}{4}$，$\\frac{\\pi^2}{12}$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "定积分几何应用",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:36:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_5",
+      "question_id": "660-261",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 261\n曲线 $y = 2\\sqrt{x-1}(1 \\leqslant x \\leqslant 2)$ 绕 $x$ 轴旋转一周所得旋转曲面的面积为?\n- (A) $\\frac{4}{3}\\pi$\n- (B) $\\frac{8\\pi}{3}(2\\sqrt{2}-1)$\n- (C) $\\frac{8\\pi}{3}$\n- (D) $\\frac{4\\pi}{3}(2\\sqrt{2}-1)$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:37:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_5",
+      "question_id": "660-262",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 262\n过原点与曲线 $C:y = x^2 + 1$ 相切的两条切线与 $C$ 所围成的图形绕 $y$ 轴旋转生成的旋转体体积 $V =$ ?\n- (A) $\\frac{\\pi}{4}$\n- (B) $\\frac{\\pi}{2}$\n- (C) $\\frac{\\pi}{6}$\n- (D) $\\pi$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "定积分几何应用",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:38:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_5",
+      "question_id": "660-263",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 263\n由曲线 $y = 1 - (x-1)^2$ 及直线 $y = 0$ 围成图形绕 $y$ 轴旋转一周而成立体的体积 $V$ 是?\n- (A) $\\int_0^1 \\pi(1+\\sqrt{1+y})^2dy$\n- (B) $\\int_0^1 \\pi(1-\\sqrt{1-y})^2dy$\n- (C) $\\int_0^1 \\pi\\left[(1+\\sqrt{1-y}) - (1-\\sqrt{1-y})\\right]^2dy$\n- (D) $\\int_0^1 \\pi\\left[(1+\\sqrt{1-y})^2 - (1-\\sqrt{1-y})^2\\right]dy$",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-06-30T05:39:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_5",
+      "question_id": "660-264",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 264\n半圆形闸门半径为 $R$（米），将其垂直放入水中，且直径与水面齐.设 $\\rho g = 1$.若坐标原点取在圆心，$x$ 轴正向朝下，则闸门所受压力 $p$ 为?\n- (A) $\\int_0^R \\sqrt{R^2 - x^2}dx$\n- (B) $\\int_0^R 2\\sqrt{R^2 - x^2}dx$\n- (C) $\\int_0^R 2x\\sqrt{R^2 - x^2}dx$\n- (D) $\\int_0^R 2(R-x)\\sqrt{R^2 - x^2}dx$",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "定积分几何应用",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 135
     }
   ],
   "maintenance_policy": "append_only_active"
