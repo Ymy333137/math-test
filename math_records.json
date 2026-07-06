@@ -24,9 +24,9 @@
     },
     "workbook_660": {
       "status": "active",
-      "curriculum_unit": "unit_5",
-      "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-264",
-      "recorded_count": 219,
+      "curriculum_unit": "unit_6",
+      "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-279",
+      "recorded_count": 234,
       "current_target_score_tier": 90,
       "history": [],
       "record_file": "660-record.json"
@@ -42,12 +42,12 @@
       "current_difficulty": "Level 1"
     },
     "unit_5": {
-      "status": "active",
+      "status": "completed",
       "history": [],
       "current_difficulty": "Level 1"
     },
     "unit_6": {
-      "status": "completed",
+      "status": "active",
       "history": [],
       "current_difficulty": "Level 1"
     },

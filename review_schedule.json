@@ -58,7 +58,17 @@
       "workbook_660:660-223",
       "workbook_660:660-236",
       "workbook_660:660-258",
-      "workbook_660:660-262"
+      "workbook_660:660-262",
+      "workbook_660:660-266",
+      "workbook_660:660-268",
+      "workbook_660:660-269",
+      "workbook_660:660-270",
+      "workbook_660:660-272",
+      "workbook_660:660-273",
+      "workbook_660:660-274",
+      "workbook_660:660-277",
+      "workbook_660:660-278",
+      "workbook_660:660-279"
     ],
     "2026-07-08": [
       "workbook_660:660-17"
@@ -213,7 +223,7 @@
       "workbook_660:660-48"
     ]
   },
-  "updated_at": "2026-07-06T09:58:14",
+  "updated_at": "2026-07-07T00:44:17",
   "daily_plans": {
     "2026-05-14": [
       "workbook_660:660-3",
@@ -1031,6 +1041,34 @@
       "workbook_660:660-256",
       "workbook_660:660-259",
       "workbook_660:660-262"
+    ],
+    "2026-07-07": [
+      "workbook_660:660-25",
+      "workbook_660:660-30",
+      "workbook_660:660-33",
+      "workbook_660:660-52",
+      "workbook_660:660-125",
+      "workbook_660:660-133",
+      "workbook_660:660-176",
+      "workbook_660:660-211",
+      "workbook_660:660-212",
+      "workbook_660:660-214",
+      "workbook_660:660-217",
+      "workbook_660:660-221",
+      "workbook_660:660-223",
+      "workbook_660:660-236",
+      "workbook_660:660-258",
+      "workbook_660:660-262",
+      "workbook_660:660-266",
+      "workbook_660:660-268",
+      "workbook_660:660-269",
+      "workbook_660:660-270",
+      "workbook_660:660-272",
+      "workbook_660:660-273",
+      "workbook_660:660-274",
+      "workbook_660:660-277",
+      "workbook_660:660-278",
+      "workbook_660:660-279"
     ]
   }
 }

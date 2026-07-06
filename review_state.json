@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "settings": {
-    "daily_limit": 20,
+    "daily_limit": 10,
     "selected_tiers": [
       90,
       110,
@@ -6180,5 +6180,5 @@
       "next_due_at": "2026-07-07"
     }
   },
-  "updated_at": "2026-07-06T09:58:14"
+  "updated_at": "2026-07-07T00:44:17"
 }
