@@ -2,10 +2,10 @@
   "version": "1.0",
   "workbook": "workbook_660",
   "source_label": "题册660",
-  "curriculum_unit": "unit_6",
+  "curriculum_unit": "unit_7",
   "status": "active",
-  "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-279",
-  "recorded_count": 234,
+  "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-297",
+  "recorded_count": 252,
   "history": [
     {
       "question_id": "660-1",
@@ -2963,6 +2963,233 @@
         135
       ],
       "error_level": "B"
+    },
+    {
+      "question_id": "660-280",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-281",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-282",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-283",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-284",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-285",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-286",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B"
+    },
+    {
+      "question_id": "660-287",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-288",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-289",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-290",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-291",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-292",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-293",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-294",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
+    },
+    {
+      "question_id": "660-295",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C"
+    },
+    {
+      "question_id": "660-296",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null
+    },
+    {
+      "question_id": "660-297",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "unit": "unit_7",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A"
     }
   ],
   "records": [
@@ -10200,6 +10427,551 @@
       "performance_level": "合格",
       "difficulty_adjustment_suggestion": "keep",
       "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-07-09T00:01:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-280",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 280\n已知 $f\\left(\\frac{1}{y},\\frac{1}{x}\\right)=\\frac{xy-x^2}{x-2y}$，则 $f(x,y)=$\n(A) $\\frac{x-y}{xy-2x^2}$.\n(B) $\\frac{x-y}{xy-2y^2}$.\n(C) $\\frac{y-x}{xy-2x^2}$.\n(D) $\\frac{y-x}{xy-2y^2}$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:02:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-281",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 281\n设函数 $f(x,y)$ 可微，且对任意 $x,y$ 都有 $\\frac{\\partial f(x,y)}{\\partial x}>0,\\frac{\\partial f(x,y)}{\\partial y}<0$，则使不等式 $f(x_1,y_1)<f(x_2,y_2)$ 成立的一个充分条件是\n(A) $x_1>x_2,y_1<y_2$.\n(B) $x_1>x_2,y_1>y_2$.\n(C) $x_1<x_2,y_1<y_2$.\n(D) $x_1<x_2,y_1>y_2$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:03:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-282",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 282\n设可微函数 $f(x,y)$ 满足 $\\frac{\\partial f}{\\partial x}>1,\\frac{\\partial f}{\\partial y}<-1,f(0,0)=0$，则下列结论正确的是\n(A) $f(1,1)>1$.\n(B) $f(-1,1)>-2$.\n(C) $f(-1,-1)<0$.\n(D) $f(1,-1)>2$.",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-07-09T00:04:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-283",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 283\n设函数 $z=\\sqrt{x^2+y^2}f\\left(\\frac{y}{x}\\right)$，且 $f(u)$ 可导，若 $x\\frac{\\partial z}{\\partial x}+y\\frac{\\partial z}{\\partial y}=\\frac{2y^2}{\\sqrt{x^2+y^2}}$，则\n(A) $f(1)=1,f'(1)=0$.\n(B) $f(1)=0,f'(1)=1$.\n(C) $f(1)=0,f'(1)=0$.\n(D) $f(1)=1,f'(1)=1$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:05:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-284",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 284\n设 $z=xf(x-y)+yg(x+y)$，其中 $f$ 与 $g$ 有二阶连续导数，则 $\\frac{\\partial^2 z}{\\partial x^2}-\\frac{\\partial^2 z}{\\partial y^2}$ 等于\n(A) $2(f'-g')$.\n(B) $f'-g'$.\n(C) $f'+g'$.\n(D) $xf''+yg''$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:06:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-285",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 285\n设 $z=z(x,y)$ 是由方程 $3xy+2x-4y-z=\\text{e}^z$ 确定的隐函数，且 $z(1,1)=0$，则 $\\left.\\frac{\\partial^2 z}{\\partial x\\partial y}\\right|_{(1,1)}=$\n(A) $4\\frac{1}{2}$.\n(B) $2\\frac{1}{8}$.\n(C) $4\\frac{1}{4}$.\n(D) $8\\frac{1}{4}$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:07:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-286",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 286\n函数 $f(x,y)=1+x+y$ 在区域 $x^2+y^2\\leqslant 1$ 上的最大值与最小值之积为\n(A) $-1$.\n(B) $1$.\n(C) $1+\\sqrt{2}$.\n(D) $1-\\sqrt{2}$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:08:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-287",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 287\n设 $[f(x)-\\text{e}^x]\\sin y\\text{d}x-f(x)\\cos y\\text{d}y$ 是一个二元函数的全微分，且 $f(x)$ 具有一阶连续导数，$f(0)=0$，则 $f(x)$ 等于\n(A) $\\frac{\\text{e}^x+\\text{e}^{-x}}{2}-1$.\n(B) $1-\\frac{\\text{e}^x+\\text{e}^{-x}}{2}$.\n(C) $\\frac{\\text{e}^{-x}-\\text{e}^x}{2}$.\n(D) $\\frac{\\text{e}^x-\\text{e}^{-x}}{2}$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:09:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-288",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 288\n设 $f(x,y)=\\begin{cases}xy,&xy\\neq 0,\\\\1,&xy=0.\\end{cases}$ 则下列命题成立的个数为\n① $f(x,y)$ 在 $(0,0)$ 点处两个偏导数都存在.\n② $\\lim\\limits_{x\\to 0}f'_x(x,0)=f'_x(0,0)$，且 $\\lim\\limits_{y\\to 0}f'_y(0,y)=f'_y(0,0)$.\n③ $f(x,y)$ 在 $(0,0)$ 点处两个偏导数都连续.\n$f(x,y)$ 在 $(0,0)$ 点处可微.\n(A) 1.\n(B) 2.\n(C) 3.\n(D) 4.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:10:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-289",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 289\n函数 $f(x,y)$ 在 $(0,0)$ 点可微的充分条件是\n(A) $\\lim\\limits_{x\\to 0}f'_x(x,0)=f'_x(0,0)$ 且 $\\lim\\limits_{y\\to 0}f'_y(0,y)=f'_y(0,0)$.\n(B) $\\lim\\limits_{(x,y)\\to(0,0)}[f(x,y)-f(0,0)]=0$.\n(C) $\\lim\\limits_{x\\to 0}\\frac{f(x,0)-f(0,0)}{x}$ 和 $\\lim\\limits_{y\\to 0}\\frac{f(0,y)-f(0,0)}{y}$ 都存在.\n(D) $\\lim\\limits_{(x,y)\\to(0,0)}f'_x(x,y)=f'_x(0,0)$ 且 $\\lim\\limits_{(x,y)\\to(0,0)}f'_y(x,y)=f'_y(0,0)$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:11:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-290",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 290\n设方程组 $\\begin{cases}x=u+vz,\\\\y=-u^2+v+z\\end{cases}$ 在点 $(2,1,1)$ 的某一个邻域内确定隐函数 $u(x,y,z)$ 与 $v(x,y,z)$，且 $u(2,1,1)>0$，则 $\\left(\\frac{\\partial u}{\\partial x}+\\frac{\\partial v}{\\partial y}+\\frac{\\partial u}{\\partial z}\\right)\\bigg|_{(2,1,1)}=$\n(A) $\\frac{1}{9}$.\n(B) $\\frac{1}{3}$.\n(C) $\\frac{2}{9}$.\n(D) $\\frac{2}{3}$.",
+      "target_score_tier": 135,
+      "required_for_scores": [
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 135
+    },
+    {
+      "timestamp": "2026-07-09T00:12:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-291",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 291\n设方程 $F(x,y,z)=0$ 确定隐函数 $z=z(x,y)$. 若已知 $F(x,y,z)$ 可微，且 $F'_x(1,1,1)=-2,F'_y(1,1,1)=2,z(1,1)=1$ 和 $z'_y(1,1)=3$，则 $z'_x(1,1)$ 等于\n(A) $-3$.\n(B) $-4$.\n(C) 3.\n(D) 4.",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-07-09T00:13:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-292",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 292\n已知 $f(x,y)=\\begin{cases}xy\\frac{x^2-y^2}{x^2+y^2},&(x,y)\\neq(0,0),\\\\0,&(x,y)=(0,0),\\end{cases}$ 则\n(A) $f''_{xy}(0,0)=1$.\n(B) $f''_{xy}(0,0)=0$.\n(C) $f''_{yx}(0,0)=1$.\n(D) $f''_{yx}(0,0)=-1$.",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-07-09T00:14:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-293",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 293\n已知 $\\text{d}f(x,y)=(2y^2+2xy+3x^2)\\text{d}x+(4xy+x^2)\\text{d}y$，则 $f(x,y)=$\n(A) $2xy^2+x^2y$.\n(B) $2xy^2+x^2y+x^3$.\n(C) $2xy^2+x^2y+x^3+C$.\n(D) $3xy^2+x^2y+x^3+C$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:15:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-294",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 294\n设 $f(x,y)=x^3-4x^2+2xy-y^2$，区域 $D=\\{(x,y)\\mid -1\\leqslant x\\leqslant 4,-1\\leqslant y\\leqslant 1\\}$，则下面结论正确的是\n(A) 点 $(0,0)$ 是 $f(x,y)$ 的极大值点且是 $f(x,y)$ 在区域 $D$ 上的最大值点.\n(B) 点 $(0,0)$ 是 $f(x,y)$ 的极大值点但不是 $f(x,y)$ 在区域 $D$ 上的最大值点.\n(C) 点 $(0,0)$ 是 $f(x,y)$ 的极小值点.\n(D) 点 $(0,0)$ 是 $f(x,y)$ 的驻点，但不是极值点.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:16:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-295",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 295\n设 $F(x,y)$ 具有二阶连续偏导数，且 $F(x_0,y_0)=0,F'_x(x_0,y_0)=0,F'_y(x_0,y_0)>0$. 若一元函数 $y=y(x)$ 是由方程 $F(x,y)=0$ 所确定的在点 $(x_0,y_0)$ 附近的隐函数，则 $x_0$ 是函数 $y=y(x)$ 的极小值点的一个充分条件是\n(A) $F''_{xx}(x_0,y_0)>0$.\n(B) $F''_{xx}(x_0,y_0)<0$.\n(C) $F''_{yy}(x_0,y_0)>0$.\n(D) $F''_{yy}(x_0,y_0)<0$.",
+      "target_score_tier": 110,
+      "required_for_scores": [
+        110,
+        135
+      ],
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 110
+    },
+    {
+      "timestamp": "2026-07-09T00:17:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-296",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 296\n设有三个正数 $x,y,z$ 满足 $x+y+z=a$，其中 $a>0$ 为常数，又 $xyz\\leqslant b$，则 $b$ 的最小取值是\n(A) $\\frac{a^3}{21}$.\n(B) $\\frac{a^3}{18}$.\n(C) $\\frac{a^3}{9}$.\n(D) $\\frac{a^3}{27}$.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": null,
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": 90
+    },
+    {
+      "timestamp": "2026-07-09T00:18:00Z",
+      "unit": "workbook_660",
+      "curriculum_unit": "unit_7",
+      "question_id": "660-297",
+      "source_label": "题册660",
+      "assessment_basis": "self_report",
+      "question_md": "### 297\n函数 $z=x^2+y^2-6x+8y$ 在圆域 $x^2+y^2\\leqslant 100$ 上的最大值与最小值分别是\n(A) 200, $-25$.\n(B) 180, 0.\n(C) 205, $-15$.\n(D) 190, 10.",
+      "target_score_tier": 90,
+      "required_for_scores": [
+        90,
+        110,
+        135
+      ],
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "多元函数微分学",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": 90
     }
   ],
   "maintenance_policy": "append_only_active"
