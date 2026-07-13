@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "active_workbook": "workbook_660",
+  "active_workbook": "workbook_880",
   "units": {
     "unit_1": {
       "status": "completed",
@@ -23,7 +23,7 @@
       "record_file": "800-record.json"
     },
     "workbook_660": {
-      "status": "active",
+      "status": "review_only",
       "curriculum_unit": "unit_7",
       "recorded_range": "660-1..660-78, 660-81..660-103, 660-121..660-134, 660-161..660-297",
       "recorded_count": 252,
@@ -65,11 +65,41 @@
       "status": "active",
       "history": [],
       "current_difficulty": "Level 1"
+    },
+    "workbook_880": {
+      "status": "active",
+      "curriculum_unit": null,
+      "current_section": "基础题",
+      "section_schema": [
+        "基础题",
+        "综合题",
+        "拓展题"
+      ],
+      "question_type_schema": [
+        "选择题",
+        "填空题",
+        "解答题"
+      ],
+      "score_tiers": [
+        "120以下",
+        "120+"
+      ],
+      "current_target_score_tier": "120以下",
+      "recorded_pages": [
+        1,
+        2,
+        3
+      ],
+      "recorded_range": "基础题：P1-(1)..P3-(5)",
+      "recorded_count": 31,
+      "history": [],
+      "record_file": "880-record.json"
     }
   },
   "records": [],
   "record_files": {
     "workbook_800": "800-record.json",
-    "workbook_660": "660-record.json"
+    "workbook_660": "660-record.json",
+    "workbook_880": "880-record.json"
   }
 }
