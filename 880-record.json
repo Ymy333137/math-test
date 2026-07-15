@@ -21,10 +21,12 @@
   "recorded_pages": [
     1,
     2,
-    3
+    3,
+    7,
+    8
   ],
-  "recorded_range": "基础题：P1-(1)..P3-(5)",
-  "recorded_count": 31,
+  "recorded_range": "基础题：P1-P3、P7-P8",
+  "recorded_count": 48,
   "history": [
     {
       "question_id": "880-basic-choice-P1-(1)",
@@ -40,7 +42,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -58,7 +60,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -76,7 +78,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -94,7 +96,7 @@
         "120+"
       ],
       "error_level": "A",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.49,
       "performance_level": "不佳"
     },
@@ -112,7 +114,7 @@
         "120+"
       ],
       "error_level": "B",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.62,
       "performance_level": "合格"
     },
@@ -130,7 +132,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -148,7 +150,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -166,7 +168,7 @@
         "120+"
       ],
       "error_level": "B",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.62,
       "performance_level": "合格"
     },
@@ -184,7 +186,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -202,7 +204,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -220,7 +222,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -238,7 +240,7 @@
         "120+"
       ],
       "error_level": "A",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.49,
       "performance_level": "不佳"
     },
@@ -256,7 +258,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -274,7 +276,7 @@
         "120+"
       ],
       "error_level": "B",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.62,
       "performance_level": "合格"
     },
@@ -292,7 +294,7 @@
         "120+"
       ],
       "error_level": "B",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.62,
       "performance_level": "合格"
     },
@@ -310,7 +312,7 @@
         "120+"
       ],
       "error_level": "A",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.49,
       "performance_level": "不佳"
     },
@@ -328,7 +330,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -346,7 +348,7 @@
         "120+"
       ],
       "error_level": "B",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.62,
       "performance_level": "合格"
     },
@@ -364,7 +366,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -382,7 +384,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -400,7 +402,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -418,7 +420,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -436,7 +438,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -454,7 +456,7 @@
         "120+"
       ],
       "error_level": "B",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.62,
       "performance_level": "合格"
     },
@@ -472,7 +474,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -490,7 +492,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -508,7 +510,7 @@
         "120+"
       ],
       "error_level": "C",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.28,
       "performance_level": "不佳"
     },
@@ -526,7 +528,7 @@
         "120+"
       ],
       "error_level": null,
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.94,
       "performance_level": "优秀"
     },
@@ -544,7 +546,7 @@
         "120+"
       ],
       "error_level": "C",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.28,
       "performance_level": "不佳"
     },
@@ -562,7 +564,7 @@
         "120+"
       ],
       "error_level": "A",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.49,
       "performance_level": "不佳"
     },
@@ -580,16 +582,322 @@
         "120+"
       ],
       "error_level": "B",
-      "unit": null,
+      "unit": "unit_1",
       "mastery": 0.62,
       "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(1)",
+      "display_id": "P7-(1)",
+      "display_label": "基础题 · 选择题 · P7-(1)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 32,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(2)",
+      "display_id": "P7-(2)",
+      "display_label": "基础题 · 选择题 · P7-(2)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 33,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(3)",
+      "display_id": "P7-(3)",
+      "display_label": "基础题 · 选择题 · P7-(3)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 34,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(4)",
+      "display_id": "P7-(4)",
+      "display_label": "基础题 · 选择题 · P7-(4)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 35,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(5)",
+      "display_id": "P7-(5)",
+      "display_label": "基础题 · 选择题 · P7-(5)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 36,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(6)",
+      "display_id": "P7-(6)",
+      "display_label": "基础题 · 选择题 · P7-(6)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 37,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(7)",
+      "display_id": "P7-(7)",
+      "display_label": "基础题 · 选择题 · P7-(7)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 38,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(8)",
+      "display_id": "P7-(8)",
+      "display_label": "基础题 · 选择题 · P7-(8)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 39,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P7-(9)",
+      "display_id": "P7-(9)",
+      "display_label": "基础题 · 选择题 · P7-(9)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 40,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(10)",
+      "display_id": "P8-(10)",
+      "display_label": "基础题 · 选择题 · P8-(10)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 41,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(11)",
+      "display_id": "P8-(11)",
+      "display_label": "基础题 · 选择题 · P8-(11)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 42,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(12)",
+      "display_id": "P8-(12)",
+      "display_label": "基础题 · 选择题 · P8-(12)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 43,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(13)",
+      "display_id": "P8-(13)",
+      "display_label": "基础题 · 选择题 · P8-(13)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 44,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(14)",
+      "display_id": "P8-(14)",
+      "display_label": "基础题 · 选择题 · P8-(14)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 45,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(15)",
+      "display_id": "P8-(15)",
+      "display_label": "基础题 · 选择题 · P8-(15)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 46,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(16)",
+      "display_id": "P8-(16)",
+      "display_label": "基础题 · 选择题 · P8-(16)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 47,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_2",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P8-(17)",
+      "display_id": "P8-(17)",
+      "display_label": "基础题 · 选择题 · P8-(17)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 48,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
     }
   ],
   "records": [
     {
       "timestamp": "2026-07-12T04:01:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(1)",
       "display_id": "P1-(1)",
       "display_label": "基础题 · 选择题 · P1-(1)",
@@ -623,7 +931,7 @@
     {
       "timestamp": "2026-07-12T04:02:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(2)",
       "display_id": "P1-(2)",
       "display_label": "基础题 · 选择题 · P1-(2)",
@@ -657,7 +965,7 @@
     {
       "timestamp": "2026-07-12T04:03:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(3)",
       "display_id": "P1-(3)",
       "display_label": "基础题 · 选择题 · P1-(3)",
@@ -691,7 +999,7 @@
     {
       "timestamp": "2026-07-12T04:04:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(4)",
       "display_id": "P1-(4)",
       "display_label": "基础题 · 选择题 · P1-(4)",
@@ -732,7 +1040,7 @@
     {
       "timestamp": "2026-07-12T04:05:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(5)",
       "display_id": "P1-(5)",
       "display_label": "基础题 · 选择题 · P1-(5)",
@@ -773,7 +1081,7 @@
     {
       "timestamp": "2026-07-12T04:06:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(6)",
       "display_id": "P1-(6)",
       "display_label": "基础题 · 选择题 · P1-(6)",
@@ -807,7 +1115,7 @@
     {
       "timestamp": "2026-07-12T04:07:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(7)",
       "display_id": "P1-(7)",
       "display_label": "基础题 · 选择题 · P1-(7)",
@@ -841,7 +1149,7 @@
     {
       "timestamp": "2026-07-12T04:08:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(8)",
       "display_id": "P1-(8)",
       "display_label": "基础题 · 选择题 · P1-(8)",
@@ -882,7 +1190,7 @@
     {
       "timestamp": "2026-07-12T04:09:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P1-(9)",
       "display_id": "P1-(9)",
       "display_label": "基础题 · 选择题 · P1-(9)",
@@ -916,7 +1224,7 @@
     {
       "timestamp": "2026-07-12T04:10:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P2-(10)",
       "display_id": "P2-(10)",
       "display_label": "基础题 · 选择题 · P2-(10)",
@@ -950,7 +1258,7 @@
     {
       "timestamp": "2026-07-12T04:11:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P2-(11)",
       "display_id": "P2-(11)",
       "display_label": "基础题 · 选择题 · P2-(11)",
@@ -984,7 +1292,7 @@
     {
       "timestamp": "2026-07-12T04:12:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-choice-P2-(12)",
       "display_id": "P2-(12)",
       "display_label": "基础题 · 选择题 · P2-(12)",
@@ -1025,7 +1333,7 @@
     {
       "timestamp": "2026-07-12T04:13:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-fill-P2-(1)",
       "display_id": "P2-(1)",
       "display_label": "基础题 · 填空题 · P2-(1)",
@@ -1059,7 +1367,7 @@
     {
       "timestamp": "2026-07-12T04:14:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-fill-P2-(2)",
       "display_id": "P2-(2)",
       "display_label": "基础题 · 填空题 · P2-(2)",
@@ -1100,7 +1408,7 @@
     {
       "timestamp": "2026-07-12T04:15:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-fill-P2-(3)",
       "display_id": "P2-(3)",
       "display_label": "基础题 · 填空题 · P2-(3)",
@@ -1141,7 +1449,7 @@
     {
       "timestamp": "2026-07-12T04:16:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(1)",
       "display_id": "P2-(1)",
       "display_label": "基础题 · 解答题 · P2-(1)",
@@ -1182,7 +1490,7 @@
     {
       "timestamp": "2026-07-12T04:17:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(I)",
       "display_id": "P2-(2)-(I)",
       "display_label": "基础题 · 解答题 · P2-(2)-(I)",
@@ -1216,7 +1524,7 @@
     {
       "timestamp": "2026-07-12T04:18:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(II)",
       "display_id": "P2-(2)-(II)",
       "display_label": "基础题 · 解答题 · P2-(2)-(II)",
@@ -1257,7 +1565,7 @@
     {
       "timestamp": "2026-07-12T04:19:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(III)",
       "display_id": "P2-(2)-(III)",
       "display_label": "基础题 · 解答题 · P2-(2)-(III)",
@@ -1291,7 +1599,7 @@
     {
       "timestamp": "2026-07-12T04:20:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(IV)",
       "display_id": "P2-(2)-(IV)",
       "display_label": "基础题 · 解答题 · P2-(2)-(IV)",
@@ -1325,7 +1633,7 @@
     {
       "timestamp": "2026-07-12T04:21:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(V)",
       "display_id": "P2-(2)-(V)",
       "display_label": "基础题 · 解答题 · P2-(2)-(V)",
@@ -1359,7 +1667,7 @@
     {
       "timestamp": "2026-07-12T04:22:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(VI)",
       "display_id": "P2-(2)-(VI)",
       "display_label": "基础题 · 解答题 · P2-(2)-(VI)",
@@ -1393,7 +1701,7 @@
     {
       "timestamp": "2026-07-12T04:23:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(VII)",
       "display_id": "P2-(2)-(VII)",
       "display_label": "基础题 · 解答题 · P2-(2)-(VII)",
@@ -1427,7 +1735,7 @@
     {
       "timestamp": "2026-07-12T04:24:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(2)-(VIII)",
       "display_id": "P2-(2)-(VIII)",
       "display_label": "基础题 · 解答题 · P2-(2)-(VIII)",
@@ -1468,7 +1776,7 @@
     {
       "timestamp": "2026-07-12T04:25:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(3)-(I)",
       "display_id": "P2-(3)-(I)",
       "display_label": "基础题 · 解答题 · P2-(3)-(I)",
@@ -1502,7 +1810,7 @@
     {
       "timestamp": "2026-07-12T04:26:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(3)-(II)",
       "display_id": "P2-(3)-(II)",
       "display_label": "基础题 · 解答题 · P2-(3)-(II)",
@@ -1536,7 +1844,7 @@
     {
       "timestamp": "2026-07-12T04:27:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(3)-(III)",
       "display_id": "P2-(3)-(III)",
       "display_label": "基础题 · 解答题 · P2-(3)-(III)",
@@ -1577,7 +1885,7 @@
     {
       "timestamp": "2026-07-12T04:28:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P2-(3)-(IV)",
       "display_id": "P2-(3)-(IV)",
       "display_label": "基础题 · 解答题 · P2-(3)-(IV)",
@@ -1611,7 +1919,7 @@
     {
       "timestamp": "2026-07-12T04:29:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P3-(3)-(V)",
       "display_id": "P3-(3)-(V)",
       "display_label": "基础题 · 解答题 · P3-(3)-(V)",
@@ -1652,7 +1960,7 @@
     {
       "timestamp": "2026-07-12T04:30:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P3-(4)",
       "display_id": "P3-(4)",
       "display_label": "基础题 · 解答题 · P3-(4)",
@@ -1693,7 +2001,7 @@
     {
       "timestamp": "2026-07-12T04:31:00Z",
       "unit": "workbook_880",
-      "curriculum_unit": null,
+      "curriculum_unit": "unit_1",
       "question_id": "880-basic-solution-P3-(5)",
       "display_id": "P3-(5)",
       "display_label": "基础题 · 解答题 · P3-(5)",
@@ -1730,7 +2038,642 @@
       "performance_level": "合格",
       "difficulty_adjustment_suggestion": "keep",
       "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:01:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(1)",
+      "display_id": "P7-(1)",
+      "display_label": "基础题 · 选择题 · P7-(1)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 32,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(1)\n设 $f(x)=\\begin{cases}\\frac{1-\\cos x}{\\sqrt{x}}, & x>0, \\\\ x^2 \\cdot \\varphi(x), & x \\leqslant 0,\\end{cases}$ 其中 $\\varphi(x)$ 是有界函数，则 $f(x)$ 在 $x=0$ 处( ).\nA. 可导\nB. 连续，但不可导\nC. 极限存在，但不连续\nD. 极限不存在",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:02:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(2)",
+      "display_id": "P7-(2)",
+      "display_label": "基础题 · 选择题 · P7-(2)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 33,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(2)\n设 $f'(x)$ 存在，$a,b$ 为任意实数，则 $\\lim_{\\Delta x \\to 0} \\frac{f(x+a\\Delta x)-f(x-b\\Delta x)}{\\Delta x} = ( )$.\nA. $(a+b)f'(x)$\nB. $(a-b)f'(x)$\nC. $af'(x)$\nD. $bf'(x)$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:03:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(3)",
+      "display_id": "P7-(3)",
+      "display_label": "基础题 · 选择题 · P7-(3)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 34,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(3)\n下列函数中，在 $x=0$ 处不可导的是( ).\nA. $f(x)=|x|\\sin|x|$\nB. $f(x)=|x|\\sin\\sqrt{|x|}$\nC. $f(x)=\\cos|x|$\nD. $f(x)=\\cos\\sqrt{|x|}$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:04:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(4)",
+      "display_id": "P7-(4)",
+      "display_label": "基础题 · 选择题 · P7-(4)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 35,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(4)\n设 $f(x)=\\begin{cases}a\\sqrt{x}, & 0 \\leqslant x \\leqslant b, \\\\ \\ln x, & x>b\\end{cases}$ 在 $(0,+\\infty)$ 内可导，在 $x=0$ 处右连续，则( ).\nA. $a=\\frac{2}{\\mathrm{e}}, b=\\mathrm{e}^2$\nB. $a=\\frac{2}{\\mathrm{e}}, b=\\mathrm{e}$\nC. $a=\\frac{1}{\\mathrm{e}}, b=\\mathrm{e}^2$\nD. $a=\\frac{1}{\\mathrm{e}}, b=\\mathrm{e}$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:05:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(5)",
+      "display_id": "P7-(5)",
+      "display_label": "基础题 · 选择题 · P7-(5)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 36,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(5)\n设 $f(-x)=-f(x)$，且在 $(0,+\\infty)$ 内，$f'(x)>0, f''(x)>0$，则 $f(x)$ 在 $(-\\infty, 0)$ 内必有( ).\nA. $f'(x)<0, f''(x)<0$\nB. $f'(x)<0, f''(x)>0$\nC. $f'(x)>0, f''(x)<0$\nD. $f'(x)>0, f''(x)>0$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:06:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(6)",
+      "display_id": "P7-(6)",
+      "display_label": "基础题 · 选择题 · P7-(6)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 37,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(6)\n设 $f(x)$ 在 $[-1,1]$ 上二阶可导，且 $f''(x)>0, \\int_{-1}^{1} f(x) \\mathrm{d} x=2$，则 $f(0)$ 的取值范围为( ).\nA. $(-\\infty, 0]$\nB. $(0,+\\infty)$\nC. $(-\\infty, 1)$\nD. $(1,+\\infty)$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:07:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(7)",
+      "display_id": "P7-(7)",
+      "display_label": "基础题 · 选择题 · P7-(7)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 38,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(7)\n设 $f(x)$ 在 $x=0$ 的某邻域内连续，$f(0)=0, \\lim_{x \\to 0} \\frac{f(x)}{1-\\cos x}=2$，则 $f(x)$ 在 $x=0$ 处( ).\nA. 不可导\nB. 可导且 $f'(0) \\neq 0$\nC. 有极小值\nD. 有极大值",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:08:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(8)",
+      "display_id": "P7-(8)",
+      "display_label": "基础题 · 选择题 · P7-(8)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 39,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(8)\n$y=(x-1)^2(x-3)^2$ 的拐点个数为( ).\nA. 0\nB. 1\nC. 2\nD. 3",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:09:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P7-(9)",
+      "display_id": "P7-(9)",
+      "display_label": "基础题 · 选择题 · P7-(9)",
+      "page": 7,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 40,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P7-(9)\n设 $f'(x_0)=f''(x_0)=0, f'''(x_0)>0$，则下列选项中正确的是( ).\nA. $x_0$ 是 $f(x)$ 的极值点\nB. $f(x_0)$ 是 $f(x)$ 的极大值\nC. $f(x_0)$ 是 $f(x)$ 的极小值\nD. $(x_0, f(x_0))$ 是 $y=f(x)$ 的拐点",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:10:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(10)",
+      "display_id": "P8-(10)",
+      "display_label": "基础题 · 选择题 · P8-(10)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 41,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(10)\n设 $f(x)$ 有一阶连续导数，$F(x)=f(x)(1+|\\sin x|)$，则 $f(0)=0$ 是 $F(x)$ 在 $x=0$ 处可导的( ).\nA. 必要非充分条件\nB. 充分非必要条件\nC. 充分必要条件\nD. 既非充分又非必要条件",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:11:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(11)",
+      "display_id": "P8-(11)",
+      "display_label": "基础题 · 选择题 · P8-(11)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 42,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(11)\n设 $f(x)$ 在 $x=a$ 处连续，则 $f(x)$ 在 $x=a$ 处可导的一个充分条件是( ).\nA. $\\lim_{x \\to 0} |x| \\left[f\\left(a+\\frac{1}{|x|}\\right)-f(a)\\right]$ 存在\nB. $\\lim_{x \\to 0} \\frac{f(a+x^3)-f(a)}{x^2}$ 存在\nC. $\\lim_{\\Delta x \\to 0} \\frac{f(a+\\Delta x)-f(a-\\Delta x)}{2\\Delta x}$ 存在\nD. $\\lim_{x \\to 0} \\frac{f(a+x^3)-f(a)}{\\tan x^3}$ 存在",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:12:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(12)",
+      "display_id": "P8-(12)",
+      "display_label": "基础题 · 选择题 · P8-(12)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 43,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(12)\n设 $f(x)$ 连续，且 $f'(x_0)>0$，则存在 $\\delta>0$，使得( ).\nA. 对任意 $x \\in (x_0-\\delta, x_0)$，有 $f(x)>f(x_0)$\nB. 对任意 $x \\in (x_0, x_0+\\delta)$，有 $f(x)>f(x_0)$\nC. $f(x)$ 在 $(x_0-\\delta, x_0)$ 内单调减少\nD. $f(x)$ 在 $(x_0, x_0+\\delta)$ 内单调增加",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:13:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(13)",
+      "display_id": "P8-(13)",
+      "display_label": "基础题 · 选择题 · P8-(13)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 44,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(13)\n已知 $y=x^3+ax^2+bx+c$ 在 $x=-2$ 处取得极值，且与直线 $y=-3x+3$ 相切于点 $(1,0)$，则( ).\nA. $a=1, b=-8, c=6$\nB. $a=-1, b=-8, c=-6$\nC. $a=1, b=8, c=-6$\nD. $a=-1, b=8, c=-6$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:14:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(14)",
+      "display_id": "P8-(14)",
+      "display_label": "基础题 · 选择题 · P8-(14)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 45,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(14)\n下列选项中正确的是( ).\nA. 设 $f(x)$ 在 $(-a, a)(a>0)$ 内为偶函数，则 $x=0$ 是 $f(x)$ 的极值点\nB. 设 $x_0 \\in (a, b)$，$(a, b)$ 上的函数 $f(x)$ 满足：当 $x \\in (a, x_0)$ 时，$f'(x)>0$，当 $x \\in (x_0, b)$ 时，$f'(x)<0$，则 $f(x)$ 在 $x_0$ 处取得最大值\nC. 设 $f(x)$ 在 $x=x_0$ 处取得极大值，则存在 $x_0$ 的邻域 $(x_0-\\sigma, x_0+\\sigma)$，使得 $f(x)$ 在 $(x_0-\\sigma, x_0)$ 内单调递增，在 $(x_0, x_0+\\sigma)$ 内单调递减\nD. 设 $f(x)$ 在 $(-a, a)(a>0)$ 内可导且为偶函数，则 $f'(0)=0$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "按用户记录：B级：有思路但未完整做出。"
+      ],
+      "error_tags": [
+        "B级：有思路但未完整做出"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "题型迁移"
+      ],
+      "student_answer_summary": "按用户记录：B级：有思路但未完整做出。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:15:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(15)",
+      "display_id": "P8-(15)",
+      "display_label": "基础题 · 选择题 · P8-(15)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 46,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(15)\n设可导函数 $y=y(x)$ 由 $\\begin{cases} x=\\arctan t, \\\\ y=\\ln(1-t^2)-\\sin y \\end{cases}$ 确定，则( ).\nA. $x=0$ 是 $y=y(x)$ 的极小值点\nB. $x=0$ 是 $y=y(x)$ 的极大值点\nC. 在 $x=0$ 的邻域 $(-\\delta, 0)(\\delta>0)$ 内，$y=y(x)$ 单调递减\nD. 在 $x=0$ 的邻域 $(0, \\delta)(\\delta>0)$ 内，$y=y(x)$ 单调递增",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "按用户记录：C级：无法下笔/基本无入口。"
+      ],
+      "error_tags": [
+        "C级：无法下笔/基本无入口"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "解题入口识别"
+      ],
+      "student_answer_summary": "按用户记录：C级：无法下笔/基本无入口。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:16:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(16)",
+      "display_id": "P8-(16)",
+      "display_label": "基础题 · 选择题 · P8-(16)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 47,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(16)\n曲线 $y=\\frac{1}{|x|-1}+\\ln(1+\\mathrm{e}^{-x})$ 的渐近线的条数为( ).\nA. 1\nB. 2\nC. 3\nD. 4",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "按用户记录：A级：纯计算错误。"
+      ],
+      "error_tags": [
+        "A级：纯计算错误"
+      ],
+      "weakness_focus": [
+        "导数与函数性态",
+        "计算细节稳定性"
+      ],
+      "student_answer_summary": "按用户记录：A级：纯计算错误。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-14T04:17:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-choice-P8-(17)",
+      "display_id": "P8-(17)",
+      "display_label": "基础题 · 选择题 · P8-(17)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 48,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(17)\n设 $f(x)$ 为连续函数，且 $\\lim_{x \\to +\\infty} \\mathrm{e}^x[1+x+f(x)]$ 存在，则曲线 $y=f(x)$ 有斜渐近线( ).\nA. $y=x$\nB. $y=-x$\nC. $y=x+1$\nD. $y=-x-1$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按用户记录：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
     }
   ],
-  "maintenance_policy": "append_only_active"
+  "maintenance_policy": "append_only_active",
+  "curriculum_unit": "unit_2"
 }
