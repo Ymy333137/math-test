@@ -23,10 +23,11 @@
     2,
     3,
     7,
-    8
+    8,
+    20
   ],
-  "recorded_range": "基础题：P1-P3、P7-P8",
-  "recorded_count": 48,
+  "recorded_range": "基础题：P1-P3、P7-P8、P20",
+  "recorded_count": 65,
   "history": [
     {
       "question_id": "880-basic-choice-P1-(1)",
@@ -891,6 +892,312 @@
       "unit": "unit_2",
       "mastery": 0.94,
       "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(1)-(I)",
+      "display_id": "P20-(1)-(I)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(I)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 49,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(1)-(II)",
+      "display_id": "P20-(1)-(II)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(II)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 50,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_4",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(1)-(III)",
+      "display_id": "P20-(1)-(III)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(III)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 51,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_4",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(1)-(IV)",
+      "display_id": "P20-(1)-(IV)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(IV)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 52,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_4",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(1)-(V)",
+      "display_id": "P20-(1)-(V)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(V)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 53,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_4",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(2)-(I)",
+      "display_id": "P20-(2)-(I)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(I)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 54,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_4",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(2)-(II)",
+      "display_id": "P20-(2)-(II)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(II)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 55,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_4",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(2)-(III)",
+      "display_id": "P20-(2)-(III)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(III)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 56,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_4",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(2)-(IV)",
+      "display_id": "P20-(2)-(IV)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(IV)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 57,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(2)-(V)",
+      "display_id": "P20-(2)-(V)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(V)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 58,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(2)-(VI)",
+      "display_id": "P20-(2)-(VI)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(VI)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 59,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_4",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(3)-(I)",
+      "display_id": "P20-(3)-(I)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(I)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 60,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_4",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(3)-(II)",
+      "display_id": "P20-(3)-(II)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(II)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 61,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(3)-(III)",
+      "display_id": "P20-(3)-(III)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(III)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 62,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(3)-(IV)",
+      "display_id": "P20-(3)-(IV)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(IV)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 63,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(3)-(V)",
+      "display_id": "P20-(3)-(V)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(V)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 64,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P20-(3)-(VI)",
+      "display_id": "P20-(3)-(VI)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(VI)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 65,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
     }
   ],
   "records": [
@@ -2672,8 +2979,664 @@
       "performance_level": "优秀",
       "difficulty_adjustment_suggestion": "up",
       "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:01:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(1)-(I)",
+      "display_id": "P20-(1)-(I)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(I)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 49,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(1)",
+      "subquestion": "I",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(1)-(I)\n求下列积分：\n\n$\\int \\frac{2^x \\cdot 3^x}{9^x-4^x}\\,dx$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:02:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(1)-(II)",
+      "display_id": "P20-(1)-(II)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(II)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 50,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(1)",
+      "subquestion": "II",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(1)-(II)\n求下列积分：\n\n$\\int \\frac{dx}{x^2(1-x^4)}$",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:03:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(1)-(III)",
+      "display_id": "P20-(1)-(III)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(III)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 51,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(1)",
+      "subquestion": "III",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(1)-(III)\n求下列积分：\n\n$\\int \\frac{dx}{x^4(1+x^2)}$",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:04:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(1)-(IV)",
+      "display_id": "P20-(1)-(IV)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(IV)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 52,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(1)",
+      "subquestion": "IV",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(1)-(IV)\n求下列积分：\n\n$\\int \\frac{\\arctan x}{x^2(1+x^2)}\\,dx$",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:05:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(1)-(V)",
+      "display_id": "P20-(1)-(V)",
+      "display_label": "基础题 · 解答题 · P20-(1)-(V)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 53,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(1)",
+      "subquestion": "V",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(1)-(V)\n求下列积分：\n\n$\\int \\frac{x+\\ln(1-x)}{x^2}\\,dx$",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:06:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(2)-(I)",
+      "display_id": "P20-(2)-(I)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(I)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 54,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(2)",
+      "subquestion": "I",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(2)-(I)\n求下列积分：\n\n$\\int \\frac{dx}{x(1+\\sqrt{x})}$",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:07:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(2)-(II)",
+      "display_id": "P20-(2)-(II)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(II)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 55,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(2)",
+      "subquestion": "II",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(2)-(II)\n求下列积分：\n\n$\\int \\frac{x e^x}{\\sqrt{e^x-1}}\\,dx$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:08:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(2)-(III)",
+      "display_id": "P20-(2)-(III)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(III)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 56,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(2)",
+      "subquestion": "III",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(2)-(III)\n求下列积分：\n\n$\\int \\frac{x^3}{\\sqrt{1+x^2}}\\,dx$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:09:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(2)-(IV)",
+      "display_id": "P20-(2)-(IV)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(IV)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 57,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(2)",
+      "subquestion": "IV",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(2)-(IV)\n求下列积分：\n\n$\\int \\frac{dx}{(2x^2+1)\\sqrt{1+x^2}}$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:10:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(2)-(V)",
+      "display_id": "P20-(2)-(V)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(V)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 58,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(2)",
+      "subquestion": "V",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(2)-(V)\n求下列积分：\n\n$\\int \\frac{\\arctan\\sqrt{x-1}}{x\\sqrt{x-1}}\\,dx$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:11:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(2)-(VI)",
+      "display_id": "P20-(2)-(VI)",
+      "display_label": "基础题 · 解答题 · P20-(2)-(VI)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 59,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(2)",
+      "subquestion": "VI",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(2)-(VI)\n求下列积分：\n\n$\\int \\sqrt{\\frac{x}{1-x\\sqrt{x}}}\\,dx$",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:12:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(3)-(I)",
+      "display_id": "P20-(3)-(I)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(I)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 60,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(3)",
+      "subquestion": "I",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(3)-(I)\n求下列积分：\n\n$\\int \\frac{dx}{\\sin^2 x\\cos^4 x}$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:13:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(3)-(II)",
+      "display_id": "P20-(3)-(II)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(II)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 61,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(3)",
+      "subquestion": "II",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(3)-(II)\n求下列积分：\n\n$\\int \\frac{dx}{1+\\sin x}$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:14:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(3)-(III)",
+      "display_id": "P20-(3)-(III)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(III)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 62,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(3)",
+      "subquestion": "III",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(3)-(III)\n求下列积分：\n\n$\\int \\frac{\\sin x}{\\sin x+\\cos x}\\,dx$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:15:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(3)-(IV)",
+      "display_id": "P20-(3)-(IV)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(IV)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 63,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(3)",
+      "subquestion": "IV",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(3)-(IV)\n求下列积分：\n\n$\\int \\frac{3\\sin x+\\cos x}{\\sin x+2\\cos x}\\,dx$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:16:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(3)-(V)",
+      "display_id": "P20-(3)-(V)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(V)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 64,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(3)",
+      "subquestion": "V",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(3)-(V)\n求下列积分：\n\n$\\int \\frac{dx}{\\sin 2x+2\\sin x}$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-07-18T04:17:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P20-(3)-(VI)",
+      "display_id": "P20-(3)-(VI)",
+      "display_label": "基础题 · 解答题 · P20-(3)-(VI)",
+      "page": 20,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 65,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P20-(3)",
+      "subquestion": "VI",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P20-(3)-(VI)\n求下列积分：\n\n$\\int \\frac{dx}{a^2\\sin^2 x+b^2\\cos^2 x}\\quad(a^2+b^2>0)$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "不定积分"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
     }
   ],
   "maintenance_policy": "append_only_active",
-  "curriculum_unit": "unit_2"
+  "curriculum_unit": "unit_4"
 }

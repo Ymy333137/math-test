@@ -68,7 +68,7 @@
     },
     "workbook_880": {
       "status": "active",
-      "curriculum_unit": "unit_2",
+      "curriculum_unit": "unit_4",
       "current_section": "基础题",
       "section_schema": [
         "基础题",
@@ -90,10 +90,11 @@
         2,
         3,
         7,
-        8
+        8,
+        20
       ],
-      "recorded_range": "基础题：P1-P3、P7-P8",
-      "recorded_count": 48,
+      "recorded_range": "基础题：P1-P3、P7-P8、P20",
+      "recorded_count": 65,
       "history": [],
       "record_file": "880-record.json"
     }
