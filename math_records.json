@@ -91,10 +91,11 @@
         3,
         7,
         8,
-        20
+        20,
+        21
       ],
-      "recorded_range": "基础题：P1-P3、P7-P8、P20",
-      "recorded_count": 83,
+      "recorded_range": "基础题：P1-P3、P7-P8、P20-P21",
+      "recorded_count": 94,
       "history": [],
       "record_file": "880-record.json"
     }

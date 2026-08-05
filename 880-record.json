@@ -24,10 +24,11 @@
     3,
     7,
     8,
-    20
+    20,
+    21
   ],
-  "recorded_range": "基础题：P1-P3、P7-P8、P20",
-  "recorded_count": 83,
+  "recorded_range": "基础题：P1-P3、P7-P8、P20-P21",
+  "recorded_count": 94,
   "history": [
     {
       "question_id": "880-basic-choice-P1-(1)",
@@ -1522,6 +1523,204 @@
       "unit": "unit_4",
       "mastery": 0.28,
       "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(8)-(III)",
+      "display_id": "P21-(8)-(III)",
+      "display_label": "基础题 · 解答题 · P21-(8)-(III)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 84,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_4",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(8)-(IV)",
+      "display_id": "P21-(8)-(IV)",
+      "display_label": "基础题 · 解答题 · P21-(8)-(IV)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 85,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_4",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(9)-(I)",
+      "display_id": "P21-(9)-(I)",
+      "display_label": "基础题 · 解答题 · P21-(9)-(I)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 86,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_4",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(9)-(II)",
+      "display_id": "P21-(9)-(II)",
+      "display_label": "基础题 · 解答题 · P21-(9)-(II)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 87,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_4",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(10)",
+      "display_id": "P21-(10)",
+      "display_label": "基础题 · 解答题 · P21-(10)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 88,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_4",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(11)",
+      "display_id": "P21-(11)",
+      "display_label": "基础题 · 解答题 · P21-(11)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 89,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_4",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(12)",
+      "display_id": "P21-(12)",
+      "display_label": "基础题 · 解答题 · P21-(12)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 90,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(13)",
+      "display_id": "P21-(13)",
+      "display_label": "基础题 · 解答题 · P21-(13)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 91,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_4",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(14)",
+      "display_id": "P21-(14)",
+      "display_label": "基础题 · 解答题 · P21-(14)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 92,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_4",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(15)",
+      "display_id": "P21-(15)",
+      "display_label": "基础题 · 解答题 · P21-(15)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 93,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_4",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P21-(16)",
+      "display_id": "P21-(16)",
+      "display_label": "基础题 · 解答题 · P21-(16)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 94,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_4",
+      "mastery": 0.94,
+      "performance_level": "优秀"
     }
   ],
   "records": [
@@ -4672,6 +4871,434 @@
       "mastery": 0.28,
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:01:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(8)-(III)",
+      "display_id": "P21-(8)-(III)",
+      "display_label": "基础题 · 解答题 · P21-(8)-(III)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 84,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P21-(8)",
+      "subquestion": "III",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P21-(8)-(III)\n$\\int_0^\\pi t\\sin t\\,dt$",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:02:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(8)-(IV)",
+      "display_id": "P21-(8)-(IV)",
+      "display_label": "基础题 · 解答题 · P21-(8)-(IV)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 85,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P21-(8)",
+      "subquestion": "IV",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P21-(8)-(IV)\n$\\int_0^1\\left[\\sqrt{2x-x^2}+\\sqrt{(1-x^2)^3}\\right]dx$",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:03:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(9)-(I)",
+      "display_id": "P21-(9)-(I)",
+      "display_label": "基础题 · 解答题 · P21-(9)-(I)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 86,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P21-(9)",
+      "subquestion": "I",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P21-(9)-(I)\n$\\int_1^{+\\infty}\\frac{dx}{e^{x+1}+e^{3-x}}$",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:04:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(9)-(II)",
+      "display_id": "P21-(9)-(II)",
+      "display_label": "基础题 · 解答题 · P21-(9)-(II)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 87,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P21-(9)",
+      "subquestion": "II",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P21-(9)-(II)\n$\\int_{\\frac12}^{\\frac32}\\frac{dx}{\\sqrt{|x-x^2|}}$",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:05:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(10)",
+      "display_id": "P21-(10)",
+      "display_label": "基础题 · 解答题 · P21-(10)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 88,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P21-(10)\n设 $f(x)=\\int_0^{\\frac\\pi2}|x-t|\\sin t\\,dt$，$x\\in(-\\infty,+\\infty)$，求 $f(x)$ 的单调区间与极值。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:06:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(11)",
+      "display_id": "P21-(11)",
+      "display_label": "基础题 · 解答题 · P21-(11)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 89,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P21-(11)\n设 $F(x)=\\int_0^{\\sin x}f(tx^2)\\,dt$，其中 $f(x)$ 为连续函数，求 $F'(x)$，并讨论 $F'(x)$ 在 $x=0$ 处的连续性。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:07:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(12)",
+      "display_id": "P21-(12)",
+      "display_label": "基础题 · 解答题 · P21-(12)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 90,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P21-(12)\n设 $f(x)$ 在 $[0,a]$ 上具有二阶导数（$a>0$），且 $f(x)>0$，$f''(x)>0$，证明：$\\int_0^a f(x)\\,dx>af\\left(\\frac a2\\right)$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:08:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(13)",
+      "display_id": "P21-(13)",
+      "display_label": "基础题 · 解答题 · P21-(13)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 91,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P21-(13)\n设 $f(x)$ 在 $[a,b]$ 上连续且单调增加，证明：$\\int_a^bxf(x)\\,dx\\geq\\frac{a+b}{2}\\int_a^bf(x)\\,dx$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:09:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(14)",
+      "display_id": "P21-(14)",
+      "display_label": "基础题 · 解答题 · P21-(14)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 92,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P21-(14)\n求 $f(x)=\\int_0^x\\frac{2t-1}{t^2-t+1}\\,dt$ 在 $[-1,1]$ 上的最大值与最小值。",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:10:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(15)",
+      "display_id": "P21-(15)",
+      "display_label": "基础题 · 解答题 · P21-(15)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 93,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P21-(15)\n设曲线 $y=\\sin x\\ (0\\leq x\\leq\\frac\\pi2)$、直线 $y=k\\ (0\\leq k\\leq1)$ 与 $x=0$ 所围面积为 $S_1$，曲线 $y=\\sin x\\ (0\\leq x\\leq\\frac\\pi2)$、直线 $y=k$ 与 $x=\\frac\\pi2$ 所围面积为 $S_2$，求 $S=S_1+S_2$ 的最小值。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-05T04:11:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_4",
+      "question_id": "880-basic-solution-P21-(16)",
+      "display_id": "P21-(16)",
+      "display_label": "基础题 · 解答题 · P21-(16)",
+      "page": 21,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 94,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "compound_related",
+      "question_md": "### P21-(16)\n设星形线 $\\begin{cases}x=a\\cos^3t,\\\\y=a\\sin^3t\\end{cases}\\ (0\\leq t\\leq2\\pi,\\ a>0)$，求：\\n\\n(I) 所围面积 $A$；\\n\\n(II) 弧长 $L$；\\n\\n(III) 绕 $x$ 轴旋转一周所得体积 $V$ 和表面积 $S$。",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
       "next_expected_target_score_tier": "120以下"
     }
   ],
