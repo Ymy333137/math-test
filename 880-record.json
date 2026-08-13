@@ -24,12 +24,13 @@
     3,
     7,
     8,
+    9,
     20,
     21,
     28
   ],
-  "recorded_range": "基础题：P1-P3、P7-P8、P20-P21、P28",
-  "recorded_count": 102,
+  "recorded_range": "基础题：P1-P3、P7-P9、P20-P21、P28",
+  "recorded_count": 112,
   "history": [
     {
       "question_id": "880-basic-choice-P1-(1)",
@@ -1866,6 +1867,186 @@
       "unit": "unit_5",
       "mastery": 0.62,
       "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-fill-P8-(1)",
+      "display_id": "P8-(1)",
+      "display_label": "基础题 · 填空题 · P8-(1)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 103,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_2",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P8-(2)",
+      "display_id": "P8-(2)",
+      "display_label": "基础题 · 填空题 · P8-(2)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 104,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(3)",
+      "display_id": "P9-(3)",
+      "display_label": "基础题 · 填空题 · P9-(3)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 105,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_2",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(4)",
+      "display_id": "P9-(4)",
+      "display_label": "基础题 · 填空题 · P9-(4)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 106,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(5)",
+      "display_id": "P9-(5)",
+      "display_label": "基础题 · 填空题 · P9-(5)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 107,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_2",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(6)",
+      "display_id": "P9-(6)",
+      "display_label": "基础题 · 填空题 · P9-(6)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 108,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "unit": "unit_2",
+      "mastery": 0.94,
+      "performance_level": "优秀"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(7)",
+      "display_id": "P9-(7)",
+      "display_label": "基础题 · 填空题 · P9-(7)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 109,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(8)",
+      "display_id": "P9-(8)",
+      "display_label": "基础题 · 填空题 · P9-(8)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 110,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(9)",
+      "display_id": "P9-(9)",
+      "display_label": "基础题 · 填空题 · P9-(9)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 111,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_2",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(10)",
+      "display_id": "P9-(10)",
+      "display_label": "基础题 · 填空题 · P9-(10)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 112,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
     }
   ],
   "records": [
@@ -5765,8 +5946,396 @@
       "performance_level": "合格",
       "difficulty_adjustment_suggestion": "keep",
       "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:01:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P8-(1)",
+      "display_id": "P8-(1)",
+      "display_label": "基础题 · 填空题 · P8-(1)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 103,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(1)\n设 $f(x)$ 连续，$\\lim_{x\\to0}\\frac{\\ln[f(x+1)+e^{x^2}]}{x}=1$，则 $\\lim_{x\\to0}\\frac{f[(1+\\tan x)^2]-f(1+\\tan x)}{x}=\\underline{\\qquad}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:02:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P8-(2)",
+      "display_id": "P8-(2)",
+      "display_label": "基础题 · 填空题 · P8-(2)",
+      "page": 8,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 104,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P8-(2)\n设 $y=f(x)$ 由方程 $x=\\int_1^{y-x}\\sin^2\\left(\\frac{\\pi t}{4}\\right)dt$ 确定，则 $\\lim_{n\\to\\infty}n\\left[f\\left(\\frac1n\\right)-1\\right]=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:03:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(3)",
+      "display_id": "P9-(3)",
+      "display_label": "基础题 · 填空题 · P9-(3)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 105,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(3)\n设函数 $f(x)$ 有连续导数，且 $\\lim_{x\\to0}\\left[\\frac{\\sin x}{x^2}+\\frac{f(x)}x\\right]=2$，则 $f(x)$ 的一阶麦克劳林展开式为 $\\underline{\\qquad}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:04:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(4)",
+      "display_id": "P9-(4)",
+      "display_label": "基础题 · 填空题 · P9-(4)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 106,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(4)\n设函数 $f(x)$ 在 $(-\\infty,+\\infty)$ 内连续，$f''(x)$ 的图形如图 2-1 所示，则曲线 $y=f(x)$ 的拐点个数为 $\\underline{\\qquad}$。",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:05:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(5)",
+      "display_id": "P9-(5)",
+      "display_label": "基础题 · 填空题 · P9-(5)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 107,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(5)\n设 $f'(0)$ 存在，$f(0)=0$，且 $\\lim_{x\\to0}\\left[1+\\frac{1-\\cos f(x)}{\\sin x}\\right]^{\\frac1x}=e$，则 $f'(0)=\\underline{\\qquad}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:06:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(6)",
+      "display_id": "P9-(6)",
+      "display_label": "基础题 · 填空题 · P9-(6)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 108,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(6)\n当 $x\\to0$ 时，$e^x+\\ln(1-x)-1$ 与 $x^n$ 是同阶无穷小，则 $n=\\underline{\\qquad}$。",
+      "correctness": 1.0,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:07:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(7)",
+      "display_id": "P9-(7)",
+      "display_label": "基础题 · 填空题 · P9-(7)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 109,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(7)\n设 $f(x)=n^2e^{\\frac{x}{n}}-(1+n)x$ 在 $x=x_n$ 处有水平切线，则 $\\lim_{n\\to\\infty}e^{x_n}=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:08:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(8)",
+      "display_id": "P9-(8)",
+      "display_label": "基础题 · 填空题 · P9-(8)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 110,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(8)\n设 $y=f(x)$ 由参数方程 $\\begin{cases}x=t^2+1,\\\\y=4t-t^2\\end{cases}\\ (t\\geq0)$ 确定，则 $\\lim_{n\\to\\infty}n\\left[f\\left(\\frac{2n+1}{n}\\right)-3\\right]=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:09:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(9)",
+      "display_id": "P9-(9)",
+      "display_label": "基础题 · 填空题 · P9-(9)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 111,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(9)\n设 $\\frac{d}{dx}[f(x^3)]=\\frac1x$，则 $f'(x)=\\underline{\\qquad}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-11T04:10:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(10)",
+      "display_id": "P9-(10)",
+      "display_label": "基础题 · 填空题 · P9-(10)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 112,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(10)\n设 $f(x)=\\ln\\left(\\sqrt{1+x^2}-x\\right)$，则 $f^{(5)}(0)=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
     }
   ],
   "maintenance_policy": "append_only_active",
-  "curriculum_unit": "unit_5"
+  "curriculum_unit": "unit_2"
 }
