@@ -2047,6 +2047,294 @@
       "unit": "unit_2",
       "mastery": 0.28,
       "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(11)",
+      "display_id": "P9-(11)",
+      "display_label": "基础题 · 填空题 · P9-(11)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 113,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(12)",
+      "display_id": "P9-(12)",
+      "display_label": "基础题 · 填空题 · P9-(12)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 114,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(15)",
+      "display_id": "P9-(15)",
+      "display_label": "基础题 · 填空题 · P9-(15)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 117,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(16)",
+      "display_id": "P9-(16)",
+      "display_label": "基础题 · 填空题 · P9-(16)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 118,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P9-(17)",
+      "display_id": "P9-(17)",
+      "display_label": "基础题 · 填空题 · P9-(17)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 119,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P9-(1)-(I)",
+      "display_id": "P9-(1)-(I)",
+      "display_label": "基础题 · 解答题 · P9-(1)-(I)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 120,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_2",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P10-(6)",
+      "display_id": "P10-(6)",
+      "display_label": "基础题 · 解答题 · P10-(6)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 128,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_2",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P10-(8)",
+      "display_id": "P10-(8)",
+      "display_label": "基础题 · 解答题 · P10-(8)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 130,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_2",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P17-(2)",
+      "display_id": "P17-(2)",
+      "display_label": "基础题 · 选择题 · P17-(2)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 133,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P18-(12)",
+      "display_id": "P18-(12)",
+      "display_label": "基础题 · 选择题 · P18-(12)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 143,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P19-(1)",
+      "display_id": "P19-(1)",
+      "display_label": "基础题 · 填空题 · P19-(1)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 148,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P19-(14)",
+      "display_id": "P19-(14)",
+      "display_label": "基础题 · 填空题 · P19-(14)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 161,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P9-(2)",
+      "display_id": "P9-(2)",
+      "display_label": "基础题 · 解答题 · P9-(2)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 124,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P10-(3)",
+      "display_id": "P10-(3)",
+      "display_label": "基础题 · 解答题 · P10-(3)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 125,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P10-(7)",
+      "display_id": "P10-(7)",
+      "display_label": "基础题 · 解答题 · P10-(7)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 129,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_2",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P17-(3)",
+      "display_id": "P17-(3)",
+      "display_label": "基础题 · 选择题 · P17-(3)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 134,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_unassigned",
+      "mastery": 0.62,
+      "performance_level": "合格"
     }
   ],
   "records": [
@@ -3972,7 +4260,7 @@
       "subquestion": "IV",
       "card_structure": "independent_subquestion",
       "question_md": "### P20-(1)-(IV)\n求下列积分：\n\n$\\int \\frac{\\arctan x}{x^2(1+x^2)}\\,dx$",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4006,7 +4294,7 @@
       "subquestion": "V",
       "card_structure": "independent_subquestion",
       "question_md": "### P20-(1)-(V)\n求下列积分：\n\n$\\int \\frac{x+\\ln(1-x)}{x^2}\\,dx$",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4040,7 +4328,7 @@
       "subquestion": "I",
       "card_structure": "independent_subquestion",
       "question_md": "### P20-(2)-(I)\n求下列积分：\n\n$\\int \\frac{dx}{x(1+\\sqrt{x})}$",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4234,7 +4522,7 @@
       "subquestion": "VI",
       "card_structure": "independent_subquestion",
       "question_md": "### P20-(2)-(VI)\n求下列积分：\n\n$\\int \\sqrt{\\frac{x}{1-x\\sqrt{x}}}\\,dx$",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -4508,7 +4796,7 @@
       "subquestion": "I",
       "card_structure": "independent_subquestion",
       "question_md": "### P20-(4)-(I)\n求下列积分：\n\n$\\int \\arctan\\sqrt{x}\\,dx$",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5542,7 +5830,7 @@
       "subquestion": null,
       "card_structure": "single",
       "question_md": "### P21-(14)\n求 $f(x)=\\int_0^x\\frac{2t-1}{t^2-t+1}\\,dt$ 在 $[-1,1]$ 上的最大值与最小值。",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -5616,7 +5904,7 @@
       "subquestion": null,
       "card_structure": "compound_related",
       "question_md": "### P21-(16)\n设星形线 $\\begin{cases}x=a\\cos^3t,\\\\y=a\\sin^3t\\end{cases}\\ (0\\leq t\\leq2\\pi,\\ a>0)$，求：\\n\\n(I) 所围面积 $A$；\\n\\n(II) 弧长 $L$；\\n\\n(III) 绕 $x$ 轴旋转一周所得体积 $V$ 和表面积 $S$。",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -6090,7 +6378,7 @@
       "subquestion": null,
       "card_structure": "single",
       "question_md": "### P9-(4)\n设函数 $f(x)$ 在 $(-\\infty,+\\infty)$ 内连续，$f''(x)$ 的图形如图 2-1 所示，则曲线 $y=f(x)$ 的拐点个数为 $\\underline{\\qquad}$。",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -6164,7 +6452,7 @@
       "subquestion": null,
       "card_structure": "single",
       "question_md": "### P9-(6)\n当 $x\\to0$ 时，$e^x+\\ln(1-x)-1$ 与 $x^n$ 是同阶无穷小，则 $n=\\underline{\\qquad}$。",
-      "correctness": 1.0,
+      "correctness": 1,
       "thinking_quality": 0.85,
       "missing_steps": [],
       "error_tags": [],
@@ -6328,6 +6616,1956 @@
       ],
       "weakness_focus": [
         "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:11:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(11)",
+      "display_id": "P9-(11)",
+      "display_label": "基础题 · 填空题 · P9-(11)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 113,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(11)\n设 $y=y(x)$ 由参数方程 $\\begin{cases}x=\\dfrac{t}{1+t^3},\\\\y=\\dfrac{t^2}{1+t^3}\\end{cases}$ 确定，则曲线 $y=y(x)$ 的斜渐近线方程为 $\\underline{\\qquad}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:12:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(12)",
+      "display_id": "P9-(12)",
+      "display_label": "基础题 · 填空题 · P9-(12)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 114,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(12)\n设 $\\lim_{x\\to+\\infty}(\\sqrt{ax^2-x+3}-2x)=b$，其中 $a,b$ 为常数，$a>0$，则曲线 $y=\\sqrt{ax^2-x+3}$ 在 $(0,+\\infty)$ 内的斜渐近线方程为 $\\underline{\\qquad}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:13:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(13)",
+      "display_id": "P9-(13)",
+      "display_label": "基础题 · 填空题 · P9-(13)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 115,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(13)\n设 $f(x)=\\cos|x|+x^2|x|$，则 $f(x)$ 在 $x=0$ 处存在的最高阶导数的阶数为 $\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:14:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(14)",
+      "display_id": "P9-(14)",
+      "display_label": "基础题 · 填空题 · P9-(14)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 116,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(14)\n曲线 $x=a^3\\cos^3t,\\ y=a\\sin^3t (a>0)$ 在 $t=\\dfrac{\\pi}{4}$ 处的曲率为 $\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:15:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(15)",
+      "display_id": "P9-(15)",
+      "display_label": "基础题 · 填空题 · P9-(15)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 117,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(15)\n设 $f(x)$ 有二阶连续导数，当 $x\\to0$ 时，$2\\sin x+xf(x)$ 是比 $x^3$ 高阶的无穷小，则曲线 $y=f(x)$ 在点 $(0,-2)$ 处的曲率圆方程为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:16:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(16)",
+      "display_id": "P9-(16)",
+      "display_label": "基础题 · 填空题 · P9-(16)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 118,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(16)\n设 $f(x)$ 在 $(-\\infty,+\\infty)$ 内有定义，且对任意 $x,y$，有 $f(x+y)-f(x)=[f(x)-1]y+\\alpha(y)$，其中 $\\lim_{y\\to0}\\dfrac{\\alpha(y)}y=0$，且 $f(0)=2$，则 $f(x)=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:17:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-fill-P9-(17)",
+      "display_id": "P9-(17)",
+      "display_label": "基础题 · 填空题 · P9-(17)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 119,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(17)\n设函数 $y=y(x)$ 由方程 $\\arctan\\dfrac{x}{y}=\\ln\\sqrt{\\dfrac{x^2+y^2}{2}}+\\dfrac{\\pi}{4} (x>0,y>0)$ 确定，则 $y(x)$ 的极大值为 $\\underline{\\qquad}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:18:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P9-(1)-(I)",
+      "display_id": "P9-(1)-(I)",
+      "display_label": "基础题 · 解答题 · P9-(1)-(I)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 120,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P9-(1)",
+      "subquestion": "I",
+      "card_structure": "split_independent",
+      "question_md": "### P9-(1)-(I)\n计算函数 $y=2^{|\\sin x|}$ 的导数。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:19:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P9-(1)-(II)",
+      "display_id": "P9-(1)-(II)",
+      "display_label": "基础题 · 解答题 · P9-(1)-(II)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 121,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P9-(1)",
+      "subquestion": "II",
+      "card_structure": "split_independent",
+      "question_md": "### P9-(1)-(II)\n计算函数 $y=\\ln|\\tan x+\\sec x|$ 的导数。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:20:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P9-(1)-(III)",
+      "display_id": "P9-(1)-(III)",
+      "display_label": "基础题 · 解答题 · P9-(1)-(III)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 122,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P9-(1)",
+      "subquestion": "III",
+      "card_structure": "split_independent",
+      "question_md": "### P9-(1)-(III)\n计算函数 $y=(1+x^2)^{\\sin x}$ 的导数。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:21:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P9-(1)-(IV)",
+      "display_id": "P9-(1)-(IV)",
+      "display_label": "基础题 · 解答题 · P9-(1)-(IV)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 123,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P9-(1)",
+      "subquestion": "IV",
+      "card_structure": "split_independent",
+      "question_md": "### P9-(1)-(IV)\n计算函数 $y=\\ln\\dfrac{1}{\\sqrt{x+\\sqrt{x^2+1}}}$ 的导数。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:22:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P9-(2)",
+      "display_id": "P9-(2)",
+      "display_label": "基础题 · 解答题 · P9-(2)",
+      "page": 9,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 124,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P9-(2)\n设 $y=y(x)$ 由方程 $\\sqrt{x^2+y^2}=e^{\\arctan(y/x)}$ 确定，求 $\\dfrac{d^2y}{dx^2}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:23:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P10-(3)",
+      "display_id": "P10-(3)",
+      "display_label": "基础题 · 解答题 · P10-(3)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 125,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P10-(3)\n设 $y=y(x)$ 由参数方程 $\\begin{cases}x=t-\\sin t,\\\\y=1-\\cos t\\end{cases}$ 确定，求 $\\dfrac{dy}{dx}$、$\\dfrac{d^2y}{dx^2}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:24:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P10-(4)",
+      "display_id": "P10-(4)",
+      "display_label": "基础题 · 解答题 · P10-(4)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 126,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P10-(4)\n求心形线 $r=1-\\cos\\theta$ 在 $\\theta=\\dfrac{\\pi}{2}$ 处的切线方程。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:25:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P10-(5)",
+      "display_id": "P10-(5)",
+      "display_label": "基础题 · 解答题 · P10-(5)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 127,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P10-(5)\n设 $f(x)=\\begin{cases}e^{-1/x^2},&x\\ne0,\\\\0,&x=0,\\end{cases}$ 求 $f^{(n)}(0)$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:26:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P10-(6)",
+      "display_id": "P10-(6)",
+      "display_label": "基础题 · 解答题 · P10-(6)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 128,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P10-(6)\n设气体以 $100\\,\\mathrm{cm^3/s}$ 的速率注入球状气球，求当半径为 $10\\,\\mathrm{cm}$ 时气球半径增加的速率（设气体压力不变）。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:27:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P10-(7)",
+      "display_id": "P10-(7)",
+      "display_label": "基础题 · 解答题 · P10-(7)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 129,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P10-(7)\n一动点 $P$ 在曲线 $9y=4x^2$ 上运动，已知点 $P$ 横坐标变化速率为 $30\\,\\mathrm{cm/s}$。当点 $P$ 经过 $(3,4)$ 时，从原点到点 $P$ 的距离 $S$ 的变化率为多少（设坐标轴的单位长为 $1\\,\\mathrm{cm}$）？",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:28:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P10-(8)",
+      "display_id": "P10-(8)",
+      "display_label": "基础题 · 解答题 · P10-(8)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 130,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P10-(8)\n设 $f(x)$ 二阶可导，$f(0)=0$，$f'(0)=1$，$f''(0)=2$，求 $\\lim_{x\\to0}\\dfrac{f(x)-x}{x^2}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T04:29:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_2",
+      "question_id": "880-basic-solution-P10-(9)",
+      "display_id": "P10-(9)",
+      "display_label": "基础题 · 解答题 · P10-(9)",
+      "page": 10,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 131,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P10-(9)\n设函数 $f(x)$ 在 $x=0$ 处连续，且 $\\lim_{x\\to0}\\dfrac{xf(x)-(1+x)^{2x}+1}{x^2}=1$。证明 $f(x)$ 在 $x=0$ 处可导，并求 $f'(0)$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "一元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:32:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(1)",
+      "display_id": "P17-(1)",
+      "display_label": "基础题 · 选择题 · P17-(1)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 132,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(1)\n设 $f(x)$ 是连续函数，且 $f(x)\\ne0$。若 $\\int xf(x)\\,dx=\\arcsin x+C$，则 $\\int\\dfrac{dx}{f(x)}=(\\ )$。\n\nA. $\\dfrac13(1-x^2)^{3/2}+C$\n\nB. $\\dfrac23(1-x^2)^{3/2}+C$\n\nC. $-\\dfrac13(1-x^2)^{3/2}+C$\n\nD. $-\\dfrac23(1-x^2)^{3/2}+C$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:33:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(2)",
+      "display_id": "P17-(2)",
+      "display_label": "基础题 · 选择题 · P17-(2)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 133,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(2)\n设 $f(x)$ 是连续函数，$F(x)$ 是 $f(x)$ 的原函数，则 $(\\ )$。\n\nA. 当 $f(x)$ 为奇函数时，$F(x)$ 必为偶函数\n\nB. 当 $f(x)$ 为偶函数时，$F(x)$ 必为奇函数\n\nC. 当 $f(x)$ 为周期函数时，$F(x)$ 必为周期函数\n\nD. 当 $f(x)$ 为单调函数时，$F(x)$ 必为单调函数",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:34:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(3)",
+      "display_id": "P17-(3)",
+      "display_label": "基础题 · 选择题 · P17-(3)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 134,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(3)\n设 $\\int_{-\\infty}^{+\\infty}f(x)\\,dx=a$（$a$ 为常数），$f(x)$ 为偶函数，$F(x)=\\int_{-\\infty}^{x}f(t)\\,dt$，则对任意 $x_0\\in(-\\infty,+\\infty)$，$F(-x_0)=(\\ )$。\n\nA. $-F(x_0)$\n\nB. $F(x_0)$\n\nC. $\\dfrac a2-\\int_0^{x_0}f(x)\\,dx$\n\nD. $a-\\int_0^{x_0}f(x)\\,dx$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:35:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(4)",
+      "display_id": "P17-(4)",
+      "display_label": "基础题 · 选择题 · P17-(4)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 135,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(4)\n设 $F(x)$ 是 $\\sin x^2$ 的一个原函数，则 $d[F(x^2)]=(\\ )$。\n\nA. $\\sin x^4\\,dx$\n\nB. $\\sin x^2\\,d(x^2)$\n\nC. $2x\\sin x^2\\,dx$\n\nD. $2x\\sin x^4\\,dx$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:36:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(5)",
+      "display_id": "P17-(5)",
+      "display_label": "基础题 · 选择题 · P17-(5)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 136,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(5)\n设 $f(x)=\\begin{cases}\\sin x,&0\\le x<\\pi,\\\\2,&\\pi\\le x\\le2\\pi,\\end{cases}$，$F(x)=\\int_0^x f(t)\\,dt$，则 $(\\ )$。\n\nA. $x=\\pi$ 是 $F(x)$ 的跳跃间断点\n\nB. $x=\\pi$ 是 $F(x)$ 的可去间断点\n\nC. $F(x)$ 在 $x=\\pi$ 处连续但不可导\n\nD. $F(x)$ 在 $x=\\pi$ 处可导",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:37:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(6)",
+      "display_id": "P17-(6)",
+      "display_label": "基础题 · 选择题 · P17-(6)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 137,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(6)\n函数 $f(x)=\\begin{cases}x^2+1,&x\\le0,\\\\\\cos x,&x>0\\end{cases}$ 的一个原函数为 $(\\ )$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:38:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(7)",
+      "display_id": "P17-(7)",
+      "display_label": "基础题 · 选择题 · P17-(7)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 138,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(7)\n$\\lim_{n\\to\\infty}\\sum_{k=1}^n\\int_k^{k+1}\\dfrac{dx}{x\\sqrt{x-1}}=(\\ )$。\n\nA. $1$\n\nB. $\\dfrac\\pi2$\n\nC. $\\pi$\n\nD. $2\\pi$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:39:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P17-(8)",
+      "display_id": "P17-(8)",
+      "display_label": "基础题 · 选择题 · P17-(8)",
+      "page": 17,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 139,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P17-(8)\n设 $f(x)$ 在 $[0,1]$ 上连续，$f(x)>0$，$f'(x)<0$，$f''(x)>0$，记 $M=\\int_0^1f(x)\\,dx$，$N=f(1)$，$P=\\dfrac12[f(0)+f(1)]$，则 $(\\ )$。\n\nA. $M<N<P$\n\nB. $N<M<P$\n\nC. $P<M<N$\n\nD. $P<N<M$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:40:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(9)",
+      "display_id": "P18-(9)",
+      "display_label": "基础题 · 选择题 · P18-(9)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 140,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(9)\n设 $f(x)$ 在 $[0,+\\infty)$ 上连续，且 $f(x)>\\int_0^x f(t)\\,dt (x\\ge0)$。当 $0<a<b$ 时，下列选项中正确的是 $(\\ )$。\n\nA. $\\int_0^b f(x)dx>\\int_0^a f(x)dx>\\int_0^{(a+b)/2}f(x)dx$\n\nB. $\\int_0^a f(x)dx>\\int_0^b f(x)dx>\\int_0^{(a+b)/2}f(x)dx$\n\nC. $\\int_0^a f(x)dx>\\int_0^{(a+b)/2}f(x)dx>\\int_0^b f(x)dx$\n\nD. $\\int_0^b f(x)dx>\\int_0^{(a+b)/2}f(x)dx>\\int_0^a f(x)dx$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:41:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(10)",
+      "display_id": "P18-(10)",
+      "display_label": "基础题 · 选择题 · P18-(10)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 141,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(10)\n设 $I_1=\\int_0^\\pi\\dfrac{x\\sin^2x}{1+e^{\\cos^2x}}dx$，$I_2=\\int_0^\\pi\\dfrac{\\sin^2x}{1+e^{\\cos^2x}}dx$，$I_3=\\int_0^{\\pi/2}\\dfrac{\\cos^2x}{1+e^{\\sin^2x}}dx$，则 $(\\ )$。\n\nA. $I_1>I_2>I_3$\n\nB. $I_3>I_2>I_1$\n\nC. $I_2>I_1>I_3$\n\nD. $I_3>I_1>I_2$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:42:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(11)",
+      "display_id": "P18-(11)",
+      "display_label": "基础题 · 选择题 · P18-(11)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 142,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(11)\n设 $f(x)$ 在 $[0,1]$ 上是凹函数，且非负连续，$f(0)=0$，则下列选项中正确的是 $(\\ )$。\n\nA. $4\\int_0^{1/2}f(x)dx\\le\\int_0^1f(x)dx$\n\nB. $4\\int_0^{1/2}f(x)dx\\ge\\int_0^1f(x)dx$\n\nC. $8\\int_0^{1/2}f(x)dx\\le\\int_0^1f(x)dx$\n\nD. $8\\int_0^{1/2}f(x)dx\\ge\\int_0^1f(x)dx$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:43:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(12)",
+      "display_id": "P18-(12)",
+      "display_label": "基础题 · 选择题 · P18-(12)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 143,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(12)\n设 $\\lim_{x\\to0}\\dfrac{1}{\\sin x-ax}\\int_b^x\\dfrac{t^2}{\\sqrt{1+t^2}}dt=c$，且 $c\\ne0$，则 $(\\ )$。\n\nA. $a=1,b=0,c=-2$\n\nB. $a=1,b=-2,c=-2$\n\nC. $a=0,b=1,c=-2$\n\nD. $a=1,b=1,c=1$",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:44:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(13)",
+      "display_id": "P18-(13)",
+      "display_label": "基础题 · 选择题 · P18-(13)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 144,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(13)\n设函数 $y=f(x)$ 由参数方程 $\\begin{cases}x=\\int_0^t2e^{-u^2}du,\\\\y=\\int_0^t\\sin(t-u)du\\end{cases}$ 确定，则当 $x\\to0$ 时，$f(x)$ 是 $x^2$ 的 $(\\ )$。\n\nA. 高阶无穷小\n\nB. 等价无穷小\n\nC. 同阶但不等价无穷小\n\nD. 低阶无穷小",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:45:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(14)",
+      "display_id": "P18-(14)",
+      "display_label": "基础题 · 选择题 · P18-(14)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 145,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(14)\n下列反常积分中收敛的是 $(\\ )$。\n\nA. $\\int_1^{+\\infty}\\dfrac{dx}{x^2\\sqrt{1+x}}$\n\nB. $\\int_0^1\\dfrac{dx}{\\ln(1+x)}$\n\nC. $\\int_{-1}^1\\dfrac{dx}{\\sin x}$\n\nD. $\\int_{-\\infty}^{+\\infty}\\dfrac{x}{\\sqrt{1+x^2}}dx$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:46:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(15)",
+      "display_id": "P18-(15)",
+      "display_label": "基础题 · 选择题 · P18-(15)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 146,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(15)\n已知 $\\int_1^{+\\infty}\\left(\\dfrac{2x^2+ax+b}{2x^2+bx}-1\\right)dx=1 (b>0)$，则 $(\\ )$。\n\nA. $a=e-1,b=e$\n\nB. $a=b=2(e-1)$\n\nC. $a=e,b=e-1$\n\nD. $a=b=2e-1$",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:47:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P18-(16)",
+      "display_id": "P18-(16)",
+      "display_label": "基础题 · 选择题 · P18-(16)",
+      "page": 18,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 147,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P18-(16)\n已知积分 $I=\\int_2^{+\\infty}\\left(e^{\\ln x/x^a}-1\\right)dx$ 收敛，则 $a$ 的取值范围为 $(\\ )$。\n\nA. $(-\\infty,0)$\n\nB. $(0,1]$\n\nC. $(1,+\\infty)$\n\nD. $[1,+\\infty)$",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:48:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(1)",
+      "display_id": "P19-(1)",
+      "display_label": "基础题 · 填空题 · P19-(1)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 148,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(1)\n设 $F(x)$ 是 $f(x)$ 的一个原函数，$F(\\pi/4)=0$。当 $\\pi/4<x<\\pi/2$ 时，$F(x)>0$，且 $F(x)f(x)=\\dfrac{\\ln(\\tan x)}{\\sin x\\cos x}$，则 $f(x)=\\underline{\\qquad}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:49:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(2)",
+      "display_id": "P19-(2)",
+      "display_label": "基础题 · 填空题 · P19-(2)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 149,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(2)\n设对任意 $x$，有 $f(x+4)=f(x)$，且 $f'(x)=1+|x| (x\\in(-2,2])$，$f(0)=1$，则 $f(9)=\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:50:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(3)",
+      "display_id": "P19-(3)",
+      "display_label": "基础题 · 填空题 · P19-(3)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 150,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(3)\n设 $F(x)=\\int_0^x t f(x^2-t^2)dt$，$f(x)$ 在 $x=0$ 的某邻域内可导，且 $f(0)=0$，$f'(0)=1$，则 $\\lim_{x\\to0}\\dfrac{F(x)}{x^4}=\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:51:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(4)",
+      "display_id": "P19-(4)",
+      "display_label": "基础题 · 填空题 · P19-(4)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 151,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(4)\n设 $f(x)$ 可导，对任意 $x,y$，有 $f(x+y)=\\int_x^{x+y}\\dfrac{t(t^2+1)}{f(t)}dt+f(x)$，且 $f(1)=\\sqrt2$，则 $f(x)=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:52:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(5)",
+      "display_id": "P19-(5)",
+      "display_label": "基础题 · 填空题 · P19-(5)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 152,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(5)\n设 $f(x)$ 在 $[0,+\\infty)$ 上可导，$f(0)=0$，$y=f(x)$ 的反函数为 $g(x)$。若 $\\int_x^{x+f(x)}g(t-x)dt=x^2\\ln(1+x)$，则 $f(1)=\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:53:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(6)",
+      "display_id": "P19-(6)",
+      "display_label": "基础题 · 填空题 · P19-(6)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 153,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(6)\n$\\lim_{x\\to0}\\dfrac{\\int_0^x\\left[\\int_0^{u^2}\\arctan(1+t)dt\\right]du}{x(1-\\cos x)}=\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:54:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(7)",
+      "display_id": "P19-(7)",
+      "display_label": "基础题 · 填空题 · P19-(7)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 154,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(7)\n$\\lim_{x\\to+\\infty}\\dfrac{\\int_0^x|\\sin t|dt}{x}=\\underline{\\qquad}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:55:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(8)",
+      "display_id": "P19-(8)",
+      "display_label": "基础题 · 填空题 · P19-(8)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 155,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(8)\n设 $\\int_1^{+\\infty}\\dfrac{dx}{x(a+x^3)}=\\dfrac13\\ln2 (a>0)$，则 $a=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:56:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(9)",
+      "display_id": "P19-(9)",
+      "display_label": "基础题 · 填空题 · P19-(9)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 156,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(9)\n函数 $y=\\dfrac{x^2}{\\sqrt{1-x^2}}$ 在 $[1/2,\\sqrt3/2]$ 上的平均值为 $\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:57:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(10)",
+      "display_id": "P19-(10)",
+      "display_label": "基础题 · 填空题 · P19-(10)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 157,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(10)\n设 $f(x)=\\int_0^{a-x}e^{t(2a-t)}dt (a>0)$，$x\\in[0,a]$，则曲线 $y=f(x)$ 与两坐标轴所围成图形的面积为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:58:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(11)",
+      "display_id": "P19-(11)",
+      "display_label": "基础题 · 填空题 · P19-(11)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 158,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": null,
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(11)\n曲线 $y=\\dfrac{\\sqrt{x}}{1+x^2}$ 绕 $x$ 轴旋转一周所得旋转体，将它在 $x=0$ 与 $x=\\xi (\\xi>0)$ 之间部分的体积记为 $V(\\xi)$，且 $V(a)=\\dfrac12\\lim_{\\xi\\to+\\infty}V(\\xi)$，则 $a=\\underline{\\qquad}$。",
+      "correctness": 1,
+      "thinking_quality": 0.85,
+      "missing_steps": [],
+      "error_tags": [],
+      "weakness_focus": [],
+      "student_answer_summary": "按图片标注：本题做对。",
+      "mastery": 0.94,
+      "performance_level": "优秀",
+      "difficulty_adjustment_suggestion": "up",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T05:59:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(12)",
+      "display_id": "P19-(12)",
+      "display_label": "基础题 · 填空题 · P19-(12)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 159,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(12)\n曲线 $r=a\\sin^3(\\theta/3) (a>0,0\\le\\theta\\le3\\pi)$ 的弧长 $s=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T06:00:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(13)",
+      "display_id": "P19-(13)",
+      "display_label": "基础题 · 填空题 · P19-(13)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 160,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(13)\n曲线 $y=\\int_{-\\pi/2}^{x}\\sqrt{\\cos t}dt$ 的全长 $s=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T06:01:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(14)",
+      "display_id": "P19-(14)",
+      "display_label": "基础题 · 填空题 · P19-(14)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 161,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(14)\n设 $D$ 是由曲线 $y=\\sin x+1$ 与直线 $x=0$、$x=\\pi$、$y=0$ 所围平面图形，则 $D$ 绕 $x$ 轴旋转一周所得旋转体的体积 $V=\\underline{\\qquad}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T06:02:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(15)",
+      "display_id": "P19-(15)",
+      "display_label": "基础题 · 填空题 · P19-(15)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 162,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(15)\n设 $n$ 为正数，$\\lim_{x\\to0}\\left(\\dfrac{n-x}{n+x}\\right)^{2/x}=\\int_{1/n}^{+\\infty}xe^{-4x}dx$，则 $n=\\underline{\\qquad}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-19T06:03:00Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P19-(16)",
+      "display_id": "P19-(16)",
+      "display_label": "基础题 · 填空题 · P19-(16)",
+      "page": 19,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 163,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P19-(16)\n设质点以速度 $\\sqrt t e^{-\\sqrt t} (t\\ge0)\\,\\mathrm{m/s}$ 做直线运动，则质点从开始运动到停止运动经过的路程为 $\\underline{\\qquad}\\,\\mathrm m$；它从 $t=0$ 到 $t=4\\,\\mathrm s$ 时间段内的平均速度为 $\\underline{\\qquad}\\,\\mathrm{m/s}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "积分及其应用"
       ],
       "student_answer_summary": "按图片标注：C级错题。",
       "mastery": 0.28,
