@@ -25,12 +25,20 @@
     7,
     8,
     9,
+    10,
+    17,
+    18,
+    19,
     20,
     21,
-    28
+    28,
+    29,
+    30,
+    31,
+    32
   ],
-  "recorded_range": "基础题：P1-P3、P7-P9、P20-P21、P28",
-  "recorded_count": 112,
+  "recorded_range": "基础题：P1-P3、P7-P10、P17-P21、P28-P32",
+  "recorded_count": 196,
   "history": [
     {
       "question_id": "880-basic-choice-P1-(1)",
@@ -2335,6 +2343,600 @@
       "unit": "unit_unassigned",
       "mastery": 0.62,
       "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-fill-P28-(6)",
+      "display_id": "P28-(6)",
+      "display_label": "基础题 · 填空题 · P28-(6)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 164,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P28-(7)",
+      "display_id": "P28-(7)",
+      "display_label": "基础题 · 填空题 · P28-(7)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 165,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P28-(8)",
+      "display_id": "P28-(8)",
+      "display_label": "基础题 · 填空题 · P28-(8)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 166,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P28-(9)",
+      "display_id": "P28-(9)",
+      "display_label": "基础题 · 填空题 · P28-(9)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 167,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P28-(10)",
+      "display_id": "P28-(10)",
+      "display_label": "基础题 · 填空题 · P28-(10)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 168,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P28-(11)",
+      "display_id": "P28-(11)",
+      "display_label": "基础题 · 填空题 · P28-(11)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 169,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P28-(12)",
+      "display_id": "P28-(12)",
+      "display_label": "基础题 · 填空题 · P28-(12)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 170,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(1)",
+      "display_id": "P29-(1)",
+      "display_label": "基础题 · 解答题 · P29-(1)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 171,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(2)",
+      "display_id": "P29-(2)",
+      "display_label": "基础题 · 解答题 · P29-(2)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 172,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(3)",
+      "display_id": "P29-(3)",
+      "display_label": "基础题 · 解答题 · P29-(3)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 173,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_unassigned",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(4)",
+      "display_id": "P29-(4)",
+      "display_label": "基础题 · 解答题 · P29-(4)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 174,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(5)",
+      "display_id": "P29-(5)",
+      "display_label": "基础题 · 解答题 · P29-(5)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 175,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(6)",
+      "display_id": "P29-(6)",
+      "display_label": "基础题 · 解答题 · P29-(6)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 176,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_unassigned",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(7)",
+      "display_id": "P29-(7)",
+      "display_label": "基础题 · 解答题 · P29-(7)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 177,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(8)",
+      "display_id": "P29-(8)",
+      "display_label": "基础题 · 解答题 · P29-(8)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 178,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P29-(9)",
+      "display_id": "P29-(9)",
+      "display_label": "基础题 · 解答题 · P29-(9)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 179,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P30-(1)",
+      "display_id": "P30-(1)",
+      "display_label": "基础题 · 选择题 · P30-(1)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 180,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P30-(4)",
+      "display_id": "P30-(4)",
+      "display_label": "基础题 · 选择题 · P30-(4)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 181,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P30-(5)",
+      "display_id": "P30-(5)",
+      "display_label": "基础题 · 选择题 · P30-(5)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 182,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P30-(6)",
+      "display_id": "P30-(6)",
+      "display_label": "基础题 · 选择题 · P30-(6)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 183,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P31-(9)",
+      "display_id": "P31-(9)",
+      "display_label": "基础题 · 选择题 · P31-(9)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 184,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-choice-P31-(10)",
+      "display_id": "P31-(10)",
+      "display_label": "基础题 · 选择题 · P31-(10)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 185,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(1)",
+      "display_id": "P31-(1)",
+      "display_label": "基础题 · 填空题 · P31-(1)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 186,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(3)",
+      "display_id": "P31-(3)",
+      "display_label": "基础题 · 填空题 · P31-(3)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 187,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(4)",
+      "display_id": "P31-(4)",
+      "display_label": "基础题 · 填空题 · P31-(4)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 188,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(8)",
+      "display_id": "P31-(8)",
+      "display_label": "基础题 · 填空题 · P31-(8)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 189,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(9)",
+      "display_id": "P31-(9)",
+      "display_label": "基础题 · 填空题 · P31-(9)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 190,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(11)",
+      "display_id": "P31-(11)",
+      "display_label": "基础题 · 填空题 · P31-(11)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 191,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(12)",
+      "display_id": "P31-(12)",
+      "display_label": "基础题 · 填空题 · P31-(12)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 192,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-fill-P31-(13)",
+      "display_id": "P31-(13)",
+      "display_label": "基础题 · 填空题 · P31-(13)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 193,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P31-(1)",
+      "display_id": "P31-(1)",
+      "display_label": "基础题 · 解答题 · P31-(1)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 194,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_unassigned",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-solution-P32-(2)",
+      "display_id": "P32-(2)",
+      "display_label": "基础题 · 解答题 · P32-(2)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 195,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "unit": "unit_unassigned",
+      "mastery": 0.28,
+      "performance_level": "不佳"
+    },
+    {
+      "question_id": "880-basic-solution-P32-(3)",
+      "display_id": "P32-(3)",
+      "display_label": "基础题 · 解答题 · P32-(3)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 196,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "unit": "unit_unassigned",
+      "mastery": 0.49,
+      "performance_level": "不佳"
     }
   ],
   "records": [
@@ -8572,8 +9174,1328 @@
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
       "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P28-(6)",
+      "display_id": "P28-(6)",
+      "display_label": "基础题 · 填空题 · P28-(6)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 164,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P28-(6)\n直线 $L_1:\\begin{cases}x-1=0,\\\\ y=x\\end{cases}$ 与 $L_2:\\begin{cases}x+2y=0,\\\\ z+2=0\\end{cases}$ 之间的距离 $d=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P28-(7)",
+      "display_id": "P28-(7)",
+      "display_label": "基础题 · 填空题 · P28-(7)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 165,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P28-(7)\n直线 $L:\\begin{cases}x+2y-3z=2,\\\\ 2x-y+z=3\\end{cases}$ 在平面 $z=0$ 上的投影为 $\\underline{\\qquad}$，在平面 $z=1$ 上的投影为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P28-(8)",
+      "display_id": "P28-(8)",
+      "display_label": "基础题 · 填空题 · P28-(8)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 166,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P28-(8)\n过点 $A(1,1,-1)$、$B(-2,-2,2)$ 和 $C(1,-1,2)$ 三点的平面方程为 $\\underline{\\qquad}$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P28-(9)",
+      "display_id": "P28-(9)",
+      "display_label": "基础题 · 填空题 · P28-(9)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 167,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P28-(9)\n曲线 $\\begin{cases}x^2+2z^2=4,\\\\ y=0\\end{cases}$ 绕 $z$ 轴旋转一周所得旋转曲面方程为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P28-(10)",
+      "display_id": "P28-(10)",
+      "display_label": "基础题 · 填空题 · P28-(10)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 168,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P28-(10)\n曲线 $\\begin{cases}z=2x^2+3y^2,\\\\ z=12-x^2-3y^2\\end{cases}$ 在 $xOy$ 平面上的投影曲线方程为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P28-(11)",
+      "display_id": "P28-(11)",
+      "display_label": "基础题 · 填空题 · P28-(11)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 169,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P28-(11)\n设 $\\alpha$ 与 $\\beta$ 均为单位向量，其夹角为 $\\frac{\\pi}{6}$，则以 $\\alpha+2\\beta$ 与 $3\\alpha+\\beta$ 为邻边的平行四边形的面积为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P28-(12)",
+      "display_id": "P28-(12)",
+      "display_label": "基础题 · 填空题 · P28-(12)",
+      "page": 28,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 170,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P28-(12)\n设 $\\alpha$ 与 $\\beta$ 是非零向量，$|\\beta|=2$（$|\\beta|$ 表示 $\\beta$ 的模），$\\alpha$ 与 $\\beta$ 之间的夹角为 $\\frac{\\pi}{3}$，求 $\\displaystyle\\lim_{x\\to0}\\frac{|\\alpha+x\\beta|-|\\alpha|}{x}=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(1)",
+      "display_id": "P29-(1)",
+      "display_label": "基础题 · 解答题 · P29-(1)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 171,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(1)\n求平行于平面 $x+y+z=9$ 且与球面 $x^2+y^2+z^2=4$ 相切的平面方程。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(2)",
+      "display_id": "P29-(2)",
+      "display_label": "基础题 · 解答题 · P29-(2)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 172,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(2)\n设平面 $\\pi$ 与点 $P(1,2,1)$ 的距离为 $1$，且过直线 $L:\\begin{cases}3x-2y+2=0,\\\\ x-2y-z+6=0\\end{cases}$，求平面 $\\pi$ 的方程。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(3)",
+      "display_id": "P29-(3)",
+      "display_label": "基础题 · 解答题 · P29-(3)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 173,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(3)\n设平面 $\\pi$ 过直线 $L:\\begin{cases}x+5y+z=0,\\\\ x-z+4=0\\end{cases}$，且与平面 $\\pi_1:x-4y-8z+12=0$ 的夹角为 $45^\\circ$，求平面 $\\pi$ 的方程。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(4)",
+      "display_id": "P29-(4)",
+      "display_label": "基础题 · 解答题 · P29-(4)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 174,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(4)\n求直线 $L:\\dfrac{x+2}{3}=\\dfrac{2-y}{1}=\\dfrac{z+1}{2}$ 在平面 $\\pi:2x+3y+3z-8=0$ 上的投影直线方程。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(5)",
+      "display_id": "P29-(5)",
+      "display_label": "基础题 · 解答题 · P29-(5)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 175,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(5)\n求过点 $(-1,2,3)$，垂直于直线 $\\dfrac{x}{4}=\\dfrac{y}{5}=\\dfrac{z}{6}$ 且平行于平面 $7x+8y+9z+10=0$ 的直线方程。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(6)",
+      "display_id": "P29-(6)",
+      "display_label": "基础题 · 解答题 · P29-(6)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 176,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(6)\n求与直线 $L_1:x+2=3-y=z+1$ 和 $L_2:\\dfrac{x+4}{2}=y=\\dfrac{z-4}{3}$ 都垂直相交的直线方程。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(7)",
+      "display_id": "P29-(7)",
+      "display_label": "基础题 · 解答题 · P29-(7)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 177,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(7)\n求直线 $L_1:\\dfrac{x-3}{2}=y=\\dfrac{z-1}{0}$ 与 $L_2:\\dfrac{x+1}{1}=\\dfrac{y-2}{0}=z$ 的公垂线方程。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(8)",
+      "display_id": "P29-(8)",
+      "display_label": "基础题 · 解答题 · P29-(8)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 178,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(8)\n求直线 $\\dfrac{x-1}{0}=\\dfrac{y}{1}=\\dfrac{z-1}{2}$ 绕 $z$ 轴旋转一周所得的旋转曲面方程。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T14:54:07Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P29-(9)",
+      "display_id": "P29-(9)",
+      "display_label": "基础题 · 解答题 · P29-(9)",
+      "page": 29,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 179,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P29-(9)\n求直线 $L:\\dfrac{x-1}{3}=\\dfrac{y-2}{4}=\\dfrac{z+1}{1}$ 绕直线 $\\begin{cases}x=2,\\\\ y=3\\end{cases}$ 旋转一周所得的曲面方程。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "空间向量与解析几何"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P30-(1)",
+      "display_id": "P30-(1)",
+      "display_label": "基础题 · 选择题 · P30-(1)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 180,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P30-(1)\n设 $f(x,y)=\\arcsin\\sqrt{x^2+y^4}$，则下列选项中正确的是（　）。\n\nA. $f'_x(0,0)$ 存在，$f'_y(0,0)$ 存在\n\nB. $f'_x(0,0)$ 不存在，$f'_y(0,0)$ 存在\n\nC. $f'_x(0,0)$ 不存在，$f'_y(0,0)$ 不存在\n\nD. $f'_x(0,0)$ 存在，$f'_y(0,0)$ 不存在",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P30-(4)",
+      "display_id": "P30-(4)",
+      "display_label": "基础题 · 选择题 · P30-(4)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 181,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P30-(4)\n设 $f(x,y)=\\sqrt{|xy|}$，则（　）。\n\nA. 当 $x>0$ 时，$f'_x(x,y)=-\\dfrac12\\sqrt{\\left|\\dfrac yx\\right|}$\n\nB. 当 $x<0$ 时，$f'_x(x,y)=\\dfrac12\\sqrt{\\left|\\dfrac yx\\right|}$\n\nC. 当 $y\\ne0$ 时，$f'_x(0,y)=0$\n\nD. 当 $y\\ne0$ 时，$f'_x(0,y)$ 不存在",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P30-(5)",
+      "display_id": "P30-(5)",
+      "display_label": "基础题 · 选择题 · P30-(5)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 182,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P30-(5)\n设 $f(x,y)=\\begin{cases}\\dfrac{2x|y|}{\\sqrt{x^2+y^2}},&x^2+y^2\\ne0,\\\\0,&x^2+y^2=0.\\end{cases}$ 若 $z=f(\\tan t,\\ln(1+t))$，则 $\\left.\\dfrac{dz}{dt}\\right|_{t=0}=（　）$。\n\nA. $0$\n\nB. $1$\n\nC. $2$\n\nD. $\\sqrt2$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P30-(6)",
+      "display_id": "P30-(6)",
+      "display_label": "基础题 · 选择题 · P30-(6)",
+      "page": 30,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 183,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P30-(6)\n设方程 $xy-z\\ln y+e^{xz}=1$，存在点 $(0,1,1)$ 的一个邻域，在此邻域内该方程（　）。\n\nA. 可确定隐函数 $y=y(x,z)$ 和 $z=z(x,y)$\n\nB. 可确定隐函数 $x=x(y,z)$ 和 $z=z(x,y)$\n\nC. 可确定隐函数 $x=x(y,z)$ 和 $y=y(x,z)$\n\nD. 只能确定隐函数 $z=z(x,y)$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P31-(9)",
+      "display_id": "P31-(9)",
+      "display_label": "基础题 · 选择题 · P31-(9)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 184,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(9)\n设 $z=f(x,y)$ 在点 $(0,0)$ 的某邻域内有定义，且 $f'_x(0,0)=1$，$f'_y(0,0)=1$，则（　）。\n\nA. $\\left.dz\\right|_{(0,0)}=dx+dy$\n\nB. 曲线 $\\begin{cases}z=f(x,y),\\\\y=0\\end{cases}$ 在点 $(0,0,f(0,0))$ 处的切向量为 $(1,0,1)$\n\nC. 曲面 $z=f(x,y)$ 在点 $(0,0,f(0,0))$ 处的法向量为 $(1,1,1)$\n\nD. $\\displaystyle\\lim_{\\substack{x\\to0\\\\y\\to0}}f(x,y)$ 必存在",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P31-(10)",
+      "display_id": "P31-(10)",
+      "display_label": "基础题 · 选择题 · P31-(10)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 185,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(10)\n设曲面 $S$ 由方程 $F(ax-bz,ay-cz)=0$ 所确定，$F$ 有连续偏导数，$a,b,c$ 是不为零的常数，则曲面 $S$ 上任一点的切平面都平行于直线（　）。\n\nA. $\\dfrac xa=\\dfrac yb=\\dfrac zc$\n\nB. $\\dfrac xb=\\dfrac yc=\\dfrac za$\n\nC. $\\dfrac xc=\\dfrac yb=\\dfrac za$\n\nD. $\\dfrac xc=\\dfrac ya=\\dfrac zb$",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(1)",
+      "display_id": "P31-(1)",
+      "display_label": "基础题 · 填空题 · P31-(1)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 186,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(1)\n$\\displaystyle\\lim_{\\substack{x\\to\\infty\\\\y\\to\\infty}}\\frac{x+y}{x^2-xy+y^2}=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(3)",
+      "display_id": "P31-(3)",
+      "display_label": "基础题 · 填空题 · P31-(3)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 187,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(3)\n设 $z=(1+xy)^y$，则 $\\left.dz\\right|_{(1,1)}=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(4)",
+      "display_id": "P31-(4)",
+      "display_label": "基础题 · 填空题 · P31-(4)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 188,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(4)\n设函数 $f(x,y)$ 可微，且 $f(1,2)=2$，$f'_x(1,2)=3$，$f'_y(1,2)=4$，$F(x)=f[x,f(x,2x)]$，则 $F'(1)=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(8)",
+      "display_id": "P31-(8)",
+      "display_label": "基础题 · 填空题 · P31-(8)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 189,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(8)\n设 $z=z(x,y)$ 由方程 $z+\\ln z-\\displaystyle\\int_y^x e^{-t^2}dt=0$ 确定，则 $\\dfrac{\\partial^2z}{\\partial x\\partial y}=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(9)",
+      "display_id": "P31-(9)",
+      "display_label": "基础题 · 填空题 · P31-(9)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 190,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(9)\n设 $g(x)$ 连续，$g(2)=1$，$f(x,y)=\\displaystyle\\int_0^{\\sqrt{x^2+y^2}}t\\,g(x^2+y^2-t^2)dt$，则 $\\left.df\\right|_{(1,1)}=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(11)",
+      "display_id": "P31-(11)",
+      "display_label": "基础题 · 填空题 · P31-(11)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 191,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(11)\n曲线 $L:\\begin{cases}x^2+y^2=10,\\\\x^2+z^2=10\\end{cases}$ 在点 $P(3,1,1)$ 处的切线方程为 $\\underline{\\qquad}$，法平面方程为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(12)",
+      "display_id": "P31-(12)",
+      "display_label": "基础题 · 填空题 · P31-(12)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 192,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(12)\n设 $\\dfrac{(x+ky)dx+y\\,dy}{(x+y)^2}$ 为某二元函数的全微分，则 $k=\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P31-(13)",
+      "display_id": "P31-(13)",
+      "display_label": "基础题 · 填空题 · P31-(13)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 193,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(13)\n设 $x,y\\in\\mathbb R$，且 $4x^2+4y^2-2xy-\\dfrac58=0$，则 $2x+y$ 的取值范围为 $\\underline{\\qquad}$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P31-(1)",
+      "display_id": "P31-(1)",
+      "display_label": "基础题 · 解答题 · P31-(1)",
+      "page": 31,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 194,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P31-(1)\n设 $y=y(x)$，$z=z(x)$ 由方程组 $\\begin{cases}x^2+y^2+z^2=3x,\\\\2x-3y+5z=4\\end{cases}$ 确定，求 $\\dfrac{dy}{dx}$、$\\dfrac{dz}{dx}$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(2)",
+      "display_id": "P32-(2)",
+      "display_label": "基础题 · 解答题 · P32-(2)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 195,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(2)\n设 $x\\ge0$，$y\\ge0$ 时，有 $|x^2-y^2|e^{-x^2-y^2}\\le k$ 成立，求 $k$ 的最小值。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-08-25T15:11:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(3)",
+      "display_id": "P32-(3)",
+      "display_label": "基础题 · 解答题 · P32-(3)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 196,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(3)\n求 $f(x,y)=(1+e^y)\\cos x-ye^y$ 的极值。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
     }
   ],
   "maintenance_policy": "append_only_active",
-  "curriculum_unit": "unit_2"
+  "curriculum_unit": "unit_unassigned"
 }

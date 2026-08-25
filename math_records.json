@@ -98,10 +98,14 @@
         19,
         20,
         21,
-        28
+        28,
+        29,
+        30,
+        31,
+        32
       ],
-      "recorded_range": "基础题：P1-P3、P7-P10、P17-P21、P28",
-      "recorded_count": 163,
+      "recorded_range": "基础题：P1-P3、P7-P10、P17-P21、P28-P32",
+      "recorded_count": 196,
       "history": [],
       "record_file": "880-record.json"
     }
