@@ -13,6 +13,7 @@
 ├── math_records.json              # 总索引：当前题册、题册状态、记录文件入口
 ├── 660-record.json                # 660 题册的完整记录
 ├── 800-record.json                # 800 题册历史归档
+├── workbook_880_unscheduled.json  # 880 待排期索引池
 ├── review_state.json              # 每道错题的复盘历史与下一次到期日
 ├── review_schedule.json           # 按日期组织的复盘队列
 ├── workbook_660_error_abc.md      # 660 题册 ABC 错题索引
@@ -22,6 +23,10 @@
 ├── unit_*_outline.md              # 单元大纲
 └── *_coverage.md / dashboard.md   # 阶段性分析与覆盖记录
 ```
+
+## 当前 880 录入方式
+
+当前 880 采用“先录待排期索引、后续按顺序每日取题”的方式：只追加到 `workbook_880_unscheduled.json`，不 OCR 题干、不记录答案、不排期。勾号或“对了”视为做对，不录入；没有明确等级时再向用户确认。
 
 ## 核心文件
 

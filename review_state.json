@@ -18473,14 +18473,24 @@
           "next_due_at": "2026-09-11",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-17T16:32:40",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-18",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 0,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-08",
-      "next_due_at": "2026-09-11"
+      "last_reviewed_at": "2026-09-17",
+      "next_due_at": "2026-09-18"
     },
     "880-basic-fill-P31-(9)": {
       "history": [
@@ -18673,5 +18683,5 @@
       "next_due_at": "2026-09-14"
     }
   },
-  "updated_at": "2026-09-08T16:35:08"
+  "updated_at": "2026-09-17T16:32:40"
 }

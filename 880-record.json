@@ -35,10 +35,14 @@
     29,
     30,
     31,
-    32
+    32,
+    36,
+    37,
+    43,
+    44
   ],
-  "recorded_range": "基础题：P1-P3、P7-P10、P17-P21、P28-P32",
-  "recorded_count": 196,
+  "recorded_range": "基础题：P1-P3、P7-P10、P17-P21、P28-P32、P36-P37、P43-P44",
+  "recorded_count": 249,
   "history": [
     {
       "question_id": "880-basic-choice-P1-(1)",
@@ -10494,7 +10498,1602 @@
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
       "next_expected_target_score_tier": "120以下"
-    }
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(4)",
+      "display_id": "P32-(4)",
+      "display_label": "基础题 · 解答题 · P32-(4)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 197,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(4)\n设曲面 $S:(x-y)^2-z^2=1$，求坐标原点到 $S$ 的最短距离。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(5)",
+      "display_id": "P32-(5)",
+      "display_label": "基础题 · 解答题 · P32-(5)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 198,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(5)\n求函数 $z=x^3-3x^2-3y^2$ 在闭区域 $D:x^2+y^2\\le16$ 上的最大值。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(6)",
+      "display_id": "P32-(6)",
+      "display_label": "基础题 · 解答题 · P32-(6)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 199,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(6)\n设椭圆 $\\begin{cases}z=x^2+y^2,\\\\x+y+z=4\\end{cases}$ 上的点 $(x,y,z)$ 到原点的距离为 $d$，求其最值以及使得 $d$ 取最大和最小值的点。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(7)",
+      "display_id": "P32-(7)",
+      "display_label": "基础题 · 解答题 · P32-(7)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 200,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(7)\n在第一象限内，过曲线 $3x^2+2xy+3y^2=a$ 上任一点作其切线，若切线与两坐标轴所围成的三角形面积的最小值为 $\\frac14$，求 $a$ 的值。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(8)",
+      "display_id": "P32-(8)",
+      "display_label": "基础题 · 解答题 · P32-(8)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 201,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(8)\n设 $u(x,y)$ 有二阶连续偏导数，利用变换 $\\xi=x+ay,\\eta=x+by$，将方程 $\\frac{\\partial^2u}{\\partial x^2}+4\\frac{\\partial^2u}{\\partial x\\partial y}+3\\frac{\\partial^2u}{\\partial y^2}=0$ 化为 $\\frac{\\partial^2u}{\\partial\\xi\\partial\\eta}=0$，求 $a,b$ 的值。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P32-(9)",
+      "display_id": "P32-(9)",
+      "display_label": "基础题 · 解答题 · P32-(9)",
+      "page": 32,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 202,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P32-(9)\n设 $f(u)$ 有二阶连续导数，且 $z=f(e^x\\sin y)$ 满足 $\\frac{\\partial^2z}{\\partial x^2}+\\frac{\\partial^2z}{\\partial y^2}=ze^{2x}$，求 $f(u)$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "多元函数微分学"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P36-(1)",
+      "display_id": "P36-(1)",
+      "display_label": "基础题 · 选择题 · P36-(1)",
+      "page": 36,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 203,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P36-(1)\n设 $D$ 为由直线 $x+y=\\frac12,x+y=1$ 与两坐标轴所围的区域，$I_1=\\iint_D[\\ln(x+y)]^9dxdy,\\ I_2=\\iint_D(x+y)^9dxdy,\\ I_3=\\iint_D[\\sin(x+y)]^9dxdy$，则（　）。A. $I_1\\le I_2\\le I_3$；B. $I_1\\le I_3\\le I_2$；C. $I_3\\le I_2\\le I_1$；D. $I_3\\le I_1\\le I_2$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P36-(2)",
+      "display_id": "P36-(2)",
+      "display_label": "基础题 · 选择题 · P36-(2)",
+      "page": 36,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 204,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P36-(2)\n设 $D$ 是 $xOy$ 平面上以 $A(1,1),B(-1,1),C(-1,-1)$ 为顶点的三角形区域，$D_1$ 是 $D$ 在第一象限的部分，则 $I=\\iint_D(xy+\\cos x\\sin y)\\,dxdy=$（　）。A. $0$；B. $2\\iint_{D_1}xy\\,dxdy$；C. $2\\iint_{D_1}\\cos x\\sin y\\,dxdy$；D. $4\\iint_{D_1}(xy+\\cos x\\sin y)\\,dxdy$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P36-(3)",
+      "display_id": "P36-(3)",
+      "display_label": "基础题 · 选择题 · P36-(3)",
+      "page": 36,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 205,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P36-(3)\n积分 $I=\\int_0^2dx\\int_0^{x^2/2}f(x,y)\\,dy+\\int_2^{2\\sqrt2}dx\\int_0^{\\sqrt{8-x^2}}f(x,y)\\,dy=$（　）。A. $\\int_0^{\\sqrt2}dy\\int_{\\sqrt y}^{\\sqrt{8-y^2}}f\\,dx$；B. $\\int_0^{\\sqrt2}dy\\int_{\\sqrt{2y}}^{\\sqrt{8-y^2}}f\\,dx$；C. $\\int_0^2dy\\int_{\\sqrt{2y}}^{\\sqrt{8-y^2}}f\\,dx$；D. $\\int_0^2dy\\int_{\\sqrt y}^{\\sqrt{8-y^2}}f\\,dx$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P36-(4)",
+      "display_id": "P36-(4)",
+      "display_label": "基础题 · 选择题 · P36-(4)",
+      "page": 36,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 206,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P36-(4)\n设 $D:x^2+y^2\\le x$，则 $\\iint_Df(x,y)\\,dxdy=$（　）。A. $\\int_0^\\pi d\\theta\\int_0^{\\cos\\theta}f(r\\cos\\theta,r\\sin\\theta)r\\,dr$；B. $\\int_0^\\pi d\\theta\\int_0^{\\sin\\theta}f(r\\cos\\theta,r\\sin\\theta)r\\,dr$；C. $\\int_{-\\pi/2}^{\\pi/2}d\\theta\\int_0^{\\cos\\theta}f(r\\cos\\theta,r\\sin\\theta)r\\,dr$；D. $\\int_{-\\pi/2}^{\\pi/2}d\\theta\\int_0^{\\sin\\theta}f(r\\cos\\theta,r\\sin\\theta)r\\,dr$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P36-(5)",
+      "display_id": "P36-(5)",
+      "display_label": "基础题 · 选择题 · P36-(5)",
+      "page": 36,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 207,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P36-(5)\n将二重积分 $I=\\int_{\\pi/4}^{\\pi/2}d\\theta\\int_0^{2\\sin\\theta}f(r\\cos\\theta,r\\sin\\theta)r\\,dr$ 化为直角坐标系下的二次积分，则 $I=$（　）。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P37-(6)",
+      "display_id": "P37-(6)",
+      "display_label": "基础题 · 选择题 · P37-(6)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 208,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(6)\n设 $V:x^2+y^2+z^2\\le R^2,z\\ge0$，$V_1$ 是 $V$ 位于第一卦限的部分，则（　）。A. $\\iiint_Vz\\,dV=4\\iiint_{V_1}z\\,dV$；B. $\\iiint_Vx\\,dV=4\\iiint_{V_1}x\\,dV$；C. $\\iiint_Vy\\,dV=4\\iiint_{V_1}y\\,dV$；D. $\\iiint_Vxyz\\,dV=4\\iiint_{V_1}xyz\\,dV$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(1)",
+      "display_id": "P37-(1)",
+      "display_label": "基础题 · 填空题 · P37-(1)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 209,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(1)\n$I=\\int_0^1\\frac13x^{-2/3}\\,dx\\int_{\\arctan x}^{\\pi/4}\\csc 2y\\,dy=$\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(2)",
+      "display_id": "P37-(2)",
+      "display_label": "基础题 · 填空题 · P37-(2)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 210,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(2)\n设 $f(t)=\\int_0^t dx\\int_x^t e^{-(x-y)^2}\\,dy\\ (t\\ge0)$，则 $f''(1)=$\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(4)",
+      "display_id": "P37-(4)",
+      "display_label": "基础题 · 填空题 · P37-(4)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 211,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(4)\n设 $D:x^2+y^2\\le4,x\\ge0,y\\ge0$，$f(x)$ 在 $[0,+\\infty)$ 上连续且取正值，则 $I=\\iint_D\\frac{a\\sqrt{f(x)}+b\\sqrt{f(y)}}{\\sqrt{f(x)}+\\sqrt{f(y)}}\\,dxdy=$\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(5)",
+      "display_id": "P37-(5)",
+      "display_label": "基础题 · 填空题 · P37-(5)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 212,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(5)\n设 $f(x)$ 在 $[0,1]$ 上连续，且 $\\int_0^1f(x)\\,dx=A$，则 $I=\\int_0^1dx\\int_x^1f(x)f(y)\\,dy=$\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(6)",
+      "display_id": "P37-(6)",
+      "display_label": "基础题 · 填空题 · P37-(6)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 213,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(6)\n设 $D:2x\\le x^2+y^2,\\ 0\\le y\\le x\\le2$，则 $I=\\iint_D\\frac{dxdy}{\\sqrt{x^2+y^2}}=$\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(7)",
+      "display_id": "P37-(7)",
+      "display_label": "基础题 · 填空题 · P37-(7)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 214,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(7)\n设 $D=\\{(x,y)\\mid0\\le y\\le1-x,0\\le x\\le1\\}$，则 $\\iint_D e^{x/(x+y)}\\,dxdy=$\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(8)",
+      "display_id": "P37-(8)",
+      "display_label": "基础题 · 填空题 · P37-(8)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 215,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(8)\n设 $D:x^2+y^2\\le1$，则 $I=\\iint_D\\left(\\frac{x^2}{4}+\\frac{y^2}{9}\\right)\\,dxdy=$\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(9)",
+      "display_id": "P37-(9)",
+      "display_label": "基础题 · 填空题 · P37-(9)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 216,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(9)\n设区域 $D$ 由 $x=-\\sqrt{2y-y^2},x=-2,y=0,y=2$ 所围，则 $I=\\iint_Dy\\,dxdy=$\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(10)",
+      "display_id": "P37-(10)",
+      "display_label": "基础题 · 填空题 · P37-(10)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 217,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(10)\n设 $D:x^2+y^2\\le2x$，则 $I=\\iint_D(2x+3y)\\,dxdy=$\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(11)",
+      "display_id": "P37-(11)",
+      "display_label": "基础题 · 填空题 · P37-(11)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 218,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(11)\n设 $V:x^2+y^2+z^2\\le2y-2x$，则 $I=\\iiint_V(x+y+z)\\,dV=$\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(12)",
+      "display_id": "P37-(12)",
+      "display_label": "基础题 · 填空题 · P37-(12)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 219,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(12)\n球体 $x^2+y^2+z^2=R^2(R>0)$ 被圆柱面 $x^2+y^2=Rx$ 所截得包含在圆柱面内的立体的体积为\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(13)",
+      "display_id": "P37-(13)",
+      "display_label": "基础题 · 填空题 · P37-(13)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 220,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(13)\n$r\\le1$ 与 $r\\le1+\\cos\\theta$ 所围平面区域的形心坐标为\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(14)",
+      "display_id": "P37-(14)",
+      "display_label": "基础题 · 填空题 · P37-(14)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 221,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(14)\n设平面薄片（密度 $\\rho=1$）由 $y^2=x^3$ 与直线 $y=x$ 所围，则 $D$ 对 $x$ 轴和 $y$ 轴的转动惯量分别为 $I_x=$\\underline{\\qquad},I_y=$\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P37-(1)-(IV)",
+      "display_id": "P37-(1)-(IV)",
+      "display_label": "基础题 · 解答题 · P37-(1)-(IV)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 222,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": "P37-(1)",
+      "subquestion": "IV",
+      "card_structure": "independent_subquestion",
+      "question_md": "### P37-(1)-(IV)\n设 $D:-1\\le x\\le\\sin y,\\ |y|\\le\\frac\\pi2$，求 $I=\\iint_Dx(e^{x^2+\\cos y}\\sin y-1)\\,dxdy。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P44-(5)",
+      "display_id": "P44-(5)",
+      "display_label": "基础题 · 填空题 · P44-(5)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 223,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(5)\n微分方程 $xy'=\\sqrt{x^2+y^2}+y$ 的通解为\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P44-(6)",
+      "display_id": "P44-(6)",
+      "display_label": "基础题 · 填空题 · P44-(6)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 224,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(6)\n方程 $y''+2y'+y=xe^x$ 满足 $y(0)=0,y'(0)=0$ 的特解为\\underline{\\qquad}。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P44-(7)",
+      "display_id": "P44-(7)",
+      "display_label": "基础题 · 填空题 · P44-(7)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 225,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(7)\n方程 $y''-3y'+2y=10e^{-x}\\sin x$ 满足当 $x\\to+\\infty$ 时 $y(x)\\to0$ 的特解为\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P44-(8)",
+      "display_id": "P44-(8)",
+      "display_label": "基础题 · 填空题 · P44-(8)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 226,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(8)\n方程 $(1-x^2)y''-xy'=0$ 满足 $y(0)=0,y'(0)=1$ 的特解为\\underline{\\qquad}。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P44-(9)",
+      "display_id": "P44-(9)",
+      "display_label": "基础题 · 填空题 · P44-(9)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 227,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(9)\n欧拉方程 $x^2y''-xy'+y=0\\ (x>0)$ 满足 $y(1)=1,y'(1)=1$ 的解 $y(x)=$\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P44-(10)",
+      "display_id": "P44-(10)",
+      "display_label": "基础题 · 填空题 · P44-(10)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 228,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(10)\n设二阶线性非齐次微分方程 $y''+p(x)y'+q(x)y=f(x)$ 有三个特解为 $x,e^x,e^{-x}$，则该方程的通解为\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P44-(11)",
+      "display_id": "P44-(11)",
+      "display_label": "基础题 · 填空题 · P44-(11)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 229,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(11)\n设二阶常系数线性微分方程 $y''+ay'+by=ce^x$ 有特解 $y^*=e^{-x}(1+xe^{2x})$，则该方程的通解为\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P44-(3)",
+      "display_id": "P44-(3)",
+      "display_label": "基础题 · 解答题 · P44-(3)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 230,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(3)\n设 $f(x)$ 是连续函数，且 $f(x)=\\cos x-\\int_0^x(x-t)f(t)\\,dt$，求 $f(x)$。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P44-(4)",
+      "display_id": "P44-(4)",
+      "display_label": "基础题 · 解答题 · P44-(4)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 231,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(4)\n设 $f(x)$ 可导，对任何实数 $x,y$ 满足 $f(x+y)=e^xf(y)+e^yf(x)$，且 $f'(0)=e$，求 $f(x)$。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P44-(5)",
+      "display_id": "P44-(5)",
+      "display_label": "基础题 · 解答题 · P44-(5)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 232,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(5)\n求微分方程 $y''+\\frac12(y')^2=2y$ 满足 $y(0)=y'(0)=2$ 的特解。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P44-(7)",
+      "display_id": "P44-(7)",
+      "display_label": "基础题 · 解答题 · P44-(7)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 233,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(7)\n设 $f(u)$ 有二阶连续导数，$z=f(\\sqrt{x^2+y^2})$ 满足 $\\frac{\\partial^2z}{\\partial x^2}+\\frac{\\partial^2z}{\\partial y^2}=x^2+y^2$，求 $z$ 的表达式。",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T07:41:21Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P44-(8)",
+      "display_id": "P44-(8)",
+      "display_label": "基础题 · 解答题 · P44-(8)",
+      "page": 44,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 234,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P44-(8)\n设 $f(u)$ 在 $(0,+\\infty)$ 内具有二阶导数，$z=xf(\\frac yx)+yf(\\frac yx)$ 满足 $x\\frac{\\partial^2z}{\\partial x\\partial y}+2y\\frac{\\partial^2z}{\\partial y^2}=\\frac yx$，$z(x,x)=x,\\left.\\frac{\\partial z}{\\partial x}\\right|_{(x,x)}=-\\frac32$，求 $f(u)$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-fill-P37-(3)",
+      "display_id": "P37-(3)",
+      "display_label": "基础题 · 填空题 · P37-(3)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 235,
+      "target_score_tier": "120以下",
+      "required_for_scores": ["120以下", "120+"],
+      "error_level": "C",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P37-(3)\\n微分方程 $y'-6\\frac{y}{x}+xy^2=0$（$y$ 不为常函数）的通解为\\underline{\\qquad}。",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "missing_steps": ["用户补充标记：C级错题。"],
+      "error_tags": ["C级错题"],
+      "weakness_focus": ["重积分及其应用"],
+      "student_answer_summary": "按用户补充标记：C级错题。",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P37-(1)-(III)",
+      "display_id": "P37-(1)-(III)",
+      "display_label": "基础题 · 解答题 · P37-(1)-(III)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 236,
+      "target_score_tier": "120以下",
+      "required_for_scores": ["120以下", "120+"],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "self_report",
+      "parent_display_id": "P37-(1)",
+      "subquestion": "III",
+      "card_structure": "single",
+      "question_md": "### P37-(1)-(III)\\n设 $D$ 由 $y=x^2\\ (x\\ge0)$、$y=1$、$x=0$ 所围，求 $I=\\iint_D\\frac{xy}{\\sqrt{1+y^3}}\\,dxdy$。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": ["用户补充标记：A级错题。"],
+      "error_tags": ["A级错题"],
+      "weakness_focus": ["重积分及其应用"],
+      "student_answer_summary": "按用户补充标记：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+{"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","question_id":"880-basic-choice-P43-(1)","display_id":"P43-(1)","display_label":"基础题 · 选择题 · P43-(1)","page":43,"section":"基础题","question_type":"选择题","record_order":237,"target_score_tier":"120以下","required_for_scores":["120以下","120+"],"error_level":"A","source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"subquestion":null,"card_structure":"single","question_md":"### P43-(1)\n下列选项中（C为任意常数）是微分方程 dy/dx+x/y=0 的通解的是（ ）。A. x²+y²=C²；B. x²−y²=C²；C. x²+y²=C；D. x²−y²=C。","correctness":0.65,"thinking_quality":0.6,"missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["A级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：A级错题。","mastery":0.49,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","next_expected_target_score_tier":"120以下"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(3)","display_id":"P43-(3)","display_label":"基础题 · 选择题 · P43-(3)","page":43,"question_type":"选择题","record_order":238,"error_level":"A","correctness":0.65,"thinking_quality":0.6,"mastery":0.49,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["A级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：A级错题。","question_md":"### P43-(3)\\n微分方程 $y''+2y'-3y=e^{-x}+x$ 的一个特解形式为（ ）。A. $ae^{-x}+bx+c$；B. $axe^{-x}+x(bx+c)$；C. $axe^{-x}+bx+c$；D. $ae^x+x(bx+c)$。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(4)","display_id":"P43-(4)","display_label":"基础题 · 选择题 · P43-(4)","page":43,"question_type":"选择题","record_order":239,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(4)\n设 $y_1(x),y_2(x)$ 是 $y'+P(x)y=0$ 的两个不同特解，其中 $P(x)$ 在 $(-\\infty,+\\infty)$ 内连续，且 $P(x)$ 不恒为 0，则下列结论中错误的是（ ）。A. $y_1(x)-y_2(x)$ 为常数；B. $C[y_1(x)-y_2(x)]$ 是方程的通解；C. $y_1(x)-y_2(x)$ 在任一点不为 0；D. $\\frac{y_2(x)}{y_1(x)}$ 恒为常数（$y_1(x)\\ne0$）。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(5)","display_id":"P43-(5)","display_label":"基础题 · 选择题 · P43-(5)","page":43,"question_type":"选择题","record_order":240,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(5)\n设 $y_1(x),y_2(x),y_3(x)$ 是微分方程 $y''+p(x)y'+q(x)y=f(x)$ 的三个线性无关的解，$f(x)\\ne0$，则该方程的通解为（ ）。A. $C_1y_1(x)+C_2y_2(x)+y_3(x)$；B. $C_1y_1(x)+(1-2C_1)y_2(x)+C_1y_3(x)$；C. $(C_1-C_2)y_1(x)+C_2y_2(x)+y_3(x)$；D. $C_1y_1(x)+C_2y_2(x)+C_3y_3(x)(C_1+C_2+C_3=1)$。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(6)","display_id":"P43-(6)","display_label":"基础题 · 选择题 · P43-(6)","page":43,"question_type":"选择题","record_order":241,"error_level":"B","correctness":0.7,"thinking_quality":0.5,"mastery":0.62,"performance_level":"合格","difficulty_adjustment_suggestion":"keep","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["B级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：B级错题。","question_md":"### P43-(6)\n设 $y_1=e^{-x},y_2=2x$ 是常系数齐次线性微分方程 $y'''+ay''+by'+cy=0$ 的两个解，则该方程的通解是（ ）。A. $C_1e^{-x}+C_2+C_3x$；B. $C_1e^{-x}+C_2e^x+C_3x$；C. $C_1e^{-x}+C_2e^x+C_3$；D. $C_1e^{-x}+C_2xe^x+C_3$。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(7)","display_id":"P43-(7)","display_label":"基础题 · 选择题 · P43-(7)","page":43,"question_type":"选择题","record_order":242,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(7)\n设 $f(x)$ 在 $[0,+\\infty)$ 上可导，$\\lim_{x\\to+\\infty}f(x)=b$（$b\\ne0$），$y(x)$ 为方程 $y'+ay=f(x)$（$a>0$）的任一解，则 $y=y(x)$ 有水平渐近线（ ）。A. $y=ab$；B. $y=-ab$；C. $y=\\frac ba$；D. $y=\\frac ab$。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-fill-P43-(2)","display_id":"P43-(2)","display_label":"基础题 · 填空题 · P43-(2)","page":43,"question_type":"填空题","record_order":243,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(2)\n$y'=\\frac yx+\\tan\\frac yx$ 满足 $y(1)=\\frac\\pi6$ 的特解为\\underline{\\qquad}。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-fill-P43-(3)","display_id":"P43-(3)","display_label":"基础题 · 填空题 · P43-(3)","page":43,"question_type":"填空题","record_order":244,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(3)\n微分方程 $y'-6\\frac yx+xy^2=0$（$y$ 不为常函数）的通解为\\underline{\\qquad}。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-fill-P43-(4)","display_id":"P43-(4)","display_label":"基础题 · 填空题 · P43-(4)","page":43,"question_type":"填空题","record_order":245,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(4)\n微分方程 $(1+e^{x/y})dx+e^{x/y}(1-\\frac xy)dy=0$（$y>0$）的通解为\\underline{\\qquad}。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(1)","display_id":"P44-(1)","display_label":"基础题 · 解答题 · P44-(1)","page":44,"question_type":"解答题","record_order":246,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P44-(1)\n求 $x^2y''-(y')^2=0$ 过点 $P(1,0)$，且在点 $P$ 与 $y=x-1$ 相切的积分曲线。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(2)","display_id":"P44-(2)","display_label":"基础题 · 解答题 · P44-(2)","page":44,"question_type":"解答题","record_order":247,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P44-(2)\n求微分方程 $(x\\cos y+\\cos x)\\frac{dy}{dx}-y\\sin x+\\sin y=0$ 的通解。"},
+    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(6)","display_id":"P44-(6)","display_label":"基础题 · 解答题 · P44-(6)","page":44,"question_type":"解答题","record_order":248,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P44-(6)\n求微分方程 $y'''-y'=0$ 的一条积分曲线，使此积分曲线在原点处有拐点，且以直线 $y=2x$ 为切线。"},
+{"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(9)","display_id":"P44-(9)","display_label":"基础题 · 解答题 · P44-(9)","page":44,"question_type":"解答题","record_order":249,"error_level":"B","correctness":0.7,"thinking_quality":0.5,"mastery":0.62,"performance_level":"合格","difficulty_adjustment_suggestion":"keep","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["B级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：B级错题。","question_md":"### P44-(9)\n设 $L$ 是一条平面曲线，其上任意一点 $P(x,y)$（$x>0$）到原点的距离恒等于该点处的切线在 $y$ 轴上的截距，且 $L$ 过点 $(\\frac12,0)$，求：（I）曲线 $L$ 的方程；（II）$L$ 位于第一象限部分的一条切线，使该切线与 $L$ 以及两坐标轴所围成的面积最小。"}
   ],
   "maintenance_policy": "append_only_active",
   "curriculum_unit": "unit_unassigned"
