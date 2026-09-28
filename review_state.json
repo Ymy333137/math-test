@@ -835,12 +835,22 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-20"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:21:02",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "error_level": "A",
-      "last_reviewed_at": "2026-07-30",
-      "next_due_at": "2026-09-28",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
       "book_id": "workbook_660",
       "status": "graduated"
     },
@@ -1072,12 +1082,22 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-20"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:20:53",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "error_level": "A",
-      "last_reviewed_at": "2026-07-30",
-      "next_due_at": "2026-09-28",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
       "book_id": "workbook_660",
       "status": "graduated"
     },
@@ -1400,12 +1420,22 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-20"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:20:47",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "error_level": "A",
-      "last_reviewed_at": "2026-07-30",
-      "next_due_at": "2026-09-28",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
       "book_id": "workbook_660",
       "status": "graduated"
     },
@@ -2105,14 +2135,24 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-20"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:14:54",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
-      "error_level": "A",
-      "last_reviewed_at": "2026-07-30",
-      "next_due_at": "2026-09-28",
+      "interval_index": 0,
+      "error_level": "C",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29",
       "book_id": "workbook_660",
-      "status": "graduated"
+      "status": "active"
     },
     "660-35": {
       "history": [
@@ -2218,12 +2258,22 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-20"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:17:44",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "error_level": "A",
-      "last_reviewed_at": "2026-07-30",
-      "next_due_at": "2026-09-28",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
       "book_id": "workbook_660",
       "status": "graduated"
     },
@@ -2418,14 +2468,24 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-20"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:20:38",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
-      "error_level": "A",
-      "last_reviewed_at": "2026-07-30",
-      "next_due_at": "2026-09-28",
+      "interval_index": 0,
+      "error_level": "B",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29",
       "book_id": "workbook_660",
-      "status": "graduated"
+      "status": "active"
     },
     "660-30": {
       "history": [
@@ -4084,14 +4144,24 @@
           "next_due_at": "2026-09-25",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T23:17:46",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-26",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 4,
       "error_level": "B",
-      "last_reviewed_at": "2026-09-01",
-      "next_due_at": "2026-09-25",
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-11-26",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-77": {
       "history": [
@@ -4995,14 +5065,24 @@
           "next_due_at": "2026-09-22",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T00:00:05",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "error_level": "C",
-      "last_reviewed_at": "2026-09-08",
-      "next_due_at": "2026-09-22",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-87": {
       "history": [
@@ -5422,14 +5502,34 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-21"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-26T19:33:54",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-27",
+          "queue_source": "daily",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T00:07:29",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-30",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
-      "error_level": "B",
-      "last_reviewed_at": "2026-07-28",
-      "next_due_at": "2026-09-26",
+      "interval_index": 1,
+      "error_level": "C",
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-30",
       "book_id": "workbook_660",
-      "status": "graduated"
+      "status": "active"
     },
     "660-186": {
       "history": [
@@ -5998,14 +6098,34 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-21"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-26T20:04:43",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-27",
+          "queue_source": "daily",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T00:07:30",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
+      "interval_index": 1,
       "error_level": "B",
-      "last_reviewed_at": "2026-07-28",
-      "next_due_at": "2026-09-26",
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-29",
       "book_id": "workbook_660",
-      "status": "graduated"
+      "status": "active"
     },
     "660-167": {
       "history": [
@@ -6532,14 +6652,34 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-21"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-26T23:49:47",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-27",
+          "queue_source": "daily",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T00:07:36",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-30",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
-      "error_level": "B",
-      "last_reviewed_at": "2026-07-28",
-      "next_due_at": "2026-09-26",
+      "interval_index": 1,
+      "error_level": "C",
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-30",
       "book_id": "workbook_660",
-      "status": "graduated"
+      "status": "active"
     },
     "660-102": {
       "history": [
@@ -6875,14 +7015,34 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-21"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T00:07:00",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "daily",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:13:07",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-30",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
+      "interval_index": 1,
       "error_level": "B",
-      "last_reviewed_at": "2026-07-28",
-      "next_due_at": "2026-09-26",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-30",
       "book_id": "workbook_660",
-      "status": "graduated"
+      "status": "active"
     },
     "660-96": {
       "history": [
@@ -7494,14 +7654,24 @@
           "next_due_at": "2026-09-09",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-21T23:27:13",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-20",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 4,
       "error_level": "B",
-      "last_reviewed_at": "2026-08-16",
-      "next_due_at": "2026-09-09",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-11-20",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-128": {
       "history": [
@@ -7533,14 +7703,34 @@
           "error_level": null,
           "note": "",
           "next_due_at": "2026-08-21"
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-26T20:15:32",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-27",
+          "queue_source": "daily",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T00:07:30",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
+      "interval_index": 1,
       "error_level": "B",
-      "last_reviewed_at": "2026-07-28",
-      "next_due_at": "2026-09-26",
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-29",
       "book_id": "workbook_660",
-      "status": "graduated"
+      "status": "active"
     },
     "660-126": {
       "history": [
@@ -8106,14 +8296,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-21T23:27:15",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-20",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 4,
       "error_level": "B",
-      "last_reviewed_at": "2026-08-17",
-      "next_due_at": "2026-09-10",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-11-20",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-205": {
       "history": [
@@ -8186,14 +8386,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-21T23:27:17",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-20",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 4,
       "error_level": "B",
-      "last_reviewed_at": "2026-08-17",
-      "next_due_at": "2026-09-10",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-11-20",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-204": {
       "history": [
@@ -9119,14 +9329,24 @@
           "next_due_at": "2026-09-22",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T23:59:39",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-26",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "error_level": "C",
-      "last_reviewed_at": "2026-09-08",
-      "next_due_at": "2026-09-22",
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-11-26",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-255": {
       "history": [
@@ -9793,14 +10013,24 @@
           "next_due_at": "2026-09-09",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-21T23:27:12",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-20",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 4,
       "error_level": "B",
-      "last_reviewed_at": "2026-08-16",
-      "next_due_at": "2026-09-09",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-11-20",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-237": {
       "history": [
@@ -11406,12 +11636,32 @@
           "next_due_at": "2026-09-25",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T23:06:59",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-28T18:12:52",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
-      "error_level": "B",
-      "last_reviewed_at": "2026-09-01",
-      "next_due_at": "2026-09-25",
+      "interval_index": 1,
+      "error_level": "C",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01",
       "book_id": "workbook_660",
       "status": "active"
     },
@@ -11543,14 +11793,24 @@
           "next_due_at": "2026-09-22",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_660",
+          "reviewed_at": "2026-09-27T23:59:54",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-26",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "error_level": "C",
-      "last_reviewed_at": "2026-09-08",
-      "next_due_at": "2026-09-22",
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-11-26",
       "book_id": "workbook_660",
-      "status": "active"
+      "status": "graduated"
     },
     "660-291": {
       "history": [
@@ -12739,13 +12999,23 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:36:41",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "book_id": "workbook_880",
       "error_level": "A",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-21",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-10-01",
       "status": "active"
     },
     "880-basic-choice-P1-(8)": {
@@ -13654,14 +13924,24 @@
           "next_due_at": "2026-09-24",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T22:37:40",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-26",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 4,
       "book_id": "workbook_880",
       "error_level": "B",
-      "last_reviewed_at": "2026-08-31",
-      "next_due_at": "2026-09-24",
-      "status": "active"
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-11-26",
+      "status": "graduated"
     },
     "880-basic-solution-P20-(3)-(IV)": {
       "history": [
@@ -14216,13 +14496,23 @@
           "next_due_at": "2026-09-08",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T18:05:56",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 0,
       "book_id": "workbook_880",
-      "error_level": "A",
-      "last_reviewed_at": "2026-08-18",
-      "next_due_at": "2026-09-08",
+      "error_level": "B",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29",
       "status": "active"
     },
     "880-basic-solution-P20-(1)-(II)": {
@@ -14630,14 +14920,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:21:32",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 4,
       "book_id": "workbook_880",
       "error_level": "B",
-      "last_reviewed_at": "2026-08-17",
-      "next_due_at": "2026-09-10",
-      "status": "active"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
+      "status": "graduated"
     },
     "880-basic-solution-P20-(7)-(I)": {
       "history": [
@@ -14905,13 +15205,23 @@
           "next_due_at": "2026-09-20",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:11:44",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-03",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "book_id": "workbook_880",
       "error_level": "B",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-20",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-03",
       "status": "active"
     },
     "880-basic-solution-P20-(5)-(III)": {
@@ -14995,14 +15305,24 @@
           "next_due_at": "2026-09-08",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:59:38",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "last_reviewed_at": "2026-08-18",
-      "next_due_at": "2026-09-08",
-      "status": "active"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
+      "status": "graduated"
     },
     "880-basic-solution-P20-(5)-(II)": {
       "history": [
@@ -15131,14 +15451,24 @@
           "next_due_at": "2026-09-08",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:59:34",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
-      "last_reviewed_at": "2026-08-25",
-      "next_due_at": "2026-09-08",
-      "status": "active"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27",
+      "status": "graduated"
     },
     "880-basic-solution-P20-(4)-(VI)": {
       "history": [
@@ -15183,13 +15513,23 @@
           "next_due_at": "2026-09-10",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:32:15",
+          "outcome": "wrong",
+          "error_level": "A",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
+      "interval_index": 0,
       "book_id": "workbook_880",
-      "error_level": "B",
-      "last_reviewed_at": "2026-08-17",
-      "next_due_at": "2026-09-10",
+      "error_level": "A",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29",
       "status": "active"
     },
     "880-basic-solution-P20-(4)-(V)": {
@@ -15483,14 +15823,34 @@
           "next_due_at": "2026-09-15",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T23:06:15",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-22",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:21:13",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-30",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 1,
       "book_id": "workbook_880",
-      "error_level": "A",
+      "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-08-25",
-      "next_due_at": "2026-09-15"
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-30"
     },
     "880-basic-solution-P21-(13)": {
       "history": [
@@ -15563,14 +15923,24 @@
           "next_due_at": "2026-09-17",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:47:30",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 0,
       "book_id": "workbook_880",
-      "error_level": "C",
+      "error_level": "B",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-17"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-solution-P21-(12)": {
       "history": [
@@ -15653,14 +16023,24 @@
           "next_due_at": "2026-09-18",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:11:35",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
-      "status": "active",
-      "last_reviewed_at": "2026-09-04",
-      "next_due_at": "2026-09-18"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27"
     },
     "880-basic-solution-P21-(11)": {
       "history": [
@@ -16063,14 +16443,34 @@
           "next_due_at": "2026-09-25",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:06:10",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:39:51",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 4,
+      "interval_index": 1,
       "book_id": "workbook_880",
-      "error_level": "B",
+      "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-01",
-      "next_due_at": "2026-09-25"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-solution-P21-(8)-(III)": {
       "history": [
@@ -16103,14 +16503,24 @@
           "next_due_at": "2026-09-15",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T23:08:59",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-20",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "status": "active",
-      "last_reviewed_at": "2026-08-25",
-      "next_due_at": "2026-09-15"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-11-20"
     },
     "880-basic-fill-P28-(5)": {
       "history": [
@@ -16183,14 +16593,44 @@
           "next_due_at": "2026-09-18",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T23:46:10",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-22",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:59:05",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:34:22",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-04",
-      "next_due_at": "2026-09-18"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-fill-P28-(4)": {
       "history": [
@@ -16373,14 +16813,24 @@
           "next_due_at": "2026-09-28",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:36:56",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "status": "active",
-      "last_reviewed_at": "2026-09-07",
-      "next_due_at": "2026-09-28"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27"
     },
     "880-basic-fill-P28-(2)": {
       "history": [
@@ -16503,14 +16953,24 @@
           "next_due_at": "2026-09-28",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:39:40",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "status": "active",
-      "last_reviewed_at": "2026-09-07",
-      "next_due_at": "2026-09-28"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27"
     },
     "880-basic-choice-P28-(2)": {
       "history": [
@@ -16553,14 +17013,34 @@
           "next_due_at": "2026-09-18",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T23:26:38",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-22",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:50:10",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-30",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-04",
-      "next_due_at": "2026-09-18"
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-30"
     },
     "880-basic-choice-P28-(3)": {
       "history": [
@@ -16603,14 +17083,24 @@
           "next_due_at": "2026-09-22",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:47:13",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "status": "active",
-      "last_reviewed_at": "2026-09-01",
-      "next_due_at": "2026-09-22"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27"
     },
     "880-basic-choice-P28-(1)": {
       "history": [
@@ -16653,14 +17143,44 @@
           "next_due_at": "2026-09-17",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T23:10:20",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-22",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:25:51",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:39:45",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-17"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-fill-P9-(10)": {
       "history": [
@@ -16763,14 +17283,24 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:36:29",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-20",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "status": "active",
-      "last_reviewed_at": "2026-08-31",
-      "next_due_at": "2026-09-21"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-11-20"
     },
     "880-basic-fill-P9-(8)": {
       "history": [
@@ -16813,14 +17343,24 @@
           "next_due_at": "2026-09-08",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T18:12:27",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 0,
       "book_id": "workbook_880",
-      "error_level": "C",
+      "error_level": "B",
       "status": "active",
-      "last_reviewed_at": "2026-08-25",
-      "next_due_at": "2026-09-08"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-fill-P9-(7)": {
       "history": [
@@ -16913,14 +17453,24 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:36:33",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-20",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "status": "active",
-      "last_reviewed_at": "2026-08-31",
-      "next_due_at": "2026-09-21"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-11-20"
     },
     "880-basic-fill-P9-(3)": {
       "history": [
@@ -17143,14 +17693,24 @@
           "next_due_at": "2026-09-18",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:11:17",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "backlog",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
-      "status": "active",
-      "last_reviewed_at": "2026-09-04",
-      "next_due_at": "2026-09-18"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27"
     },
     "880-basic-solution-P10-(6)": {
       "history": [
@@ -17513,14 +18073,24 @@
           "next_due_at": "2026-09-18",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:52:18",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 3,
+      "interval_index": 0,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-04",
-      "next_due_at": "2026-09-18"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-fill-P19-(14)": {
       "history": [
@@ -17563,14 +18133,34 @@
           "next_due_at": "2026-09-17",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T23:26:36",
+          "outcome": "wrong",
+          "error_level": "A",
+          "note": "",
+          "next_due_at": "2026-09-22",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:50:26",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-30",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "A",
       "status": "active",
-      "last_reviewed_at": "2026-09-07",
-      "next_due_at": "2026-09-17"
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-30"
     },
     "880-basic-fill-P19-(1)": {
       "history": [
@@ -17673,14 +18263,24 @@
           "next_due_at": "2026-09-28",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:42:57",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-11-27",
+          "queue_source": "daily",
+          "graduated_after": true
         }
       ],
       "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "A",
-      "status": "active",
-      "last_reviewed_at": "2026-09-07",
-      "next_due_at": "2026-09-28"
+      "status": "graduated",
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-11-27"
     },
     "880-basic-choice-P17-(2)": {
       "history": [
@@ -17703,14 +18303,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:32:36",
+          "outcome": "wrong",
+          "error_level": "A",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 0,
       "book_id": "workbook_880",
       "error_level": "A",
       "status": "active",
-      "last_reviewed_at": "2026-08-31",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-choice-P17-(3)": {
       "history": [
@@ -17903,14 +18513,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-22T00:25:18",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-06",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-22",
+      "next_due_at": "2026-10-06"
     },
     "880-basic-solution-P29-(2)": {
       "history": [
@@ -17943,14 +18563,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-22T00:25:17",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-06",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-22",
+      "next_due_at": "2026-10-06"
     },
     "880-basic-solution-P29-(3)": {
       "history": [
@@ -17983,14 +18613,44 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-22T00:25:08",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-23",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T21:57:00",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:20:46",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-solution-P29-(5)": {
       "history": [
@@ -18023,14 +18683,34 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T23:56:05",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-22",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:59:14",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-30",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-27",
+      "next_due_at": "2026-09-30"
     },
     "880-basic-solution-P29-(4)": {
       "history": [
@@ -18063,14 +18743,44 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-22T00:08:07",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-23",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T21:55:42",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T15:57:41",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-fill-P28-(8)": {
       "history": [
@@ -18163,14 +18873,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:59:17",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 0,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-fill-P28-(9)": {
       "history": [
@@ -18203,14 +18923,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-22T00:26:56",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-06",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-22",
+      "next_due_at": "2026-10-06"
     },
     "880-basic-choice-P30-(1)": {
       "history": [
@@ -18243,14 +18973,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:42:18",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-12",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-12"
     },
     "880-basic-solution-P29-(6)": {
       "history": [
@@ -18363,14 +19103,34 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:36:09",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "daily",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T14:37:18",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-12",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 3,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-21"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-12"
     },
     "880-basic-choice-P31-(10)": {
       "history": [
@@ -18453,14 +19213,24 @@
           "next_due_at": "2026-09-10",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:42:05",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 0,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-03",
-      "next_due_at": "2026-09-10"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-choice-P30-(6)": {
       "history": [
@@ -18523,14 +19293,24 @@
           "next_due_at": "2026-09-09",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:18:30",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
       "interval_index": 0,
       "book_id": "workbook_880",
-      "error_level": "A",
+      "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-08",
-      "next_due_at": "2026-09-09"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-choice-P30-(4)": {
       "history": [
@@ -18563,14 +19343,24 @@
           "next_due_at": "2026-09-09",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:20:05",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
       "interval_index": 0,
       "book_id": "workbook_880",
-      "error_level": "B",
+      "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-08",
-      "next_due_at": "2026-09-09"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-solution-P29-(9)": {
       "history": [
@@ -18653,14 +19443,34 @@
           "next_due_at": "2026-09-25",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:18:28",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T15:45:16",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 2,
+      "interval_index": 1,
       "book_id": "workbook_880",
-      "error_level": "B",
+      "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-20",
-      "next_due_at": "2026-09-25"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-solution-P29-(7)": {
       "history": [
@@ -18703,14 +19513,24 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:36:19",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-21"
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-09-28"
     },
     "880-basic-solution-P32-(3)": {
       "history": [
@@ -18743,14 +19563,44 @@
           "next_due_at": "2026-09-21",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:14:24",
+          "outcome": "wrong",
+          "error_level": "C",
+          "note": "",
+          "next_due_at": "2026-09-22",
+          "queue_source": "daily",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T23:21:03",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T14:37:06",
+          "outcome": "wrong",
+          "error_level": "A",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 0,
       "book_id": "workbook_880",
       "error_level": "A",
       "status": "active",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-21"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     },
     "880-basic-solution-P31-(1)": {
       "history": [
@@ -18843,14 +19693,24 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:21:16",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-21"
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-09-28"
     },
     "880-basic-fill-P31-(9)": {
       "history": [
@@ -18943,14 +19803,24 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:21:22",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "book_id": "workbook_880",
       "error_level": "A",
       "status": "active",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-21"
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-fill-P31-(12)": {
       "history": [
@@ -18973,14 +19843,24 @@
           "next_due_at": "2026-09-09",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T17:12:00",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-10-01",
+          "queue_source": "backlog",
+          "graduated_after": false
         }
       ],
-      "interval_index": 0,
+      "interval_index": 1,
       "book_id": "workbook_880",
       "error_level": "A",
       "status": "active",
-      "last_reviewed_at": "2026-09-08",
-      "next_due_at": "2026-09-09"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-10-01"
     },
     "880-basic-fill-P31-(11)": {
       "history": [
@@ -19023,14 +19903,24 @@
           "next_due_at": "2026-09-21",
           "queue_source": "daily",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-21T01:21:33",
+          "outcome": "pass",
+          "error_level": null,
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 2,
       "book_id": "workbook_880",
       "error_level": "C",
       "status": "active",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-21"
+      "last_reviewed_at": "2026-09-21",
+      "next_due_at": "2026-09-28"
     },
     "880-basic-fill-P31-(8)": {
       "history": [
@@ -19183,15 +20073,35 @@
           "next_due_at": "2026-09-23",
           "queue_source": "backlog",
           "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-27T22:12:40",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-28",
+          "queue_source": "backlog",
+          "graduated_after": false
+        },
+        {
+          "book_id": "workbook_880",
+          "reviewed_at": "2026-09-28T16:28:57",
+          "outcome": "wrong",
+          "error_level": "B",
+          "note": "",
+          "next_due_at": "2026-09-29",
+          "queue_source": "daily",
+          "graduated_after": false
         }
       ],
-      "interval_index": 1,
+      "interval_index": 0,
       "book_id": "workbook_880",
-      "error_level": "C",
+      "error_level": "B",
       "status": "active",
-      "last_reviewed_at": "2026-09-18",
-      "next_due_at": "2026-09-23"
+      "last_reviewed_at": "2026-09-28",
+      "next_due_at": "2026-09-29"
     }
   },
-  "updated_at": "2026-09-21T00:10:47"
+  "updated_at": "2026-09-28T18:21:02"
 }
