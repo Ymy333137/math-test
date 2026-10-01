@@ -3091,6 +3091,276 @@
       "unit": "unit_unassigned",
       "mastery": 0.62,
       "performance_level": "合格"
+    },
+    {
+      "question_id": "880-basic-choice-P36-(5)",
+      "display_id": "P36-(5)",
+      "display_label": "基础题 · 选择题 · P36-(5)",
+      "page": 36,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 207,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-choice-P37-(6)",
+      "display_id": "P37-(6)",
+      "display_label": "基础题 · 选择题 · P37-(6)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 208,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(1)",
+      "display_id": "P37-(1)",
+      "display_label": "基础题 · 填空题 · P37-(1)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 209,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(2)",
+      "display_id": "P37-(2)",
+      "display_label": "基础题 · 填空题 · P37-(2)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 210,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(4)",
+      "display_id": "P37-(4)",
+      "display_label": "基础题 · 填空题 · P37-(4)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 211,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(5)",
+      "display_id": "P37-(5)",
+      "display_label": "基础题 · 填空题 · P37-(5)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 212,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(6)",
+      "display_id": "P37-(6)",
+      "display_label": "基础题 · 填空题 · P37-(6)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 213,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(7)",
+      "display_id": "P37-(7)",
+      "display_label": "基础题 · 填空题 · P37-(7)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 214,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(8)",
+      "display_id": "P37-(8)",
+      "display_label": "基础题 · 填空题 · P37-(8)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 215,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(9)",
+      "display_id": "P37-(9)",
+      "display_label": "基础题 · 填空题 · P37-(9)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 216,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(10)",
+      "display_id": "P37-(10)",
+      "display_label": "基础题 · 填空题 · P37-(10)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 217,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(11)",
+      "display_id": "P37-(11)",
+      "display_label": "基础题 · 填空题 · P37-(11)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 218,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(12)",
+      "display_id": "P37-(12)",
+      "display_label": "基础题 · 填空题 · P37-(12)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 219,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(13)",
+      "display_id": "P37-(13)",
+      "display_label": "基础题 · 填空题 · P37-(13)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 220,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-fill-P37-(14)",
+      "display_id": "P37-(14)",
+      "display_label": "基础题 · 填空题 · P37-(14)",
+      "page": 37,
+      "section": "基础题",
+      "question_type": "填空题",
+      "record_order": 221,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "C",
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "unit": "unit_unassigned"
     }
   ],
   "records": [
