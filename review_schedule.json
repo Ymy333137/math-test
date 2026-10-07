@@ -28,16 +28,28 @@
       "workbook_880:880-basic-solution-P21-(13)",
       "workbook_880:880-basic-solution-P21-(8)-(IV)"
     ],
-    "2026-10-04": [
-      "workbook_880:880-basic-choice-P36-(1)",
-      "workbook_880:880-basic-choice-P36-(2)",
-      "workbook_880:880-basic-choice-P36-(3)",
-      "workbook_880:880-basic-fill-P31-(11)",
-      "workbook_880:880-basic-solution-P20-(5)-(IV)",
-      "workbook_880:880-basic-solution-P32-(9)"
+    "2026-10-07": [
+      "workbook_660:660-103",
+      "workbook_660:660-178",
+      "workbook_660:660-189",
+      "workbook_660:660-194",
+      "workbook_660:660-221",
+      "workbook_660:660-269",
+      "workbook_660:660-282",
+      "workbook_660:660-72",
+      "workbook_880:880-basic-solution-P2-(3)-(III)"
+    ],
+    "2026-10-08": [
+      "workbook_880:880-basic-solution-P29-(4)",
+      "workbook_880:880-basic-solution-P29-(5)",
+      "workbook_880:880-basic-fill-P28-(6)",
+      "workbook_880:880-basic-choice-P30-(4)",
+      "workbook_880:880-basic-choice-P31-(9)",
+      "workbook_880:880-basic-solution-P21-(11)",
+      "workbook_880:880-basic-solution-P20-(4)-(VI)"
     ]
   },
-  "updated_at": "2026-10-04T00:06:11",
+  "updated_at": "2026-10-07T11:39:27",
   "daily_plans": {
     "2026-05-14": [
       "workbook_660:660-3",
@@ -2570,44 +2582,70 @@
       "workbook_880:880-basic-fill-P31-(11)",
       "workbook_880:880-basic-solution-P20-(5)-(IV)",
       "workbook_880:880-basic-solution-P32-(9)"
+    ],
+    "2026-10-05": [
+      "workbook_660:660-128",
+      "workbook_660:660-168",
+      "workbook_660:660-97",
+      "workbook_880:880-basic-solution-P32-(4)",
+      "workbook_880:880-basic-solution-P32-(5)"
+    ],
+    "2026-10-06": [
+      "workbook_660:660-10",
+      "workbook_660:660-212",
+      "workbook_660:660-214",
+      "workbook_660:660-226",
+      "workbook_660:660-228",
+      "workbook_660:660-4",
+      "workbook_880:880-basic-choice-P1-(5)",
+      "workbook_880:880-basic-fill-P28-(9)",
+      "workbook_880:880-basic-solution-P29-(1)",
+      "workbook_880:880-basic-solution-P29-(2)",
+      "workbook_880:880-basic-solution-P3-(4)",
+      "workbook_880:880-basic-solution-P3-(5)",
+      "workbook_880:880-basic-solution-P32-(4)",
+      "workbook_880:880-basic-solution-P32-(5)",
+      "workbook_880:880-basic-choice-P36-(1)"
+    ],
+    "2026-10-07": [
+      "workbook_880:880-basic-solution-P29-(2)",
+      "workbook_880:880-basic-solution-P32-(4)",
+      "workbook_660:660-103",
+      "workbook_660:660-178",
+      "workbook_660:660-189",
+      "workbook_660:660-194",
+      "workbook_660:660-221",
+      "workbook_660:660-269",
+      "workbook_660:660-282",
+      "workbook_660:660-72",
+      "workbook_880:880-basic-choice-P28-(2)",
+      "workbook_880:880-basic-solution-P2-(3)-(III)",
+      "workbook_880:880-basic-solution-P21-(15)",
+      "workbook_880:880-basic-solution-P29-(5)",
+      "workbook_880:880-basic-choice-P36-(2)",
+      "workbook_880:880-basic-choice-P36-(3)",
+      "workbook_880:880-basic-fill-P31-(11)",
+      "workbook_880:880-basic-solution-P32-(9)",
+      "workbook_880:880-basic-solution-P29-(3)",
+      "workbook_880:880-basic-solution-P29-(4)",
+      "workbook_880:880-basic-solution-P29-(8)",
+      "workbook_880:880-basic-choice-P30-(5)",
+      "workbook_880:880-basic-fill-P28-(2)",
+      "workbook_880:880-basic-fill-P28-(6)",
+      "workbook_880:880-basic-choice-P30-(4)",
+      "workbook_880:880-basic-choice-P31-(9)",
+      "workbook_880:880-basic-fill-P31-(4)",
+      "workbook_880:880-basic-solution-P32-(3)",
+      "workbook_880:880-basic-solution-P20-(5)-(IV)",
+      "workbook_880:880-basic-solution-P21-(11)",
+      "workbook_880:880-basic-solution-P21-(9)-(I)",
+      "workbook_880:880-basic-solution-P21-(9)-(II)",
+      "workbook_880:880-basic-solution-P20-(1)-(II)",
+      "workbook_880:880-basic-solution-P20-(2)-(V)",
+      "workbook_880:880-basic-solution-P20-(4)-(VI)"
     ]
   },
   "release_buffer": {
-    "2026-10-05": [
-      "workbook_880:880-basic-solution-P32-(5)",
-      "workbook_880:880-basic-solution-P32-(4)",
-      "workbook_660:660-168",
-      "workbook_660:660-128",
-      "workbook_660:660-97"
-    ],
-    "2026-10-06": [
-      "workbook_880:880-basic-solution-P3-(5)",
-      "workbook_880:880-basic-solution-P3-(4)",
-      "workbook_880:880-basic-choice-P1-(5)",
-      "workbook_660:660-214",
-      "workbook_660:660-212",
-      "workbook_660:660-4",
-      "workbook_660:660-10",
-      "workbook_660:660-226",
-      "workbook_660:660-228",
-      "workbook_880:880-basic-solution-P29-(2)",
-      "workbook_880:880-basic-solution-P29-(1)",
-      "workbook_880:880-basic-fill-P28-(9)"
-    ],
-    "2026-10-07": [
-      "workbook_880:880-basic-solution-P2-(3)-(III)",
-      "workbook_660:660-282",
-      "workbook_660:660-269",
-      "workbook_660:660-221",
-      "workbook_660:660-194",
-      "workbook_660:660-178",
-      "workbook_660:660-72",
-      "workbook_880:880-basic-solution-P29-(5)",
-      "workbook_880:880-basic-choice-P28-(2)",
-      "workbook_880:880-basic-solution-P21-(15)",
-      "workbook_660:660-189",
-      "workbook_660:660-103"
-    ],
     "2026-10-08": [
       "workbook_660:660-193",
       "workbook_660:660-58",
@@ -2638,7 +2676,9 @@
       "workbook_660:660-180",
       "workbook_660:660-85",
       "workbook_660:660-82",
-      "workbook_880:880-basic-fill-P19-(14)"
+      "workbook_880:880-basic-fill-P19-(14)",
+      "workbook_880:880-basic-solution-P29-(2)",
+      "workbook_880:880-basic-solution-P32-(4)"
     ],
     "2026-10-11": [
       "workbook_880:880-basic-choice-P17-(3)",
@@ -2679,7 +2719,8 @@
       "workbook_660:660-166",
       "workbook_660:660-32",
       "workbook_660:660-19",
-      "workbook_660:660-22"
+      "workbook_660:660-22",
+      "workbook_880:880-basic-solution-P32-(5)"
     ],
     "2026-10-14": [
       "workbook_660:660-274",
@@ -2692,7 +2733,13 @@
       "workbook_660:660-14",
       "workbook_660:660-8",
       "workbook_880:880-basic-solution-P31-(1)",
-      "workbook_880:880-basic-solution-P29-(7)"
+      "workbook_880:880-basic-solution-P29-(7)",
+      "workbook_880:880-basic-choice-P36-(2)",
+      "workbook_880:880-basic-choice-P36-(3)",
+      "workbook_880:880-basic-solution-P32-(9)",
+      "workbook_880:880-basic-solution-P29-(3)",
+      "workbook_880:880-basic-solution-P29-(8)",
+      "workbook_880:880-basic-choice-P30-(5)"
     ],
     "2026-10-15": [
       "workbook_660:660-270",
@@ -2723,14 +2770,22 @@
       "workbook_880:880-basic-solution-P20-(4)-(II)",
       "workbook_880:880-basic-solution-P2-(1)",
       "workbook_660:660-52",
-      "workbook_660:660-25"
+      "workbook_660:660-25",
+      "workbook_880:880-basic-fill-P31-(11)",
+      "workbook_880:880-basic-solution-P32-(3)"
     ],
     "2026-10-18": [
       "workbook_660:660-191",
-      "workbook_660:660-68"
+      "workbook_660:660-68",
+      "workbook_880:880-basic-choice-P36-(1)"
+    ],
+    "2026-10-19": [
+      "workbook_880:880-basic-solution-P20-(5)-(IV)"
     ],
     "2026-10-21": [
-      "workbook_880:880-basic-solution-P20-(5)-(II)"
+      "workbook_880:880-basic-solution-P20-(5)-(II)",
+      "workbook_880:880-basic-choice-P28-(2)",
+      "workbook_880:880-basic-solution-P21-(15)"
     ],
     "2026-10-23": [
       "workbook_660:660-48"
@@ -2834,35 +2889,43 @@
       "workbook_880:880-basic-choice-P7-(5)",
       "workbook_660:660-279",
       "workbook_660:660-17"
+    ],
+    "2026-12-05": [
+      "workbook_880:880-basic-solution-P29-(1)",
+      "workbook_880:880-basic-fill-P28-(9)",
+      "workbook_880:880-basic-solution-P3-(5)",
+      "workbook_880:880-basic-solution-P3-(4)",
+      "workbook_880:880-basic-choice-P1-(5)"
+    ],
+    "2026-12-06": [
+      "workbook_880:880-basic-fill-P28-(2)",
+      "workbook_880:880-basic-fill-P31-(4)",
+      "workbook_880:880-basic-solution-P21-(9)-(I)",
+      "workbook_880:880-basic-solution-P21-(9)-(II)",
+      "workbook_880:880-basic-solution-P20-(1)-(II)",
+      "workbook_880:880-basic-solution-P20-(2)-(V)"
     ]
   },
   "backlog": [
-    "workbook_880:880-basic-solution-P29-(3)",
-    "workbook_880:880-basic-solution-P29-(4)",
-    "workbook_880:880-basic-solution-P29-(8)",
+    "workbook_660:660-228",
+    "workbook_660:660-226",
+    "workbook_660:660-214",
+    "workbook_660:660-212",
+    "workbook_660:660-10",
+    "workbook_660:660-4",
+    "workbook_660:660-128",
+    "workbook_660:660-168",
+    "workbook_660:660-97",
     "workbook_660:660-36",
     "workbook_660:660-76",
     "workbook_880:880-basic-choice-P17-(2)",
-    "workbook_880:880-basic-choice-P30-(4)",
-    "workbook_880:880-basic-choice-P30-(5)",
-    "workbook_880:880-basic-choice-P31-(9)",
-    "workbook_880:880-basic-fill-P28-(2)",
-    "workbook_880:880-basic-fill-P28-(6)",
-    "workbook_880:880-basic-fill-P31-(4)",
     "workbook_880:880-basic-fill-P9-(15)",
-    "workbook_880:880-basic-solution-P20-(4)-(VI)",
-    "workbook_880:880-basic-solution-P21-(11)",
-    "workbook_880:880-basic-solution-P21-(9)-(I)",
-    "workbook_880:880-basic-solution-P21-(9)-(II)",
-    "workbook_880:880-basic-solution-P32-(3)",
     "workbook_660:660-30",
     "workbook_660:660-33",
     "workbook_660:660-39",
     "workbook_660:660-49",
     "workbook_660:660-197",
     "workbook_660:660-201",
-    "workbook_880:880-basic-solution-P20-(1)-(II)",
-    "workbook_880:880-basic-solution-P20-(2)-(V)",
     "workbook_660:660-284",
     "workbook_880:880-basic-choice-P36-(5)",
     "workbook_880:880-basic-choice-P37-(6)",
