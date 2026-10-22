@@ -2951,7 +2951,10 @@
       "question_type": "解答题",
       "record_order": 197,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -2966,7 +2969,10 @@
       "question_type": "解答题",
       "record_order": 198,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -2981,7 +2987,10 @@
       "question_type": "解答题",
       "record_order": 199,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -2996,7 +3005,10 @@
       "question_type": "解答题",
       "record_order": 200,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -3011,7 +3023,10 @@
       "question_type": "解答题",
       "record_order": 201,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -3026,7 +3041,10 @@
       "question_type": "解答题",
       "record_order": 202,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -3041,7 +3059,10 @@
       "question_type": "选择题",
       "record_order": 203,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "B",
       "unit": "unit_unassigned",
       "mastery": 0.62,
@@ -3056,7 +3077,10 @@
       "question_type": "选择题",
       "record_order": 204,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -3071,7 +3095,10 @@
       "question_type": "选择题",
       "record_order": 205,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "unit": "unit_unassigned",
       "mastery": 0.28,
@@ -3086,7 +3113,10 @@
       "question_type": "选择题",
       "record_order": 206,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "B",
       "unit": "unit_unassigned",
       "mastery": 0.62,
@@ -4909,6 +4939,24 @@
       "mastery": 0.28,
       "performance_level": "不佳",
       "unit": "unit_unassigned"
+    },
+    {
+      "question_id": "880-basic-solution-P50-(7)",
+      "display_id": "P50-(7)",
+      "display_label": "基础题 · 解答题 · P50-(7)",
+      "page": 50,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 514,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_unassigned",
+      "mastery": 0.62,
+      "performance_level": "合格"
     }
   ],
   "records": [
@@ -13999,7 +14047,10 @@
       "question_type": "填空题",
       "record_order": 235,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "C",
       "source_label": "题册880",
       "assessment_basis": "self_report",
@@ -14009,9 +14060,15 @@
       "question_md": "### P37-(3)\\n微分方程 $y'-6\\frac{y}{x}+xy^2=0$（$y$ 不为常函数）的通解为\\underline{\\qquad}。",
       "correctness": 0.2,
       "thinking_quality": 0.4,
-      "missing_steps": ["用户补充标记：C级错题。"],
-      "error_tags": ["C级错题"],
-      "weakness_focus": ["重积分及其应用"],
+      "missing_steps": [
+        "用户补充标记：C级错题。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
       "student_answer_summary": "按用户补充标记：C级错题。",
       "mastery": 0.28,
       "performance_level": "不佳",
@@ -14030,7 +14087,10 @@
       "question_type": "解答题",
       "record_order": 236,
       "target_score_tier": "120以下",
-      "required_for_scores": ["120以下", "120+"],
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
       "error_level": "A",
       "source_label": "题册880",
       "assessment_basis": "self_report",
@@ -14040,28 +14100,529 @@
       "question_md": "### P37-(1)-(III)\\n设 $D$ 由 $y=x^2\\ (x\\ge0)$、$y=1$、$x=0$ 所围，求 $I=\\iint_D\\frac{xy}{\\sqrt{1+y^3}}\\,dxdy$。",
       "correctness": 0.65,
       "thinking_quality": 0.6,
-      "missing_steps": ["用户补充标记：A级错题。"],
-      "error_tags": ["A级错题"],
-      "weakness_focus": ["重积分及其应用"],
+      "missing_steps": [
+        "用户补充标记：A级错题。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "重积分及其应用"
+      ],
       "student_answer_summary": "按用户补充标记：A级错题。",
       "mastery": 0.49,
       "performance_level": "不佳",
       "difficulty_adjustment_suggestion": "down",
       "next_expected_target_score_tier": "120以下"
     },
-{"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","question_id":"880-basic-choice-P43-(1)","display_id":"P43-(1)","display_label":"基础题 · 选择题 · P43-(1)","page":43,"section":"基础题","question_type":"选择题","record_order":237,"target_score_tier":"120以下","required_for_scores":["120以下","120+"],"error_level":"A","source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"subquestion":null,"card_structure":"single","question_md":"### P43-(1)\n下列选项中（C为任意常数）是微分方程 dy/dx+x/y=0 的通解的是（ ）。A. x²+y²=C²；B. x²−y²=C²；C. x²+y²=C；D. x²−y²=C。","correctness":0.65,"thinking_quality":0.6,"missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["A级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：A级错题。","mastery":0.49,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","next_expected_target_score_tier":"120以下"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(3)","display_id":"P43-(3)","display_label":"基础题 · 选择题 · P43-(3)","page":43,"question_type":"选择题","record_order":238,"error_level":"A","correctness":0.65,"thinking_quality":0.6,"mastery":0.49,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["A级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：A级错题。","question_md":"### P43-(3)\\n微分方程 $y''+2y'-3y=e^{-x}+x$ 的一个特解形式为（ ）。A. $ae^{-x}+bx+c$；B. $axe^{-x}+x(bx+c)$；C. $axe^{-x}+bx+c$；D. $ae^x+x(bx+c)$。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(4)","display_id":"P43-(4)","display_label":"基础题 · 选择题 · P43-(4)","page":43,"question_type":"选择题","record_order":239,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(4)\n设 $y_1(x),y_2(x)$ 是 $y'+P(x)y=0$ 的两个不同特解，其中 $P(x)$ 在 $(-\\infty,+\\infty)$ 内连续，且 $P(x)$ 不恒为 0，则下列结论中错误的是（ ）。A. $y_1(x)-y_2(x)$ 为常数；B. $C[y_1(x)-y_2(x)]$ 是方程的通解；C. $y_1(x)-y_2(x)$ 在任一点不为 0；D. $\\frac{y_2(x)}{y_1(x)}$ 恒为常数（$y_1(x)\\ne0$）。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(5)","display_id":"P43-(5)","display_label":"基础题 · 选择题 · P43-(5)","page":43,"question_type":"选择题","record_order":240,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(5)\n设 $y_1(x),y_2(x),y_3(x)$ 是微分方程 $y''+p(x)y'+q(x)y=f(x)$ 的三个线性无关的解，$f(x)\\ne0$，则该方程的通解为（ ）。A. $C_1y_1(x)+C_2y_2(x)+y_3(x)$；B. $C_1y_1(x)+(1-2C_1)y_2(x)+C_1y_3(x)$；C. $(C_1-C_2)y_1(x)+C_2y_2(x)+y_3(x)$；D. $C_1y_1(x)+C_2y_2(x)+C_3y_3(x)(C_1+C_2+C_3=1)$。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(6)","display_id":"P43-(6)","display_label":"基础题 · 选择题 · P43-(6)","page":43,"question_type":"选择题","record_order":241,"error_level":"B","correctness":0.7,"thinking_quality":0.5,"mastery":0.62,"performance_level":"合格","difficulty_adjustment_suggestion":"keep","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["B级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：B级错题。","question_md":"### P43-(6)\n设 $y_1=e^{-x},y_2=2x$ 是常系数齐次线性微分方程 $y'''+ay''+by'+cy=0$ 的两个解，则该方程的通解是（ ）。A. $C_1e^{-x}+C_2+C_3x$；B. $C_1e^{-x}+C_2e^x+C_3x$；C. $C_1e^{-x}+C_2e^x+C_3$；D. $C_1e^{-x}+C_2xe^x+C_3$。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-choice-P43-(7)","display_id":"P43-(7)","display_label":"基础题 · 选择题 · P43-(7)","page":43,"question_type":"选择题","record_order":242,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(7)\n设 $f(x)$ 在 $[0,+\\infty)$ 上可导，$\\lim_{x\\to+\\infty}f(x)=b$（$b\\ne0$），$y(x)$ 为方程 $y'+ay=f(x)$（$a>0$）的任一解，则 $y=y(x)$ 有水平渐近线（ ）。A. $y=ab$；B. $y=-ab$；C. $y=\\frac ba$；D. $y=\\frac ab$。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-fill-P43-(2)","display_id":"P43-(2)","display_label":"基础题 · 填空题 · P43-(2)","page":43,"question_type":"填空题","record_order":243,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(2)\n$y'=\\frac yx+\\tan\\frac yx$ 满足 $y(1)=\\frac\\pi6$ 的特解为\\underline{\\qquad}。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-fill-P43-(3)","display_id":"P43-(3)","display_label":"基础题 · 填空题 · P43-(3)","page":43,"question_type":"填空题","record_order":244,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(3)\n微分方程 $y'-6\\frac yx+xy^2=0$（$y$ 不为常函数）的通解为\\underline{\\qquad}。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-fill-P43-(4)","display_id":"P43-(4)","display_label":"基础题 · 填空题 · P43-(4)","page":43,"question_type":"填空题","record_order":245,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P43-(4)\n微分方程 $(1+e^{x/y})dx+e^{x/y}(1-\\frac xy)dy=0$（$y>0$）的通解为\\underline{\\qquad}。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(1)","display_id":"P44-(1)","display_label":"基础题 · 解答题 · P44-(1)","page":44,"question_type":"解答题","record_order":246,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P44-(1)\n求 $x^2y''-(y')^2=0$ 过点 $P(1,0)$，且在点 $P$ 与 $y=x-1$ 相切的积分曲线。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(2)","display_id":"P44-(2)","display_label":"基础题 · 解答题 · P44-(2)","page":44,"question_type":"解答题","record_order":247,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P44-(2)\n求微分方程 $(x\\cos y+\\cos x)\\frac{dy}{dx}-y\\sin x+\\sin y=0$ 的通解。"},
-    {"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(6)","display_id":"P44-(6)","display_label":"基础题 · 解答题 · P44-(6)","page":44,"question_type":"解答题","record_order":248,"error_level":"C","correctness":0.2,"thinking_quality":0.4,"mastery":0.28,"performance_level":"不佳","difficulty_adjustment_suggestion":"down","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["C级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：C级错题。","question_md":"### P44-(6)\n求微分方程 $y'''-y'=0$ 的一条积分曲线，使此积分曲线在原点处有拐点，且以直线 $y=2x$ 为切线。"},
-{"timestamp":"2026-09-17T08:22:23Z","unit":"workbook_880","curriculum_unit":"unit_unassigned","section":"基础题","target_score_tier":"120以下","required_for_scores":["120以下","120+"],"source_label":"题册880","assessment_basis":"image_annotation","parent_display_id":null,"card_structure":"single","next_expected_target_score_tier":"120以下","question_id":"880-basic-solution-P44-(9)","display_id":"P44-(9)","display_label":"基础题 · 解答题 · P44-(9)","page":44,"question_type":"解答题","record_order":249,"error_level":"B","correctness":0.7,"thinking_quality":0.5,"mastery":0.62,"performance_level":"合格","difficulty_adjustment_suggestion":"keep","missing_steps":["依据图片手写分级记录，未提供详细错因。"],"error_tags":["B级错题"],"weakness_focus":["微分方程及其应用"],"student_answer_summary":"按图片标注：B级错题。","question_md":"### P44-(9)\n设 $L$ 是一条平面曲线，其上任意一点 $P(x,y)$（$x>0$）到原点的距离恒等于该点处的切线在 $y$ 轴上的截距，且 $L$ 过点 $(\\frac12,0)$，求：（I）曲线 $L$ 的方程；（II）$L$ 位于第一象限部分的一条切线，使该切线与 $L$ 以及两坐标轴所围成的面积最小。"},
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-choice-P43-(1)",
+      "display_id": "P43-(1)",
+      "display_label": "基础题 · 选择题 · P43-(1)",
+      "page": 43,
+      "section": "基础题",
+      "question_type": "选择题",
+      "record_order": 237,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "A",
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": "single",
+      "question_md": "### P43-(1)\n下列选项中（C为任意常数）是微分方程 dy/dx+x/y=0 的通解的是（ ）。A. x²+y²=C²；B. x²−y²=C²；C. x²+y²=C；D. x²−y²=C。",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "next_expected_target_score_tier": "120以下"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-choice-P43-(3)",
+      "display_id": "P43-(3)",
+      "display_label": "基础题 · 选择题 · P43-(3)",
+      "page": 43,
+      "question_type": "选择题",
+      "record_order": 238,
+      "error_level": "A",
+      "correctness": 0.65,
+      "thinking_quality": 0.6,
+      "mastery": 0.49,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "A级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：A级错题。",
+      "question_md": "### P43-(3)\\n微分方程 $y''+2y'-3y=e^{-x}+x$ 的一个特解形式为（ ）。A. $ae^{-x}+bx+c$；B. $axe^{-x}+x(bx+c)$；C. $axe^{-x}+bx+c$；D. $ae^x+x(bx+c)$。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-choice-P43-(4)",
+      "display_id": "P43-(4)",
+      "display_label": "基础题 · 选择题 · P43-(4)",
+      "page": 43,
+      "question_type": "选择题",
+      "record_order": 239,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P43-(4)\n设 $y_1(x),y_2(x)$ 是 $y'+P(x)y=0$ 的两个不同特解，其中 $P(x)$ 在 $(-\\infty,+\\infty)$ 内连续，且 $P(x)$ 不恒为 0，则下列结论中错误的是（ ）。A. $y_1(x)-y_2(x)$ 为常数；B. $C[y_1(x)-y_2(x)]$ 是方程的通解；C. $y_1(x)-y_2(x)$ 在任一点不为 0；D. $\\frac{y_2(x)}{y_1(x)}$ 恒为常数（$y_1(x)\\ne0$）。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-choice-P43-(5)",
+      "display_id": "P43-(5)",
+      "display_label": "基础题 · 选择题 · P43-(5)",
+      "page": 43,
+      "question_type": "选择题",
+      "record_order": 240,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P43-(5)\n设 $y_1(x),y_2(x),y_3(x)$ 是微分方程 $y''+p(x)y'+q(x)y=f(x)$ 的三个线性无关的解，$f(x)\\ne0$，则该方程的通解为（ ）。A. $C_1y_1(x)+C_2y_2(x)+y_3(x)$；B. $C_1y_1(x)+(1-2C_1)y_2(x)+C_1y_3(x)$；C. $(C_1-C_2)y_1(x)+C_2y_2(x)+y_3(x)$；D. $C_1y_1(x)+C_2y_2(x)+C_3y_3(x)(C_1+C_2+C_3=1)$。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-choice-P43-(6)",
+      "display_id": "P43-(6)",
+      "display_label": "基础题 · 选择题 · P43-(6)",
+      "page": 43,
+      "question_type": "选择题",
+      "record_order": 241,
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "question_md": "### P43-(6)\n设 $y_1=e^{-x},y_2=2x$ 是常系数齐次线性微分方程 $y'''+ay''+by'+cy=0$ 的两个解，则该方程的通解是（ ）。A. $C_1e^{-x}+C_2+C_3x$；B. $C_1e^{-x}+C_2e^x+C_3x$；C. $C_1e^{-x}+C_2e^x+C_3$；D. $C_1e^{-x}+C_2xe^x+C_3$。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-choice-P43-(7)",
+      "display_id": "P43-(7)",
+      "display_label": "基础题 · 选择题 · P43-(7)",
+      "page": 43,
+      "question_type": "选择题",
+      "record_order": 242,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P43-(7)\n设 $f(x)$ 在 $[0,+\\infty)$ 上可导，$\\lim_{x\\to+\\infty}f(x)=b$（$b\\ne0$），$y(x)$ 为方程 $y'+ay=f(x)$（$a>0$）的任一解，则 $y=y(x)$ 有水平渐近线（ ）。A. $y=ab$；B. $y=-ab$；C. $y=\\frac ba$；D. $y=\\frac ab$。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-fill-P43-(2)",
+      "display_id": "P43-(2)",
+      "display_label": "基础题 · 填空题 · P43-(2)",
+      "page": 43,
+      "question_type": "填空题",
+      "record_order": 243,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P43-(2)\n$y'=\\frac yx+\\tan\\frac yx$ 满足 $y(1)=\\frac\\pi6$ 的特解为\\underline{\\qquad}。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-fill-P43-(3)",
+      "display_id": "P43-(3)",
+      "display_label": "基础题 · 填空题 · P43-(3)",
+      "page": 43,
+      "question_type": "填空题",
+      "record_order": 244,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P43-(3)\n微分方程 $y'-6\\frac yx+xy^2=0$（$y$ 不为常函数）的通解为\\underline{\\qquad}。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-fill-P43-(4)",
+      "display_id": "P43-(4)",
+      "display_label": "基础题 · 填空题 · P43-(4)",
+      "page": 43,
+      "question_type": "填空题",
+      "record_order": 245,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P43-(4)\n微分方程 $(1+e^{x/y})dx+e^{x/y}(1-\\frac xy)dy=0$（$y>0$）的通解为\\underline{\\qquad}。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-solution-P44-(1)",
+      "display_id": "P44-(1)",
+      "display_label": "基础题 · 解答题 · P44-(1)",
+      "page": 44,
+      "question_type": "解答题",
+      "record_order": 246,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P44-(1)\n求 $x^2y''-(y')^2=0$ 过点 $P(1,0)$，且在点 $P$ 与 $y=x-1$ 相切的积分曲线。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-solution-P44-(2)",
+      "display_id": "P44-(2)",
+      "display_label": "基础题 · 解答题 · P44-(2)",
+      "page": 44,
+      "question_type": "解答题",
+      "record_order": 247,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P44-(2)\n求微分方程 $(x\\cos y+\\cos x)\\frac{dy}{dx}-y\\sin x+\\sin y=0$ 的通解。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-solution-P44-(6)",
+      "display_id": "P44-(6)",
+      "display_label": "基础题 · 解答题 · P44-(6)",
+      "page": 44,
+      "question_type": "解答题",
+      "record_order": 248,
+      "error_level": "C",
+      "correctness": 0.2,
+      "thinking_quality": 0.4,
+      "mastery": 0.28,
+      "performance_level": "不佳",
+      "difficulty_adjustment_suggestion": "down",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "C级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：C级错题。",
+      "question_md": "### P44-(6)\n求微分方程 $y'''-y'=0$ 的一条积分曲线，使此积分曲线在原点处有拐点，且以直线 $y=2x$ 为切线。"
+    },
+    {
+      "timestamp": "2026-09-17T08:22:23Z",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "section": "基础题",
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "source_label": "题册880",
+      "assessment_basis": "image_annotation",
+      "parent_display_id": null,
+      "card_structure": "single",
+      "next_expected_target_score_tier": "120以下",
+      "question_id": "880-basic-solution-P44-(9)",
+      "display_id": "P44-(9)",
+      "display_label": "基础题 · 解答题 · P44-(9)",
+      "page": 44,
+      "question_type": "解答题",
+      "record_order": 249,
+      "error_level": "B",
+      "correctness": 0.7,
+      "thinking_quality": 0.5,
+      "mastery": 0.62,
+      "performance_level": "合格",
+      "difficulty_adjustment_suggestion": "keep",
+      "missing_steps": [
+        "依据图片手写分级记录，未提供详细错因。"
+      ],
+      "error_tags": [
+        "B级错题"
+      ],
+      "weakness_focus": [
+        "微分方程及其应用"
+      ],
+      "student_answer_summary": "按图片标注：B级错题。",
+      "question_md": "### P44-(9)\n设 $L$ 是一条平面曲线，其上任意一点 $P(x,y)$（$x>0$）到原点的距离恒等于该点处的切线在 $y$ 轴上的截距，且 $L$ 过点 $(\\frac12,0)$，求：（I）曲线 $L$ 的方程；（II）$L$ 位于第一象限部分的一条切线，使该切线与 $L$ 以及两坐标轴所围成的面积最小。"
+    },
     {
       "timestamp": "2026-10-08T04:19:11+00:00",
       "unit": "workbook_880",
@@ -15511,6 +16072,29 @@
       "thinking_quality": 0.4,
       "mastery": 0.28,
       "performance_level": "不佳"
+    },
+    {
+      "timestamp": "2026-10-22T11:55:21+08:00",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P50-(7)",
+      "display_id": "P50-(7)",
+      "display_label": "基础题 · 解答题 · P50-(7)",
+      "page": 50,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 514,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "pending_index",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": null
     }
   ],
   "maintenance_policy": "append_only_active",
