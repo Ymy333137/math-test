@@ -4959,6 +4959,24 @@
       "performance_level": "合格"
     },
     {
+      "question_id": "880-basic-solution-P50-(9)",
+      "display_id": "P50-(9)",
+      "display_label": "基础题 · 解答题 · P50-(9)",
+      "page": 50,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 515,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "unit": "unit_unassigned",
+      "mastery": 0.62,
+      "performance_level": "合格"
+    },
+    {
       "question_id": "880-basic-fill-P55-(3)",
       "display_id": "P55-(3)",
       "display_label": "基础题 · 填空题 · P55-(3)",
@@ -16444,6 +16462,29 @@
       "section": "基础题",
       "question_type": "解答题",
       "record_order": 514,
+      "target_score_tier": "120以下",
+      "required_for_scores": [
+        "120以下",
+        "120+"
+      ],
+      "error_level": "B",
+      "source_label": "题册880",
+      "assessment_basis": "pending_index",
+      "parent_display_id": null,
+      "subquestion": null,
+      "card_structure": null
+    },
+    {
+      "timestamp": "2026-10-22T12:47:21+08:00",
+      "unit": "workbook_880",
+      "curriculum_unit": "unit_unassigned",
+      "question_id": "880-basic-solution-P50-(9)",
+      "display_id": "P50-(9)",
+      "display_label": "基础题 · 解答题 · P50-(9)",
+      "page": 50,
+      "section": "基础题",
+      "question_type": "解答题",
+      "record_order": 515,
       "target_score_tier": "120以下",
       "required_for_scores": [
         "120以下",
